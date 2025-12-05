@@ -1,0 +1,302 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Child, Youth and Family",
+      "subcategories": [
+        {"name": "Child welfare", "start_page": 2},
+        {"name": "Daycare and respite", "start_page": 12},
+        {"name": "Family Support", "start_page": 36},
+        {"name": "Information on childcare services", "start_page": 96},
+        {"name": "Juvenile Delinquency", "start_page": 98},
+        {"name": "Maternity support and adoption", "start_page": 110},
+        {"name": "Parenting Education", "start_page": 142},
+        {"name": "Recreational Activities", "start_page": 176},
+        {"name": "Youth Centres and Support", "start_page": 238},
+        {"name": "Youth Employment", "start_page": 289},
+        {"name": "Youth Shelters and Support", "start_page": 312}
+      ]
+    },
+
+    {
+      "category_id": 2,
+      "category_name": "Community Action",
+      "subcategories": [
+        {"name": "Advisory and citizen action organizations", "start_page": 329},
+        {"name": "Charity Organizations", "start_page": 386},
+        {"name": "Community centres", "start_page": 394},
+        {"name": "Community development", "start_page": 415},
+        {"name": "Information and referral", "start_page": 442},
+        {"name": "Skills Exchanges", "start_page": 469},
+        {"name": "Volunteering and volunteer centres", "start_page": 469}
+      ]
+    },
+
+    {
+      "category_id": 3,
+      "category_name": "Disability",
+      "subcategories": [
+        {"name": "Adapted work and employability support", "start_page": 502},
+        {"name": "Advocacy for people with a physical disability", "start_page": 527},
+        {"name": "Advocacy for people with an intellectual disability", "start_page": 544},
+        {"name": "Deaf and hearing impaired", "start_page": 550},
+        {"name": "Language disorders", "start_page": 561},
+        {"name": "Mobility aids", "start_page": 565},
+        {"name": "Paratransit", "start_page": 572},
+        {"name": "Recreation and camps", "start_page": 573},
+        {"name": "Respite services and housing", "start_page": 601},
+        {"name": "Support Associations", "start_page": 609},
+        {"name": "Support and integration organizations", "start_page": 678},
+        {"name": "The Blind", "start_page": 689},
+        {"name": "Therapy and rehabilitation centres", "start_page": 698}
+      ]
+    },
+
+    {
+      "category_id": 4,
+      "category_name": "Education and Literacy",
+      "subcategories": [
+        {"name": "Academic and vocational guidance", "start_page": 712},
+        {"name": "Associations and Federations", "start_page": 725},
+        {"name": "Computer workshops", "start_page": 728},
+        {"name": "Difficulties and learning disabilities", "start_page": 757},
+        {"name": "Homework assistance and tutoring", "start_page": 764},
+        {"name": "Language courses", "start_page": 794},
+        {"name": "Literacy", "start_page": 831},
+        {"name": "Public education", "start_page": 856},
+        {"name": "School perseverance", "start_page": 879},
+        {"name": "School service centers", "start_page": 896}
+      ]
+    },
+
+    {
+      "category_id": 5,
+      "category_name": "Employment and Income Support",
+      "subcategories": [
+        {"name": "Advocacy for workers and unemployed", "start_page": 900},
+        {"name": "Budget management and consumption", "start_page": 915},
+        {"name": "Business development", "start_page": 941},
+        {"name": "Employment support and training", "start_page": 956},
+        {"name": "Employment support for immigrants", "start_page": 987},
+        {"name": "Employment support for seniors", "start_page": 1014},
+        {"name": "Employment support for women", "start_page": 1016},
+        {"name": "Employment support for youth", "start_page": 1021},
+        {"name": "Tax clinics", "start_page": 1044},
+        {"name": "Vocational rehabilitation and disability-related employment", "start_page": 1049}
+      ]
+    },
+
+    {
+      "category_id": 6,
+      "category_name": "Food",
+      "subcategories": [
+        {"name": "Christmas basket", "start_page": 1089},
+        {"name": "Collective kitchens and cooking workshops", "start_page": 1113},
+        {"name": "Community gardens and markets", "start_page": 1135},
+        {"name": "Food Assistance", "start_page": 1154},
+        {"name": "Food aid for pregnant women and children", "start_page": 1208},
+        {"name": "Food assistance coordination", "start_page": 1215},
+        {"name": "Food assistance in schools", "start_page": 1243},
+        {"name": "Low cost or free meals", "start_page": 1247},
+        {"name": "Prepared meals and Meals-on-wheels", "start_page": 1289}
+      ]
+    },
+
+    {
+      "category_id": 7,
+      "category_name": "Government services",
+      "subcategories": [
+        {"name": "Deputies", "start_page": 1310},
+        {"name": "Federal services", "start_page": 1310},
+        {"name": "Income statements", "start_page": 1317},
+        {"name": "Municipal services", "start_page": 1327},
+        {"name": "Official documents", "start_page": 1354},
+        {"name": "Provincial services", "start_page": 1384}
+      ]
+    },
+
+    {
+      "category_id": 8,
+      "category_name": "Health",
+      "subcategories": [
+        {"name": "Dental care", "start_page": 1404},
+        {"name": "Emergency", "start_page": 1408},
+        {"name": "Eye care", "start_page": 1408},
+        {"name": "Family planning", "start_page": 1415},
+        {"name": "Funeral cooperatives", "start_page": 1433},
+        {"name": "Home care", "start_page": 1434},
+        {"name": "Palliative care", "start_page": 1435},
+        {"name": "Patient support associations", "start_page": 1441},
+        {"name": "Public Health", "start_page": 1481}
+      ]
+    },
+
+    {
+      "category_id": 9,
+      "category_name": "Homelessness",
+      "subcategories": [
+        {"name": "Advocacy", "start_page": 1527},
+        {"name": "Day and evening centres", "start_page": 1530},
+        {"name": "Health care", "start_page": 1559},
+        {"name": "Housing for pregnant women and families", "start_page": 1567},
+        {"name": "Mobile units and street work", "start_page": 1569},
+        {"name": "Shelters", "start_page": 1584},
+        {"name": "Supportive housing", "start_page": 1595},
+        {"name": "Transitional housing", "start_page": 1607},
+        {"name": "Youth shelters", "start_page": 1632}
+      ]
+    },
+
+    {
+      "category_id": 10,
+      "category_name": "Housing",
+      "subcategories": [
+        {"name": "Advocacy for housing", "start_page": 1635},
+        {"name": "Emergency", "start_page": 1649},
+        {"name": "Housing cooperatives and corporations", "start_page": 1660},
+        {"name": "Housing search assistance", "start_page": 1680},
+        {"name": "Social housing and housing cooperatives", "start_page": 1706}
+      ]
+    },
+
+    {
+      "category_id": 11,
+      "category_name": "Immigration and cultural communities",
+      "subcategories": [
+        {"name": "French courses", "start_page": 1714},
+        {"name": "Immigration and sponsorship", "start_page": 1737},
+        {"name": "Interpretation and translation", "start_page": 1751},
+        {"name": "Multicultural organizations", "start_page": 1765},
+        {"name": "Prevention and fight against racism", "start_page": 1790},
+        {"name": "Recognition of prior learning and diplomas", "start_page": 1796},
+        {"name": "Settlement services for newcomers", "start_page": 1801}
+      ]
+    },
+
+    {
+      "category_id": 12,
+      "category_name": "Indigenous Peoples",
+      "subcategories": [
+        {"name": "Community Support", "start_page": 1870},
+        {"name": "Employment", "start_page": 1874},
+        {"name": "Government services", "start_page": 1882},
+        {"name": "Health and social services", "start_page": 1889},
+        {"name": "Housing", "start_page": 1890}
+      ]
+    },
+
+    {
+      "category_id": 13,
+      "category_name": "Justice and Advocacy",
+      "subcategories": [
+        {"name": "Advocacy groups", "start_page": 1895},
+        {"name": "Consumer protection and complaints", "start_page": 1980},
+        {"name": "Correctional services", "start_page": 2006},
+        {"name": "Courthouses and tribunals", "start_page": 2012},
+        {"name": "Legal assistance and information", "start_page": 2016},
+        {"name": "Professional orders and associations", "start_page": 2068},
+        {"name": "Support for offenders", "start_page": 2090}
+      ]
+    },
+
+    {
+      "category_id": 14,
+      "category_name": "Mental Health and addictions",
+      "subcategories": [
+        {"name": "Addiction prevention", "start_page": 2109},
+        {"name": "Addiction treatment", "start_page": 2125},
+        {"name": "Community support in mental health", "start_page": 2156},
+        {"name": "Crisis centres and suicide prevention", "start_page": 2192},
+        {"name": "Helplines", "start_page": 2198},
+        {"name": "Mental health advocacy groups", "start_page": 2213},
+        {"name": "Mental health housing", "start_page": 2226},
+        {"name": "Psychiatric services", "start_page": 2236},
+        {"name": "Self-help groups for addiction issues", "start_page": 2238},
+        {"name": "Self-help groups for mental health issues", "start_page": 2245}
+      ]
+    },
+
+    {
+      "category_id": 15,
+      "category_name": "Seniors",
+      "subcategories": [
+        {"name": "Caregivers", "start_page": 2252},
+        {"name": "Community and Recreation Centres", "start_page": 2264},
+        {"name": "Day centres and respite", "start_page": 2306},
+        {"name": "Friendly visits and safety calls", "start_page": 2314},
+        {"name": "Home support", "start_page": 2344},
+        {"name": "Housing for seniors", "start_page": 2376},
+        {"name": "Intergenerational activities", "start_page": 2407},
+        {"name": "Intervention with seniors subjected to abuse", "start_page": 2413},
+        {"name": "Meals on Wheels", "start_page": 2420},
+        {"name": "Seniors' Advocacy and Assistance Associations", "start_page": 2433},
+        {"name": "Volunteer Transportation", "start_page": 2450}
+      ]
+    },
+
+    {
+      "category_id": 16,
+      "category_name": "Sex and gender",
+      "subcategories": [
+        {"name": "LGBTQ associations", "start_page": 2462},
+        {"name": "Men’s associations", "start_page": 2474},
+        {"name": "Women's centres", "start_page": 2476},
+        {"name": "Women’s associations", "start_page": 2490}
+      ]
+    },
+
+    {
+      "category_id": 17,
+      "category_name": "Sports, Recreation and Culture",
+      "subcategories": [
+        {"name": "Arts and culture", "start_page": 2508},
+        {"name": "Clubs and social events", "start_page": 2541},
+        {"name": "Community recreation centres", "start_page": 2585},
+        {"name": "Day camps and specialized camps", "start_page": 2644},
+        {"name": "Hobbies", "start_page": 2678},
+        {"name": "Libraries", "start_page": 2757},
+        {"name": "Municipal sports and recreation services", "start_page": 2776},
+        {"name": "Sport", "start_page": 2776},
+        {"name": "Sports and recreation for people with a disability", "start_page": 0}
+      ]
+    },
+
+    {
+      "category_id": 18,
+      "category_name": "Thrift store and material aid",
+      "subcategories": [
+        {"name": "Clothing", "start_page": 2824},
+        {"name": "Donation pick-ups", "start_page": 2839},
+        {"name": "School supplies", "start_page": 2846},
+        {"name": "Thrift Stores", "start_page": 2859}
+      ]
+    },
+
+    {
+      "category_id": 19,
+      "category_name": "Transportation",
+      "subcategories": [
+        {"name": "Accompanied transport", "start_page": 2883},
+        {"name": "Accompanied transport for medical reasons", "start_page": 2893},
+        {"name": "Paratransit", "start_page": 2898},
+        {"name": "Public Transportation", "start_page": 2899}
+      ]
+    },
+
+    {
+      "category_id": 20,
+      "category_name": "Violence and abuse",
+      "subcategories": [
+        {"name": "Child abuse", "start_page": 2904},
+        {"name": "Domestic violence: shelters and support", "start_page": 2911},
+        {"name": "Elder abuse", "start_page": 2924},
+        {"name": "Help lines related to violence and abuse", "start_page": 2930},
+        {"name": "Prevention of violence and crime", "start_page": 2932},
+        {"name": "Sexual assault and incest", "start_page": 2956},
+        {"name": "Support for perpetrators of violence and their families", "start_page": 2967},
+        {"name": "Support for victims and their families", "start_page": 2973},
+        {"name": "Therapy and counselling", "start_page": 2990}
+      ]
+    }
+  ]
+}
