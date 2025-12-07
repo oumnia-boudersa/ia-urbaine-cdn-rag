@@ -1,0 +1,90 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "description": "Ancienne immigrée âgée dans Côte-des-Neiges, membre de la communauté philippine. Barrière linguistique et culturelle, ne parle pas couramment l'anglais ou le français. Difficulté à naviguer l'environnement numérique, l'accès à l'information en ligne, à communiquer avec les services publics ou à rencontrer de nouvelles personnes hors de sa communauté.",
+      "needs": ["Immigration and cultural communities", "Community Action", "Education and Literacy"]
+    },
+    {
+      "id": 2,
+      "name": "Ahmed",
+      "description": "Originaire d’un pays lointain, immigré vivant à Côte-des-Neiges. N’a pas de connexion Internet stable à domicile pour des raisons financières. Se rend régulièrement dans des points Wi-Fi gratuits du quartier. Connexion parfois instable.",
+      "needs": ["Transportation", "Community Action", "Education and Literacy"]
+    },
+    {
+      "id": 3,
+      "name": "Jean-Pierre",
+      "description": "Résident de Côte-des-Neiges, a travaillé dans des métiers manuels toute sa vie. A du mal avec l’ordinateur et les compétences numériques. Difficulté à chercher des clients ou gérer ses finances en ligne. Se sent dépassé et socialement exclu par le manque de compétences numériques.",
+      "needs": ["Education and Literacy", "Employment and Income Support", "Community Action"]
+
+    },
+
+    {
+      "id": 4,
+      "name": "Irina",
+      "description": "Mère russe, récemment arrivée seule avec deux enfants. A perdu son emploi, situation financière précaire. Hésite à demander de l’aide des services sociaux/community. Veut trouver des ressources par elle-même pour assurer nourriture, logement, soutien pour ses enfants.",
+      "needs": ["Child, Youth and Family", "Food", "Housing", "Community Action"]
+    },
+    {
+      "id": 5,
+      "name": "Roberto",
+      "description": "Conseiller à l’emploi dans un organisme communautaire. Travaille avec des clients qui cherchent un emploi mais ont aussi des besoins essentiels (logement, nourriture). Difficulté à trouver des ressources fiables dans le quartier, surtout pour personnes ne maîtrisant pas le français ou l’anglais.",
+      "needs": ["Employment and Income Support", "Community Action", "Immigration and cultural communities"]
+    },
+    {
+      "id": 6,
+      "name": "Carole (parent monoparental)",
+      "description": "Mère seule de deux enfants, travaille à temps partiel. Utilise l’aide alimentaire d’une cafétéria communautaire pour subvenir aux besoins. Difficile de concilier travail et responsabilités familiales. Se sent frustrée et parfois inefficace.",
+      "needs": ["Child, Youth and Family", "Food", "Employment and Income Support", "Community Action"]
+    },
+    {
+      "id": 7,
+      "name": "Ivan",
+      "description": "Demandeur d’asile ukrainien, ne parle ni français ni anglais. Diplômé universitaire. Sans revenus, soutenu par plusieurs organismes communautaires pour besoins essentiels (nourriture, logement, soutien). Vécu d’anxiété, isolement, stress lié à sa situation et à la guerre dans son pays d’origine.",
+      "needs": ["Food", "Housing", "Mental Health and addictions", "Immigration and cultural communities"]
+    },
+    {
+      "id": 8,
+      "name": "Joseph",
+      "description": "Intervenant social à Multicaf, parlant français, anglais et espagnol. Travaille avec populations précaires. Cherche des formations linguistiques ou des outils de traduction pour mieux communiquer avec ses bénéficiaires et subvenir aux besoins de services plus adaptés.",
+      "needs": ["Education and Literacy", "Immigration and cultural communities", "Community Action"]
+    },
+    {
+      "id": 9,
+      "name": "Sam",
+      "description": "Employé d’une institution à Côte-des-Neiges. Propose d’utiliser des terrains pour organiser des activités d’agriculture urbaine avec un organisme du quartier. A du mal à recruter des bénévoles, recherche plus d’engagement communautaire.",
+      "needs": ["Community Action", "Sports, Recreation and Culture", "Volunteering"]
+    },
+    {
+      "id": 10,
+      "name": "Carole (travailleuse sociale)",
+      "description": "Travaille au Centre de pédiatrie sociale Atlas. Accompagne famille réfugiée d’Afghanistan qui a été refusée d’un centre-banque alimentaire. Ne sait plus où les diriger pour les aider, hésite à les envoyer à Multicaf (services sursollicités).",
+      "needs": ["Food", "Community Action", "Immigration and cultural communities"]
+    },
+    {
+      "id": 11,
+      "name": "Paul",
+      "description": "76 ans, locataire d’un 3 1/2 depuis 30 ans, vit pension modeste, propriétaire souhaite récupérer logement pour rénovation, se retrouve sans logement. Peu habitué à Internet et à la recherche en ligne.",
+      "needs": ["Housing", "Seniors", "Community Action"]
+    },
+    {
+      "id": 12,
+      "name": "Maria (nouvelle réfugiée)",
+      "description": "Réfugiée colombienne avec son fils, a vécu en refuge, recherche logement stable, a accepté un logement trop cher mais insalubre. Ne connaît pas ses droits, hésite à réclamer recours. Parle espagnol couramment, anglais partiellement, sans accès stable à internet.",
+      "needs": ["Housing", "Justice and Advocacy", "Food", "Immigration and cultural communities"]
+    },
+    {
+      "id": 13,
+      "name": "Juan & Gloria (famille avec enfants)",
+      "description": "Parents de jumeaux de 9 ans, vivent près de l’école. Traversée dangereuse à pied pour l’école, anxiété pour la sécurité des enfants en absence de feu de signalisation, besoin de transport ou soutien pour sécurité des trajets.",
+      "needs": ["Child, Youth and Family", "Transportation", "Community Action"]
+    },
+    {
+      "id": 14,
+      "name": "Mei",
+      "description": "Arrivée de Chine il y a deux ans, travaille dans une zone industrielle à l’ouest de l’île. Dépend des transports en commun, trajet long, retards fréquents, conditions de travail instables. Envisage l’achat d’une auto, mais budget très serré.",
+      "needs": ["Transportation", "Employment and Income Support", "Housing", "Immigration and cultural communities"]
+    }
+  ]
+}
