@@ -17,7 +17,7 @@ ALL_LINKS = [
     "https://macommunaute.ca/bottin-des-organismes/?mc_regions=cote-des-neiges-notre-dame-de-grace&mc_thematiques=aide-ecoute"
 ]
 
-LINKS_ = [
+LINKS = [
     "https://macommunaute.ca/bottin-des-organismes/?mc_regions=cote-des-neiges-notre-dame-de-grace&mc_thematiques=sports-loisirs",
     "https://macommunaute.ca/bottin-des-organismes/?mc_regions=cote-des-neiges-notre-dame-de-grace&mc_thematiques=sante",
     "https://macommunaute.ca/bottin-des-organismes/?mc_regions=cote-des-neiges-notre-dame-de-grace&mc_thematiques=retraite",
@@ -29,9 +29,7 @@ LINKS_ = [
     "https://macommunaute.ca/bottin-des-organismes/?mc_regions=cote-des-neiges-notre-dame-de-grace&mc_thematiques=aide-ecoute",
     "https://macommunaute.ca/bottin-des-organismes/?mc_regions=cote-des-neiges-notre-dame-de-grace&mc_thematiques=communautes-culturelles-nouveaux-arrivants",
     "https://macommunaute.ca/bottin-des-organismes/?mc_regions=cote-des-neiges-notre-dame-de-grace&mc_thematiques=famille",
-]
-LINKS = ["https://macommunaute.ca/bottin-des-organismes/?mc_regions=cote-des-neiges-notre-dame-de-grace&mc_thematiques=alimentation"]
-    
+]    
 
 
 OUTPUT_DIR = "data/raw/macommunaute"
