@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ymcaduquebec/
-Website: http://www.ymcaquebec.org/
+===== Organisation 1: Les YMCA du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/ymcaduquebec/
+Site internet: http://www.ymcaquebec.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 1435 Rue Drummond,
 Montréal QC H3G 1W3
@@ -55,11 +55,11 @@ Les YMCA du Québec sont un organisme de bienfaisance dont la mission est de bâ
 Description
 Les YMCA du Québec sont un organisme de bienfaisance qui a pour mission de bâtir des communautés plus fortes en offrant des occasions d’épanouissement et de vie active, saine et engagée pour tous. Ses dix centres YMCA, son École internationale de langues, son École de ski, sa Résidence, son Camp YMCA Kanawana et ses 43 points de service à l’échelle de la province, sont fréquentés chaque année par plus de 130 000 personnes. Le premier YMCA d’Amérique du Nord a vu le jour à Montréal en novembre 1851. Les YMCA du Québec font partie d’un réseau canadien qui compte 50 associations YMCA. Pour de plus amples informations, visitez notre site Internet www.ymcaquebec.org, nos pages Facebook facebook.com/ymcaquebec ou Twitter twitter.com/YMCAQuebec.
 
-===== Organisation 2 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairedeloisirdelacotedesneiges/
-Website: http://www.cclcdn.qc.ca/
+===== Organisation 2: Centre communautaire de loisir de la Côte-des-Neiges - Celo =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairedeloisirdelacotedesneiges/
+Site internet: http://www.cclcdn.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5347, chemin de la Côte-des-Neiges,
 Montréal QC H3T 1Y4
@@ -78,11 +78,11 @@ La Ville de Montréal est étroitement associée à la fondation du Centre. Elle
 Nos principales réalisations
 À travers les années, le Centre a affirmé avec force le loisir comme outil d’intégration sociale, comme agent de prévention du décrochage social et de maintient de la santé physique et mentale. Depuis sa fondation, il a rejoint un nombre considérable de personnes. Maintenant, dans l’équipe d’animation du Centre, on trouve des jeunes qui ont fréquenté nos activités depuis leurs 4-5 ans. Ces jeunes ont pu développer leurs connaissances, leur “leadership” et se sont intégrés à la vie communautaire.
 
-===== Organisation 3 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairemountainsights/
-Website: https://ccmountainsights.org/
+===== Organisation 3: Centre Communautaire Mountain Sights - CCMS =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairemountainsights/
+Site internet: https://ccmountainsights.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7802, avenue Mountain Sights,
 Montréal QC H4P 2B2
@@ -115,11 +115,11 @@ Cliniques de santé
 Camp de jour dans le parc de La Savane (l’été)
 Groupe d’adolescents
 
-===== Organisation 4 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrepourpersonnesageesespoirnouveau/
-Website: https://newhopendg.com/
+===== Organisation 4: Centre pour personnes âgées Espoir nouveau | New Hope Senior Citizens’ Centre - NH =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrepourpersonnesageesespoirnouveau/
+Site internet: https://newhopendg.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6225, av. Godfrey,
 Montréal QC H4B 1K3
@@ -135,11 +135,11 @@ Description
 Repas communautaire, le lundi et mercredi à 12h.
 Encourage les contacts interpersonnels par des activités de loisir: conditionnement physique, programme de visites amicales
 
-===== Organisation 5 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/12egroupescoutnotredamedegrace/
-Website: None
+===== Organisation 5: 12e groupe scout Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/12egroupescoutnotredamedegrace/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5333, Notre-Dame-de-Grâce,
 Montréal QC H4A 1L2
@@ -181,11 +181,11 @@ Mixte 17 à 25 ans
 L’autonomie est le mot d’ordre des pionniers. Ce sont eux qui choisissent et prépare chacune de leur activité.
 Pour inscriptions : inscription@scoutndg.org
 
-===== Organisation 6 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/132egroupescoutsaintecatherinedesienne/
-Website: https://linktr.ee/132gestion?fbclid=PAZXh0bgNhZW0CMTEAAaZAs14Z5Bhivb0xiMR6oWFYPmbs-UdkfY2VAJETh5hqH8_p3ajg_AMCSsE_aem_DlvhTJZpTbhROXpCTQjgmA
+===== Organisation 6: 132e groupe scout Sainte-Catherine-de-Sienne =====
+URL: https://macommunaute.ca/bottin-des-organismes/132egroupescoutsaintecatherinedesienne/
+Site internet: https://linktr.ee/132gestion?fbclid=PAZXh0bgNhZW0CMTEAAaZAs14Z5Bhivb0xiMR6oWFYPmbs-UdkfY2VAJETh5hqH8_p3ajg_AMCSsE_aem_DlvhTJZpTbhROXpCTQjgmA
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4700, Belmore,
 Montréal QC H4V 1V9
@@ -203,11 +203,11 @@ Le 132e groupe Sainte-Catherine-de-Sienne est formé d’une équipe d’une vin
 Notre groupe est membre de l’Organisation Mondiale du Scoutisme par le biais de l’Association des Scouts du Canada.
 Le scoutisme est une activité parascolaire dans laquelle on s’engage, entre autre, à participer à une séance d’activité par semaine (en soirée) et diverses autres activités ponctuelles, dont des camps avec coucher à l’extérieur de la ville.
 
-===== Organisation 7 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/229egroupescoutnotredamedesneiges/
-Website: http://www.scouts229.ca/
+===== Organisation 7: 229e groupe scout Notre-Dame-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/229egroupescoutnotredamedesneiges/
+Site internet: http://www.scouts229.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5366 Chemin De La Côte-des-Neiges,
 Montréal QC H3T 1Y4
@@ -247,11 +247,11 @@ Le scoutisme est un mouvement d’éducation ouvert à tous. Il encourage les je
 Les jeunes sont encadrés par des adultes responsables formés pour les orienter, les supporter, les animer dans toutes leurs démarches.
 Dans chaque unité le nombre de jeunes est limité afin de respecter un ration animateurs/jeunes de 1/8. Même si l’année scoute va de septembre à septembre, les inscriptions se font en tout temps et, selon la disponibilité des places dans l’unité, un jeune peut commencer à n’importe quelle période de l’année. Chaque jeune à droit à une période d’essai de trois réunions.
 
-===== Organisation 8 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/arenabilldurnan/
-Website: None
+===== Organisation 8: Aréna Bill-Durnan =====
+URL: https://macommunaute.ca/bottin-des-organismes/arenabilldurnan/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4988, rue Vézina,
 Montréal QC
@@ -264,11 +264,11 @@ Mission
 Aréna géré par la Ville de Montréal.
 Description
 
-===== Organisation 9 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/association-communautaire-westhaven-elmhurst/
-Website: None
+===== Organisation 9: Association Communautaire Westhaven-Elmhurst =====
+URL: https://macommunaute.ca/bottin-des-organismes/association-communautaire-westhaven-elmhurst/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7405 avenue Harley,
 Montréal QC H4B 1L5
@@ -288,11 +288,11 @@ Un camp d’été pour les jeunes, conçu pour encourager la créativité et le 
 Nous nous efforçons de créer un environnement inclusif où chaque individu peut s’épanouir, apprendre et se divertir. Grâce à nos activités diversifiées, nous visons à renforcer les liens entre les membres de la communauté, tout en répondant aux besoins spécifiques de chacun.
 Nous vous invitons à nous rejoindre pour découvrir toutes les opportunités que l’Association Communautaire Westhaven-Elmhurst a à offrir. Ensemble, construisons une communauté plus forte et plus unie!
 
-===== Organisation 10 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationdehockeymineurdenotredamedegrace/
-Website: http://www.ndghockey.com/
+===== Organisation 10: Association de hockey mineur de Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationdehockeymineurdenotredamedegrace/
+Site internet: http://www.ndghockey.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4985, Avenue West Hill,
 Montréal QC H4V 2W6
@@ -322,11 +322,11 @@ Adresse: 4985, West Hill Avenue, Montréal, Québec H4V 2W6
 Téléphone: (514) 487-6799
 Email: info@ndghockey.com
 
-===== Organisation 11 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationdelacommunautenoiredecotedesneiges/
-Website: http://www.cdnbca.org/
+===== Organisation 11: Association de la communauté noire de Côte-Des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationdelacommunautenoiredecotedesneiges/
+Site internet: http://www.cdnbca.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6585, ch. de la Côte-des-Neiges,
 Montréal QC H3S 2A5
@@ -342,11 +342,11 @@ Information et référence
 Camps de jour
 Cours aux adultes
 
-===== Organisation 12 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationdenetballregion2/
-Website: None
+===== Organisation 12: Association de netball Région 2 =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationdenetballregion2/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 514 486-2769
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone.
@@ -362,11 +362,11 @@ Matchs amicaux et compétitions régionales
 Événements sportifs et sociaux
 Rejoignez l’Association de netball Région 2 pour vivre une expérience enrichissante et stimulante au cœur de la communauté. Ensemble, cultivons notre passion pour ce sport et créons des liens durables à travers le netball à nan.
 
-===== Organisation 13 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationderinguettedenotredamedegrace/
-Website: http://www.ndgringuette.org/
+===== Organisation 13: Association de ringuette de Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationderinguettedenotredamedegrace/
+Site internet: http://www.ndgringuette.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 514 481-1295
 Mission
@@ -381,11 +381,11 @@ Programmes d’entraînement pour les jeunes
 Promotion de la ringuette dans la communauté
 Nous sommes convaincus que la ringuette est un sport accessible à tous et bénéfique pour la santé et le bien-être. Rejoignez l’Association de ringuette de Notre-Dame-de-Grâce et découvrez le plaisir de jouer en équipe tout en développant vos compétences sportives.
 
-===== Organisation 14 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationdesoccerdenotredamedegrace/
-Website: http://www.ndgsa.com/
+===== Organisation 14: Association de soccer de Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationdesoccerdenotredamedegrace/
+Site internet: http://www.ndgsa.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5319 avenue Notre-Dame-de-Grâce,
 Montréal QC H4A 1L2
@@ -412,11 +412,11 @@ Commentaire
 Envoyer
 Restez informé des dernières nouvelles de notre club et de nos événements à venir en vous abonnant à notre newsletter.
 
-===== Organisation 15 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-communautaire-de-saint-raymond/
-Website: https://cjndg.org/fr/accueil
+===== Organisation 15: Centre Communautaire de Saint-Raymond =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-communautaire-de-saint-raymond/
+Site internet: https://cjndg.org/fr/accueil
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5600 chemin Upper-Lachine,
 Montréal QC H4A 2A7
@@ -449,11 +449,11 @@ Pour plus d’informations sur nos services et nos programmes, n’hésitez pas 
 Téléphone : 514.123.4567
 Email : info@saintraymondcentre.org
 
-===== Organisation 16 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-communautaire-irakien/
-Website: https://iraqicommunitycenter.com/
+===== Organisation 16: Centre Communautaire Irakien =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-communautaire-irakien/
+Site internet: https://iraqicommunitycenter.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767 Chemin de la Côte-des-Neiges, Bureau 604-1,
 Montréal QC H3S 2T6
@@ -481,11 +481,11 @@ La clientèle desservie par le Centre Communautaire Irakien se compose principal
 En offrant un espace de dialogue et de soutien, le Centre contribue activement à l’amélioration des conditions de vie des Irakiens à Montréal. Grâce à ses divers programmes et à son engagement, il est un pilier fondamental pour ceux qui cherchent à s’intégrer et à s’épanouir dans leur nouvelle communauté.
 Pour en savoir plus sur les services offerts ou pour participer aux activités organisées, n’hésitez pas à contacter le Centre Communautaire Irakien. Ensemble, construisons un avenir meilleur pour la communauté irakienne à Montréal.
 
-===== Organisation 17 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-communautaire-mada/
-Website: https://www.madacentre.com/fr
+===== Organisation 17: Centre Communautaire Mada =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-communautaire-mada/
+Site internet: https://www.madacentre.com/fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6875 boulevard Décarie,
 Montréal QC H3W 3E4
@@ -509,11 +509,11 @@ Adresse du siège social :
 Téléphone : (514) 342-4969
 Email : mada@madacentre.com
 
-===== Organisation 18 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairewalkley/
-Website: None
+===== Organisation 18: Centre Communautaire Walkley =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairewalkley/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6650 Ch. Côte Saint-Luc,
 Montréal QC H4V 1G8
@@ -529,11 +529,11 @@ Activités de loisirs et de bien-être
 Événements communautaires et festifs
 Que vous soyez à la recherche d’une activité sportive, d’un moment de détente ou simplement d’une occasion de socialiser, le Centre Communautaire Walkley est l’endroit idéal pour vous. Rejoignez-nous et faites partie d’une communauté dynamique et solidaire à Montréal.
 
-===== Organisation 19 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-sportif-cdn-ndg/
-Website: https://www.lscdndg.org/
+===== Organisation 19: Centre Sportif CDN – NDG =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-sportif-cdn-ndg/
+Site internet: https://www.lscdndg.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4880 avenue Van Horne,
 Montréal QC H3W 1J3
@@ -555,11 +555,11 @@ Plus de 300 activités disponibles
 Plus de 25 000 clients satisfaits
 Plus de 500 000 visiteurs accueillis
 
-===== Organisation 20 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clubaquatiquenotredamedegrace/
-Website: http://clubaquatiquendg.com/
+===== Organisation 20: Club aquatique Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/clubaquatiquenotredamedegrace/
+Site internet: http://clubaquatiquendg.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5319, Av. Notre Dame de Grâce,
 Montréal QC H4A 1L2
@@ -577,11 +577,11 @@ Entraînement de water-polo pour tous les niveaux
 Initiation à la plongée sous-marine avec des instructeurs certifiés
 Rejoignez-nous au Club aquatique Notre-Dame-de-Grâce et plongez dans une expérience aquatique inoubliable. Que vous soyez un habitant de Montréal ou simplement de passage, notre club vous accueille à bras ouverts pour partager notre passion pour les sports et loisirs aquatiques.
 
-===== Organisation 21 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clubdhalterophilieconcordiainternational/
-Website: http://www.concordia-international.org/
+===== Organisation 21: Club d’haltérophilie Concordia international =====
+URL: https://macommunaute.ca/bottin-des-organismes/clubdhalterophilieconcordiainternational/
+Site internet: http://www.concordia-international.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5187, avenue Coolbrook ,
 Montréal QC H3X 2L3
@@ -599,11 +599,11 @@ Programmes d’entraînement adaptés
 Encadrement par des professionnels qualifiés
 Ateliers et événements spéciaux
 
-===== Organisation 22 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clubdejudoshidokan/
-Website: http://www.shidokanjc.ca/
+===== Organisation 22: Club de judo Shidokan =====
+URL: https://macommunaute.ca/bottin-des-organismes/clubdejudoshidokan/
+Site internet: http://www.shidokanjc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6800 Sherbrooke OUEST,
 Montréal QC H4B 1P4
@@ -637,11 +637,11 @@ Opportunités de compétition à différents niveaux
 Programmes spéciaux pour les jeunes athlètes prometteurs
 Nous sommes fiers de former la prochaine génération de champions de judo au sein du Club de Judo Shidokan. Rejoignez-nous pour vivre une expérience enrichissante et développer vos compétences dans ce sport passionnant!
 
-===== Organisation 23 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clubdelagedorledragondor/
-Website: None
+===== Organisation 23: Club de l’âge d’or “le dragon d’or” =====
+URL: https://macommunaute.ca/bottin-des-organismes/clubdelagedorledragondor/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767, Chemin de la Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -652,11 +652,11 @@ HORAIRE
 Cette organisation vous appartient? Réclamer la gestion de cette fiche!
 Description
 
-===== Organisation 24 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clubdenatationmadd/
-Website: http://www.natation-madd.com/
+===== Organisation 24: Club de natation MADD =====
+URL: https://macommunaute.ca/bottin-des-organismes/clubdenatationmadd/
+Site internet: http://www.natation-madd.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3799 Chemin Queen Mary,
 Montréal QC H3V 1A7
@@ -673,11 +673,11 @@ Encadrement par un champion de natation
 Compétitions amicales
 Épanouissement personnel
 
-===== Organisation 25 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clubdepatinageartistiquedemontreal/
-Website: http://www.cpamfsc.org/
+===== Organisation 25: Club de patinage artistique de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/clubdepatinageartistiquedemontreal/
+Site internet: http://www.cpamfsc.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 P.O. Box 42, succ. N.D.G.,
 Montréal QC H4A 3P5
@@ -693,11 +693,11 @@ Nous proposons des cours de patinage artistique adaptés à tous les âges, ains
 Au sein du Club de patinage artistique de Montréal, nous encourageons la camaraderie et l’esprit d’équipe. Nous organisons régulièrement des événements et des compétitions pour permettre aux patineurs de se dépasser et de partager leur passion pour le patinage artistique.
 Rejoignez-nous et découvrez le plaisir de patiner à Montréal en faisant partie de notre communauté dynamique et chaleureuse !
 
-===== Organisation 26 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communautehelleniquedugrandmontreal/
-Website: http://www.hcgm.org/
+===== Organisation 26: Communauté Hellénique du Grand Montréal - CHGM =====
+URL: https://macommunaute.ca/bottin-des-organismes/communautehelleniquedugrandmontreal/
+Site internet: http://www.hcgm.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5757, avenue Wilderton,
 Montréal QC H3S 2K8
@@ -732,11 +732,11 @@ Les buts de la Communauté sont d’assurer l’épanouissement de la culture de
 • de mettre sur pied des œuvres de charité, de bien-être et d’éducation au profit de la population d’origine grecque;
 • de conserver et de perpétuer la foi grecque orthodoxe et la tradition promulguée par l’autorité du Patriarcat Œcuménique de Constantinople, suivant la doctrine et la foi proclamées et appliquées par l’église grecque orthodoxe, et selon l’autorité ecclésiastique et les règles religieuses désignées par ce patriarcat.
 
-===== Organisation 27 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communautenoireafricainedemontrealcanadaconamc/
-Website: None
+===== Organisation 27: CONAM – Centre d’Orientation des Nouveaux Arrivants et immigrants de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/communautenoireafricainedemontrealcanadaconamc/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767, Chemin de la Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -755,11 +755,11 @@ Cinéma, Danse, Festivals / Évènements spéciaux, Maison de la culture, Musiqu
 Sports et loisirs
 Centre sportif / Parc, Commissions et fédérations sportives, Ligue sportive, Voyage
 
-===== Organisation 28 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/dojangdetaekwondoitfsylvainboucher/
-Website: None
+===== Organisation 28: Dojang de Taekwon-Do ITF Sylvain Boucher =====
+URL: https://macommunaute.ca/bottin-des-organismes/dojangdetaekwondoitfsylvainboucher/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 900, Place du Parc,
 Montréal QC H1B 3B9
@@ -775,11 +775,11 @@ Entraînement personnalisé pour compétiteurs
 Stages et événements spéciaux
 Rejoignez notre communauté passionnée de pratiquants de Taekwon-Do et découvrez les bienfaits de cet art martial ancestral, au sein du Dojang de Taekwon-Do ITF Sylvain Boucher à Montréal.
 
-===== Organisation 29 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/folietechnique/
-Website: http://www.folietechnique.qc.ca/
+===== Organisation 29: Folie Technique =====
+URL: https://macommunaute.ca/bottin-des-organismes/folietechnique/
+Site internet: http://www.folietechnique.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 Montréal QC H3C 3A7
 514-340-5856
@@ -793,11 +793,11 @@ Activités instructives et divertissantes
 Engagement social auprès de la jeunesse montréalaise
 Intervention dans les domaines du sport, des loisirs et de l’éducation
 
-===== Organisation 30 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/fondationsaintlotourismejeunesse/
-Website: https://fondationsaintlo.org/en/
+===== Organisation 30: Fondation Saintlo Tourisme Jeunesse =====
+URL: https://macommunaute.ca/bottin-des-organismes/fondationsaintlotourismejeunesse/
+Site internet: https://fondationsaintlo.org/en/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5450, CH. DE LA CÔTE-DES-NEIGES,
 Montréal QC H3T 1Y6
@@ -810,11 +810,11 @@ La Fondation Tourisme Jeunesse a pour mission de promouvoir la formation et l'é
 Description
 On fait découvrir les bienfaits du voyage aux jeunes, de plusieurs façons. Ces différentes expériences, vécues ici ou ailleurs, favorisent l’égalité des chances et présentent la valeur éducative des séjours en auberge de jeunesse. La fondation Saintlo offre une série d’ateliers gratuits invitant les jeunes à développer leur connaissance de soi, tout en se questionnant sur leur place et leur rôle au sein de la collectivité.
 
-===== Organisation 31 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/societedetaichitaoistemontrealnotredamedegrace/
-Website: https://www.taoist.org/fr/locations/montreal-dame-de-grace
+===== Organisation 31: Institut de taoïsme Fung Loy Kok- Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/societedetaichitaoistemontrealnotredamedegrace/
+Site internet: https://www.taoist.org/fr/locations/montreal-dame-de-grace
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3400, avenue Connaught,
 Montréal QC H4B 1X3
@@ -836,11 +836,11 @@ Les arts Tai Chi TaoïsteMD comportent des étirements en profondeur avec toute 
 Ces arts permettent de réduire le stress et ont des effets bénéfiques sur de nombreux problèmes de santé, des maux de dos jusqu’aux problèmes de santé mentale.
 Nous offrons des classes et des week-ends pour débutants dans des centaines d’emplacements à travers le monde.
 
-===== Organisation 32 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/jeunessebenny/
-Website: http://www.centrebenny.org/
+===== Organisation 32: Jeunesse Benny =====
+URL: https://macommunaute.ca/bottin-des-organismes/jeunessebenny/
+Site internet: http://www.centrebenny.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6440 rue de Terrebonne,
 Montréal QC H4B 1B1
@@ -860,11 +860,11 @@ Offres d’emploi
 Programmes de leadership en plein air (OLP) 2025
 Au Centre Benny, nous nous engageons à servir la communauté et à créer des expériences positives pour les jeunes. Joignez-vous à nous dans notre mission d’inspirer et de soutenir la prochaine génération de leaders !
 
-===== Organisation 33 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/la-fondation-valiquette/
-Website: https://valiquette.org/
+===== Organisation 33: La Fondation Valiquette =====
+URL: https://macommunaute.ca/bottin-des-organismes/la-fondation-valiquette/
+Site internet: https://valiquette.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 4781 Van Horne bureau 206,
 Montreal QC H3W 1J1
@@ -878,11 +878,11 @@ Réseaux sociaux
 Mission
 La Fondation Valiquette est un organisme de bienfaisance enregistré qui soutient les enfants pour qu’ils réussissent à l’école et se construisent un avenir prometteur. Nos initiatives : L’Académie Valiquette : Tutorat, cours de codage et de langues (français et anglais). Camp Valiquette : Camps d’hiver, de relâche et d’été alliant apprentissage, sports et arts. Succès Valiquette : Préparation à la vie après le secondaire (études ou emploi). Notre engagement communautaire est fondamental : nous collaborons activement avec la communauté pour fournir des ressources et créer des opportunités qui soutiennent les jeunes dans le besoin.
 
-===== Organisation 34 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/liguedebaseballmineurdenotredamedegrace/
-Website: http://www.ndgbaseball.org/
+===== Organisation 34: Ligue de baseball mineur de Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/liguedebaseballmineurdenotredamedegrace/
+Site internet: http://www.ndgbaseball.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 514-359-6788
 Mission
@@ -896,11 +896,11 @@ Programmes d’initiation au baseball
 Événements et tournois tout au long de la saison
 Rejoignez-nous dès aujourd’hui et découvrez le plaisir de jouer au baseball dans un environnement stimulant et enrichissant, au cœur de la communauté de Notre-Dame-de-Grâce!
 
-===== Organisation 35 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/loisirssportifscotedesneiges/
-Website: http://www.loisirssportifscdn-ndg.com/
+===== Organisation 35: Loisirs sportifs CND-NDG =====
+URL: https://macommunaute.ca/bottin-des-organismes/loisirssportifscotedesneiges/
+Site internet: http://www.loisirssportifscdn-ndg.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4880, avenue Van Horne,
 Montréal QC H3W 1J3
@@ -911,11 +911,11 @@ Description
 Piscine et cours de natation.
 Badminton, basketball, gymnastique, judo, soccer, taekwondo, total fitness.
 
-===== Organisation 36 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/piscinenotredamedegrace/
-Website: None
+===== Organisation 36: Piscine Notre-Dame-de-Grace =====
+URL: https://macommunaute.ca/bottin-des-organismes/piscinenotredamedegrace/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3760, boulevard Décarie,
 Montréal QC
@@ -929,11 +929,11 @@ Mission
 Piscine intérieure gérée par la Ville de Montréal.
 Description
 
-===== Organisation 37 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/terrainsdetennisexterieurscotedesneigesnotredamedegrace/
-Website: None
+===== Organisation 37: Terrains de tennis extérieurs – Côte-des-Neiges–Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/terrainsdetennisexterieurscotedesneigesnotredamedegrace/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 311
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone.

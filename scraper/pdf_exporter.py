@@ -11,13 +11,14 @@ def save_to_pdf(results, filename="results.pdf"):
     story = []
 
     for i, card in enumerate(results, 1):
+
         details = card["details"].replace("\n", "<br/>") if card["details"] else ""
         website = card.get('Site internet', 'N/A')
         text = (
-            f"<b>Organisation {i}</b><br/>"
-            f"<b>Page URL:</b> {card['url']}<br/>"
-            f"<b>Website:</b> {website}<br/><br/>"
-            f"{details}"
+            f"<b>Organisation {i}: {card['Organisation']}</b><br/>"
+            f"<b>URL:</b> {card['url']}<br/>"
+            f"<b>Site internet:</b> {card['Site internet']}<br/><br/>"
+            f"Description: {card['details'] or 'N/A'}"
         )
         story.append(Paragraph(text, styles["Normal"]))
         story.append(PageBreak())

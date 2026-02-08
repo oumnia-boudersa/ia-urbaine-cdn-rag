@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/logisactionnotredamedegrace/
-Website: https://www.logisaction.ca/
+===== Organisation 1: Logis Action Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/logisactionnotredamedegrace/
+Site internet: https://www.logisaction.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5964 Notre-Dame-de-Grâce,
 Montréal QC H4A 1N1
@@ -13,11 +13,11 @@ Description
 Aider les locataires du quartier à résoudre les problèmes qu’ils rencontrent relativement aux baux d’habitation et exercer leurs droits et avoir accès à un logement abordable;
 Favoriser le développement du logement social et communautaire ;
 
-===== Organisation 2 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/armeedusalutresidencemontclair/
-Website: None
+===== Organisation 2: Armée du Salut – Résidence Montclair =====
+URL: https://macommunaute.ca/bottin-des-organismes/armeedusalutresidencemontclair/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4413, Avenue Montclair,
 Montréal QC H4B 2J4
@@ -33,11 +33,11 @@ Les principaux domaines d’intervention de l’Armée du Salut – Résidence M
 Logement : Nous proposons des résidences adaptées aux personnes retraitées, offrant confort et sécurité.
 Nous sommes fiers de contribuer au bien-être des personnes retraitées de Montréal en leur offrant un lieu de vie accueillant et propice à l’épanouissement. N’hésitez pas à nous contacter pour en savoir plus sur nos services et nos valeurs.
 
-===== Organisation 3 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/caldwellresidencesharrybronfmansquareii/
-Website: None
+===== Organisation 3: Caldwell Residences – Harry Bronfman Square II =====
+URL: https://macommunaute.ca/bottin-des-organismes/caldwellresidencesharrybronfmansquareii/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5750, rue Lemieux ,
 Montréal QC H3W 3G1
@@ -56,11 +56,11 @@ Accompagnement personnalisé
 Environnement chaleureux et sécuritaire
 Rejoignez-nous à Caldwell Residences – Harry Bronfman Square II pour vivre une retraite paisible et épanouissante à Montréal!
 
-===== Organisation 4 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/caldwellresidencespollack/
-Website: None
+===== Organisation 4: Caldwell Residences – Pollack =====
+URL: https://macommunaute.ca/bottin-des-organismes/caldwellresidencespollack/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5757, rue Lemieux ,
 Montréal QC H3W 3H1
@@ -76,11 +76,11 @@ Notre organisme communautaire se consacre à offrir des solutions de logement ad
 Nos résidences pour personnes retraitées offrent un cadre de vie paisible et sécurisé, idéalement situé à Montréal. Que ce soit pour profiter de la tranquillité des lieux, participer à des activités sociales ou bénéficier de services adaptés, Caldwell Residences – Pollack est l’endroit idéal pour vivre pleinement sa retraite.
 Si vous recherchez un lieu de vie où confort, sécurité et convivialité sont au rendez-vous, n’hésitez pas à nous contacter pour en savoir plus sur nos services et nos disponibilités.
 
-===== Organisation 5 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairejuridiquedemontrealaidejuridique/
-Website: http://www.ccjm.qc.ca/
+===== Organisation 5: Centre communautaire juridique de Montréal – Aide juridique - CCJM =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairejuridiquedemontrealaidejuridique/
+Site internet: http://www.ccjm.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 440, boul. René-Lévesque ouest,
 Montréal QC H2Z 1V7
@@ -155,21 +155,21 @@ Expulsion
 Parrainage
 etc …
 
-===== Organisation 6 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredinterventiondecrisetracom/
-Website: https://www.tracom.ca/
+===== Organisation 6: Centre d’intervention de crise Tracom =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredinterventiondecrisetracom/
+Site internet: https://www.tracom.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone ou consulter leur site Web.
 Description
 Le Centre d’intervention de crise Tracom est un organisme à but non lucratif qui offre des services de crise 24 h/24, 7 j/7 en santé mentale à la population adulte du territoire Centre-Ouest de l’Île de Montréal. L’offre de services comprend l’intervention téléphonique, l’hébergement de crise et le suivi dans la communauté.
 
-===== Organisation 7 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/chemin-de-la-cote/
-Website: None
+===== Organisation 7: Chemin de la Côte =====
+URL: https://macommunaute.ca/bottin-des-organismes/chemin-de-la-cote/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5295 chemin de la Côte-Sainte-Catherine,
 Montréal QC H3W 0A1
@@ -186,11 +186,11 @@ Il est important de noter que, pour garantir un environnement serein, les animau
 Au Chemin de la Côte, nous croyons en l’importance de créer un milieu de vie inclusif et accueillant. Notre équipe dévouée travaille sans relâche pour assurer le confort et la sécurité de nos résidents. Nous comprenons que chaque personne a des besoins uniques, et nous nous engageons à fournir un soutien adapté à chacun.
 Pour plus d’informations sur nos services ou pour planifier une visite, n’hésitez pas à nous contacter. Votre bien-être est notre priorité.
 
-===== Organisation 8 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/fondationdesamisdelenfancemontrealinc/
-Website: https://www.manoirmontreal.qc.ca/
+===== Organisation 8: Fondation des amis de l’enfance(Montréal) inc / Manoir Ronald Mc Donald - FAEM =====
+URL: https://macommunaute.ca/bottin-des-organismes/fondationdesamisdelenfancemontrealinc/
+Site internet: https://www.manoirmontreal.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5800 Ch Hudson,
 Montréal QC H3S 2G5
@@ -222,11 +222,11 @@ Des parcs, poussettes, chaises hautes
 Café, thé, lait, pain, oeufs, yogourt, tisane, chocolat chaud, viennoiseries (à l’occasion)
 La chambre permet l’intimité au besoin, et les aires communes sont des espaces où les familles peuvent cuisiner, manger, se reposer et partager leurs expériences.
 
-===== Organisation 9 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/habitationspopulairesdeparcextensionhapopex/
-Website: https://www.hapopex.org/
+===== Organisation 9: Habitations populaires de Parc-Extension - HAPOPEX =====
+URL: https://macommunaute.ca/bottin-des-organismes/habitationspopulairesdeparcextensionhapopex/
+Site internet: https://www.hapopex.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 445, rue Jean Talon ouest,
 Montréal QC H3N1R1
@@ -245,11 +245,11 @@ Les Habitations populaires de Parc-Extension est un organisme sans but lucratif 
 Hapopex acquiert et gère des immeubles dans le but d’offrir en location des logements décents et abordables à des personnes à faible ou modeste revenu.
 Nous gérons un parc immobilier de 375 logements dans 16 immeubles répartis dans les quartiers Centre-Nord de Montréal.
 
-===== Organisation 10 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/residencemariagoretti/
-Website: http://www.logement.umontreal.ca/documents/low_ResidenceMariaGoretti_06_08_09.pdf
+===== Organisation 10: La Résidence Maria-Goretti =====
+URL: https://macommunaute.ca/bottin-des-organismes/residencemariagoretti/
+Site internet: http://www.logement.umontreal.ca/documents/low_ResidenceMariaGoretti_06_08_09.pdf
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3333, chemin de la Côte-Sainte-Catherine,
 Montréal QC H3T 1C8
@@ -270,11 +270,11 @@ En plein cœur de Montréal, la Résidence Maria-Goretti accueille des femmes â
 Description
 La Résidence Maria-Goretti accueille, depuis 1953, des femmes âgées de 18 à 45 ans de toutes origines pour des séjours de courte et longue durée. Elle compte 220 chambres réparties sur cinq étages. Chaque chambre comprend un lit simple, des espaces de rangement, un bureau de travail, un petit réfrigérateur et un lavabo.
 
-===== Organisation 11 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lesfondationsduquartier/
-Website: None
+===== Organisation 11: Les Fondations Du Quartier =====
+URL: https://macommunaute.ca/bottin-des-organismes/lesfondationsduquartier/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 8355 rue Labarre,
 Montréal QC H4P 2S5
@@ -286,11 +286,11 @@ Description
 Les Fondations du Quartier (FDQ) est un organisme a but non lucratif.
 sa principale activité est le logement.
 
-===== Organisation 12 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/leshabitationscommunautairesdecotedesneiges/
-Website: None
+===== Organisation 12: Les Habitations Communautaires de Côte-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/leshabitationscommunautairesdecotedesneiges/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6555 Chemin de la Côte-des-Neiges, , QC H3S 2A6,
 Montréal QC H3S 2A6
@@ -304,11 +304,11 @@ L’organisme compte donc 517 logements répartis dans le quartier Côte-des-Nei
 La gestion de ces bâtiments génère des revenus annuels de l’ordre de 2.5 Millions de dollars. Son effectif est composé de neuf employés permanents, une employée à mi-temps et 4 autres occasionnellement recrutés dans le cadre de programmes d’aide à l’emploi.
 Vu la proximité des services comme les hôpitaux, l’université de Montréal et le HEC, la demande en logements est très forte. Notre clientèle est très diversifiée et cosmopolite.
 
-===== Organisation 13 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/maisons-transitionnelles-o3-les-on-our-own-o3/
-Website: https://www.o3onourown.com/
+===== Organisation 13: Maisons Transitionnelles O3 (les) – On Our Own O3 =====
+URL: https://macommunaute.ca/bottin-des-organismes/maisons-transitionnelles-o3-les-on-our-own-o3/
+Site internet: https://www.o3onourown.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3970 boulevard Cavendish, bureau 1,
 Montréal QC H4B 2N3
@@ -341,11 +341,11 @@ Téléphone : 514-369-0757
 Courriel : info@o3onourown.com
 Merci de soutenir les Maisons Transitionnelles O3 et de nous aider à briser le cycle de la pauvreté, une famille à la fois.
 
-===== Organisation 14 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/manoir-ronald-mcdonald/
-Website: https://manoirmontreal.qc.ca/
+===== Organisation 14: Manoir Ronald Mcdonald =====
+URL: https://macommunaute.ca/bottin-des-organismes/manoir-ronald-mcdonald/
+Site internet: https://manoirmontreal.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5800 Chemin Hudson,
 Montréal QC H3S 2G5
@@ -373,11 +373,11 @@ Support émotionnel et ressources pour aider les parents
 Le Manoir vise à améliorer la qualité de vie des familles en période de crise, en leur offrant un lieu où elles peuvent se sentir en sécurité et soutenues. En plus de l’hébergement, l’organisme s’engage à créer un réseau de soutien entre les parents, favorisant ainsi des échanges d’expériences et des liens d’entraide.
 En conclusion, le Manoir Ronald McDonald est bien plus qu’un simple lieu de logement. C’est un espace où les familles peuvent trouver réconfort et solidarité durant des moments difficiles. Grâce à son emplacement stratégique à Montréal et à son engagement envers les familles, cet organisme joue un rôle crucial dans le parcours de soins des enfants malades.
 
-===== Organisation 15 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/regroupementdesorganismesdumontrealethniquepourlelogement/
-Website: http://romel-montreal.ca/
+===== Organisation 15: Regroupement des organismes du Montréal ethnique pour le logement - ROMEL =====
+URL: https://macommunaute.ca/bottin-des-organismes/regroupementdesorganismesdumontrealethniquepourlelogement/
+Site internet: http://romel-montreal.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6555 Côte-des-Neiges,
 Montréal QC H3S 2A6
@@ -398,11 +398,11 @@ Recherche de logement en location
 Informations diversifiés sur le logement
 Gestion immobilière
 
-===== Organisation 16 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/residencedelaprovidence/
-Website: None
+===== Organisation 16: Résidence de la Providence =====
+URL: https://macommunaute.ca/bottin-des-organismes/residencedelaprovidence/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5240, chemin de la Côte-Saint-Luc,
 Montréal QC H3W 2G9
@@ -412,11 +412,11 @@ Cette organisation vous appartient? Réclamer la gestion de cette fiche!
 Description
 Résidence de la Providence
 
-===== Organisation 17 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/residencesalomon/
-Website: None
+===== Organisation 17: Résidence Salomon =====
+URL: https://macommunaute.ca/bottin-des-organismes/residencesalomon/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5900, boulevard Décarie,
 Montréal QC H3X 2J7

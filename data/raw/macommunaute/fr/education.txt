@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ymcaduquebec/
-Website: http://www.ymcaquebec.org/
+===== Organisation 1: Les YMCA du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/ymcaduquebec/
+Site internet: http://www.ymcaquebec.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 1435 Rue Drummond,
 Montréal QC H3G 1W3
@@ -55,11 +55,11 @@ Les YMCA du Québec sont un organisme de bienfaisance dont la mission est de bâ
 Description
 Les YMCA du Québec sont un organisme de bienfaisance qui a pour mission de bâtir des communautés plus fortes en offrant des occasions d’épanouissement et de vie active, saine et engagée pour tous. Ses dix centres YMCA, son École internationale de langues, son École de ski, sa Résidence, son Camp YMCA Kanawana et ses 43 points de service à l’échelle de la province, sont fréquentés chaque année par plus de 130 000 personnes. Le premier YMCA d’Amérique du Nord a vu le jour à Montréal en novembre 1851. Les YMCA du Québec font partie d’un réseau canadien qui compte 50 associations YMCA. Pour de plus amples informations, visitez notre site Internet www.ymcaquebec.org, nos pages Facebook facebook.com/ymcaquebec ou Twitter twitter.com/YMCAQuebec.
 
-===== Organisation 2 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/hippyquebec/
-Website: http://www.parentsengages.org/
+===== Organisation 2: Parents engagés pour la petite enfance - PEP =====
+URL: https://macommunaute.ca/bottin-des-organismes/hippyquebec/
+Site internet: http://www.parentsengages.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 5964 avenue Notre-Dame-de-Grâce, bureau 206,
 Montréal QC H4A 1N1
@@ -86,11 +86,11 @@ Des activités sont offertes à chaque visite, au domicile des familles, 30 sema
 Activités de groupe
 Des activités de groupe sur différents sujets et des sorties sont organisées pour les parents.
 
-===== Organisation 3 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationcooperativeducollegejeandebrebeuf/
-Website: http://www.coopbrebeuf.com/
+===== Organisation 3: Association coopérative du Collège Jean-de-Brébeuf =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationcooperativeducollegejeandebrebeuf/
+Site internet: http://www.coopbrebeuf.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5625, ave Decelles,
 Montréal QC H3T 1W4
@@ -112,11 +112,11 @@ Une des priorités du Conseil d’administration, constitué majoritairement d�
 Engagement communautaire
 Chaque année votre Coopérative s’associe activement aux activités de sa collectivité en supportant de différentes façons les activités et projets étudiants;
 
-===== Organisation 4 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/baobabfamilial/
-Website: http://www.baobabfamilial.org/
+===== Organisation 4: Baobab Familial =====
+URL: https://macommunaute.ca/bottin-des-organismes/baobabfamilial/
+Site internet: http://www.baobabfamilial.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 599-6767 ch. Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -134,11 +134,11 @@ Description
 Le Baobab Familial offre des services divers destinés aux famille du quartier Côte-des-neiges: Accueil, écoute, référence et accompagnement; aide aux devoirs; halte-garderie communautaire; répit à domicile;; groupe ados; activités sportives pour femmes et filles; activités pour les pères; cafés partage et ateliers thématiques; ateliers sur les droits et responsabilités des enfants, sur le parcours migratoire et sur les compétences parentales; etc..
 Le Baobab Familial offre aussi toutes sortes d’activités à caractère social et culturel. Nos sorties permettent à nos familles de découvrir le Québec (plage, pommes, cabane à sucre, etc.), les cuisines collectives et les soupers communautaires sont autant d’occasion de se retrouver et de partager.
 
-===== Organisation 5 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-de-developpement-yaldei-shashuim/
-Website: https://www.centreyaldei.org/
+===== Organisation 5: Centre de Développement Yaldei Shashuim =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-de-developpement-yaldei-shashuim/
+Site internet: https://www.centreyaldei.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5170 rue Van Horne,
 Montréal QC H3W 1J6
@@ -157,11 +157,11 @@ Programmes de soutien: groupe des tout-petits, support scolaire, compétences so
 En 2016, Yaldei a déménagé dans un établissement moderne de 40 000 pieds carrés à Montréal, offrant ses services à plus de 25 écoles et aidant 276 enfants chaque année. L’école Yaldei propose un enseignement en anglais pour les élèves de 4 à 16 ans présentant une déficience intellectuelle modérée à profonde, des troubles du spectre de l’autisme et des déficiences physiques connexes.
 Pour en savoir plus sur les services offerts par Yaldei ou pour demander une admission, veuillez contacter Chanie Klein au 514-279-3666.
 
-===== Organisation 6 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-montrealais-pour-les-troubles-dapprentissage/
-Website: https://ldmontreal.ca/
+===== Organisation 6: Centre Montréalais pour les Troubles d’Apprentissage =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-montrealais-pour-les-troubles-dapprentissage/
+Site internet: https://ldmontreal.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2100 avenue Marlowe, bureau 535,
 Montréal QC H4A 3L5
@@ -190,11 +190,11 @@ Séminaires avec conférenciers invités
 Contactez-nous
 Si vous souhaitez en savoir plus sur nos programmes ou vous impliquer, veuillez communiquer avec le Centre Montréalais pour les Troubles d’Apprentissage. Votre soutien nous aide à continuer de faire une différence dans la communauté.
 
-===== Organisation 7 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrepaulinejulien/
-Website: None
+===== Organisation 7: Centre Pauline-Julien =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrepaulinejulien/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6830, chemin de la Côte-des-Neiges,
 Montréal QC H3S 2A8
@@ -208,11 +208,11 @@ Notre équipe de professionnels passionnés œuvre au quotidien pour accompagner
 Au Centre Pauline-Julien, nous proposons une gamme de services variés pour répondre aux besoins diversifiés de notre clientèle. Que vous souhaitiez améliorer vos compétences en lecture et écriture, préparer un examen d’équivalence de niveau secondaire ou suivre une formation professionnelle, nous sommes là pour vous accompagner.
 Nous sommes fiers de contribuer à l’éducation des adultes à Montréal et de participer au développement de notre communauté. Rejoignez-nous au Centre Pauline-Julien et ensemble, construisons un avenir meilleur grâce à l’éducation.
 
-===== Organisation 8 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clubami/
-Website: http://clubami.qc.ca/
+===== Organisation 8: Club Ami =====
+URL: https://macommunaute.ca/bottin-des-organismes/clubami/
+Site internet: http://clubami.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767 Chemin De la Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -228,11 +228,11 @@ Description
 Club Ami est situé dans le quartier Côte-des-Neiges, à Montréal, et permet aux personnes en souffrance psychologique d’avoir un espace leur appartenant, où il est possible de partager des moments de répit, un café ou la présence exceptionnelle de nos membres. Nous offrons des activités collectives variées: atelier de peinture, de yoga, visites au musée, conférences, et plus encore.
 Les intervenants et notre directrice organisent les activités, s’assurent du bien-être de chacun au sein de l’organisme et sont disponibles pour entendre et référer si besoin.
 
-===== Organisation 9 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/collegeinternationalmariedefrance/
-Website: http://www.mariedefrance.qc.ca/
+===== Organisation 9: Collège international Marie de France =====
+URL: https://macommunaute.ca/bottin-des-organismes/collegeinternationalmariedefrance/
+Site internet: http://www.mariedefrance.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4635 chemin Queen Mary,
 Montréal QC H3W 1W3
@@ -251,11 +251,11 @@ Une ouverture internationale exceptionnelle
 Des programmes éducatifs de qualité
 Nous sommes fiers de contribuer à l’éducation des jeunes Montréalais, en leur offrant un cadre d’apprentissage stimulant et inclusif. Rejoignez notre communauté scolaire dynamique et ouverte sur le monde au Collège international Marie de France.
 
-===== Organisation 10 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/collegetav/
-Website: http://tav.ca/
+===== Organisation 10: Collège TAV =====
+URL: https://macommunaute.ca/bottin-des-organismes/collegetav/
+Site internet: http://tav.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6333 Boulevard Décarie,
 Montréal QC H3W 3E1
@@ -273,11 +273,11 @@ Stratégie dintervention en développement du langage (AEC)
 Intervenant en mise en forme physique (AEC)
 Techniques d’éducation à l’enfance (AEC) et (DEC)
 
-===== Organisation 11 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/comitemisscreolecmckomitemisskreyl/
-Website: None
+===== Organisation 11: COMITÉ MISS CRÉOLE / Komité Miss Kréyòl - (CMC) =====
+URL: https://macommunaute.ca/bottin-des-organismes/comitemisscreolecmckomitemisskreyl/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone.
 Réseaux sociaux
@@ -289,11 +289,11 @@ Cet évènement a pour but de fêter les mamans le dernier dimanche du mois de m
 Afin de souligner la contribution et le rayonnement de la Femme des cultures créoles et d’ailleurs, une programmation riche et variée est proposée à nos participants.
 Échos de femmes: Il s’agit de donner la parole aux femmes pour des femmes et de créer des échanges interculturels et intergénérationnels. Offrir aux femmes un espace pour émettre leur opinion, échanger su
 
-===== Organisation 12 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/commission-scolaire-english-montreal/
-Website: https://www.emsb.qc.ca/csem
+===== Organisation 12: Commission Scolaire English-Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/commission-scolaire-english-montreal/
+Site internet: https://www.emsb.qc.ca/csem
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6000 avenue Fielding,
 Montréal QC H3X 1T4
@@ -324,11 +324,11 @@ Calendriers annuels
 Restez informé des prochains événements organisés par la CSEM en consultant notre calendrier en ligne. Des portes ouvertes, des foires virtuelles de l’emploi et d’autres activités sont prévues pour vous permettre de découvrir nos écoles et nos programmes.
 Rejoignez la Commission scolaire English Montreal pour un apprentissage de qualité et une expérience éducative enrichissante!
 
-===== Organisation 13 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communautehelleniquedugrandmontreal/
-Website: http://www.hcgm.org/
+===== Organisation 13: Communauté Hellénique du Grand Montréal - CHGM =====
+URL: https://macommunaute.ca/bottin-des-organismes/communautehelleniquedugrandmontreal/
+Site internet: http://www.hcgm.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5757, avenue Wilderton,
 Montréal QC H3S 2K8
@@ -363,11 +363,11 @@ Les buts de la Communauté sont d’assurer l’épanouissement de la culture de
 • de mettre sur pied des œuvres de charité, de bien-être et d’éducation au profit de la population d’origine grecque;
 • de conserver et de perpétuer la foi grecque orthodoxe et la tradition promulguée par l’autorité du Patriarcat Œcuménique de Constantinople, suivant la doctrine et la foi proclamées et appliquées par l’église grecque orthodoxe, et selon l’autorité ecclésiastique et les règles religieuses désignées par ce patriarcat.
 
-===== Organisation 14 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communautenoireafricainedemontrealcanadaconamc/
-Website: None
+===== Organisation 14: CONAM – Centre d’Orientation des Nouveaux Arrivants et immigrants de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/communautenoireafricainedemontrealcanadaconamc/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767, Chemin de la Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -386,11 +386,11 @@ Cinéma, Danse, Festivals / Évènements spéciaux, Maison de la culture, Musiqu
 Sports et loisirs
 Centre sportif / Parc, Commissions et fédérations sportives, Ligue sportive, Voyage
 
-===== Organisation 15 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/conseil-des-educateurs-noirs-du-quebec/
-Website: https://qbbe.ca/fr
+===== Organisation 15: Conseil des Éducateurs Noirs du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/conseil-des-educateurs-noirs-du-quebec/
+Site internet: https://qbbe.ca/fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5165 rue Sherbrooke Ouest, bureau 317,
 Montréal QC H4A 1T6
@@ -411,11 +411,11 @@ Notre mission : Encourager et soutenir l’amélioration continue du système d�
 Clientèle servie : Plus de 50 ans après sa création, le QBBE est au service des familles multiculturelles et interculturelles, des élèves du primaire et du secondaire dans les secteurs francophone, anglophone et privé.
 Au Quebec Board of Black Educators, nous sommes dévoués à fournir des services éducatifs de qualité pour un avenir meilleur pour tous. Rejoignez-nous dans notre mission de promouvoir l’équité et l’excellence dans l’éducation pour les communautés noires et racialisées du Québec.
 
-===== Organisation 16 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/deutschesprachschulemontrealcentre/
-Website: http://www.ecolesallemandes.org/montreal-centre
+===== Organisation 16: Deutsche Sprachschule Montréal Centre - DSQ =====
+URL: https://macommunaute.ca/bottin-des-organismes/deutschesprachschulemontrealcentre/
+Site internet: http://www.ecolesallemandes.org/montreal-centre
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4635, chemin Queen Mary,
 Montréal QC H3W 1W3
@@ -458,11 +458,11 @@ exemple, le conjoint/ la conjointe/ l’ami(e) non-germanophone dans les groupes
 d’adulte, selon leur niveau. Nous offrons des rabais de famille! Bienvenue
 aussi aux ami(e)s débutants de la langue et culture allemandes.
 
-===== Organisation 17 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ecoledeshautesetudescommercialesdemontreal/
-Website: http://www.hec.ca/
+===== Organisation 17: École des hautes études commerciales de Montréal - HEC =====
+URL: https://macommunaute.ca/bottin-des-organismes/ecoledeshautesetudescommercialesdemontreal/
+Site internet: http://www.hec.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3000, chemin de la Côte-Sainte-Catherine,
 Montréal QC H3T 2A7
@@ -485,11 +485,11 @@ Le campus de HEC Montréal est un lieu dynamique qui accueille régulièrement d
 HEC Montréal s’inscrit dans un environnement international, tout en profitant de la richesse culturelle et académique de la ville de Montréal, reconnue pour son savoir et son dynamisme.
 En somme, HEC Montréal se distingue par son excellence académique, sa vision progressiste et son implication dans la société, faisant de l’établissement un acteur majeur de la formation en gestion au Québec.
 
-===== Organisation 18 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ecole-multiethnique-de-langues-et-de-cultures-du-quebec/
-Website: https://coursdefrancais.ca/
+===== Organisation 18: École Multiethnique de Langues et de Cultures du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/ecole-multiethnique-de-langues-et-de-cultures-du-quebec/
+Site internet: https://coursdefrancais.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3480 boulevard Décarie, 2e étage,
 Montréal QC H4A 3J3
@@ -512,11 +512,11 @@ Comment s’inscrire
 Pour vous inscrire à la prochaine session, veuillez visiter le site quebec.ca. Vous pouvez également nous contacter pour plus d’informations sur nos cours et nos services.
 Nous sommes là pour vous accompagner dans votre apprentissage du français et pour vous aider à réussir votre intégration au Québec. Rejoignez-nous dès aujourd’hui pour commencer votre parcours linguistique avec l’ÉMULCQ!
 
-===== Organisation 19 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ecoleprimairesaintclement/
-Website: http://www3.csmb.qc.ca/ecoles/saint-clement/L%C3%A9coleSaintCl%C3%A9ment/
+===== Organisation 19: École primaire Saint-Clément =====
+URL: https://macommunaute.ca/bottin-des-organismes/ecoleprimairesaintclement/
+Site internet: http://www3.csmb.qc.ca/ecoles/saint-clement/L%C3%A9coleSaintCl%C3%A9ment/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 555 avenue Mitchell,
 Montréal QC H3R 1L5
@@ -538,11 +538,11 @@ L’école primaire St-Clément accueille les enfants de niveaux préscolaire (5
 Enfants du préscolaire et du primaire.
 Le site Internet présente des travaux d’élèves, des poèmes et le projet éducatif de l’école.
 
-===== Organisation 20 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ecolerudolphsteinermontreal/
-Website: http://www.ersm.org/
+===== Organisation 20: École Rudolf Steiner Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/ecolerudolphsteinermontreal/
+Site internet: http://www.ersm.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4855, av. Kensington,
 Montréal QC H3X 3S6
@@ -555,11 +555,11 @@ Description
 École Waldorf qui accueil les enfants de 3 ans à secondaire 2.
 L’École Rudolf Steiner de Montréal accueille tous les enfants sans distinction d’origine nationale, ethnique, sociale ou religieuse. Les parents doivent bien comprendre et accepter les particularités et les règlements de l’école ainsi que démontrer leur volonté à participer à la vie de l’école. Tous les enfants doivent participer à des exercices d’évaluation au moment de l’inscription dans le but de cerner leurs besoins spécifiques.
 
-===== Organisation 21 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/federationdesassociationsetudiantesducampusdeluniversitedemontreal/
-Website: http://faecum.qc.ca/
+===== Organisation 21: Fédération des associations étudiantes du campus de l’Université de Montréal - FAECUM =====
+URL: https://macommunaute.ca/bottin-des-organismes/federationdesassociationsetudiantesducampusdeluniversitedemontreal/
+Site internet: http://faecum.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3200 Jean-Brillant,
 Montréal QC
@@ -573,11 +573,11 @@ offre plusieurs services;
 défend vos intérêts universitaires;
 agit pour améliorer la condition étudiante.
 
-===== Organisation 22 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/federation-quebecoise-des-associations-foyers-ecoles/
-Website: https://www.qfhsa.org/
+===== Organisation 22: Fédération Québécoise des Associations Foyers-Écoles =====
+URL: https://macommunaute.ca/bottin-des-organismes/federation-quebecoise-des-associations-foyers-ecoles/
+Site internet: https://www.qfhsa.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3285 boulevard Cavendish, bureau 560,
 Montréal QC H4B 2L9
@@ -596,11 +596,11 @@ Assurance QFHSA : Si vous planifiez un événement spécial, n’oubliez pas de 
 Rapports et Présentations : Consultez nos rapports et présentations des événements passés, tels que des tables rondes sur la promotion de l’anti-racisme et de l’anti-discrimination au Québec ou des discussions sur l’enseignement supérieur.
 Nous croyons en la collaboration et l’engagement de la communauté pour améliorer l’éducation et l’épanouissement des jeunes au Québec. Rejoignez-nous dans cette mission importante et ensemble, construisons un avenir meilleur pour nos enfants et notre société.
 
-===== Organisation 23 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/folietechnique/
-Website: http://www.folietechnique.qc.ca/
+===== Organisation 23: Folie Technique =====
+URL: https://macommunaute.ca/bottin-des-organismes/folietechnique/
+Site internet: http://www.folietechnique.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 Montréal QC H3C 3A7
 514-340-5856
@@ -614,11 +614,11 @@ Activités instructives et divertissantes
 Engagement social auprès de la jeunesse montréalaise
 Intervention dans les domaines du sport, des loisirs et de l’éducation
 
-===== Organisation 24 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/hec-montreal-vie-sur-le-campus-logement/
-Website: https://www.hec.ca/etudiants/vie-sur-le-campus/logement/index.html
+===== Organisation 24: Hec Montréal – Vie Sur le Campus – Logement =====
+URL: https://macommunaute.ca/bottin-des-organismes/hec-montreal-vie-sur-le-campus-logement/
+Site internet: https://www.hec.ca/etudiants/vie-sur-le-campus/logement/index.html
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3000 chemin de la Côte-Sainte-Catherine,
 Montréal QC H3T 2A7
@@ -644,11 +644,11 @@ Pour toute question concernant le logement à HEC Montréal, n’hésitez pas à
 L’emplacement de HEC Montréal au centre-ville de Montréal en fait un lieu privilégié pour étudier et vivre. Profitez de l’ambiance dynamique de la ville de Montréal, ville de savoir et de culture.
 Pour en savoir plus sur HEC Montréal, consultez le site officiel de l’École : www.hec.ca/a-propos
 
-===== Organisation 25 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/institutuniversitairedegeriatriedemontreal/
-Website: http://www.iugm.qc.ca/
+===== Organisation 25: Institut universitaire de gériatrie de Montréal - IUGM =====
+URL: https://macommunaute.ca/bottin-des-organismes/institutuniversitairedegeriatriedemontreal/
+Site internet: http://www.iugm.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4565, Chemin Queen-Mary,
 Montréal QC H3W 1W5
@@ -665,11 +665,11 @@ réadaptation fonctionnelle intensive;
 hébergement et soins de longue durée;
 centre ambulatoire comprenant des activités de centre de jour, d’hôpital de jour et des cliniques externes spécialisées (clinique de cognition, clinique de dysphagie, clinique de continence urinaire et clinique de gestion de la douleur chronique).
 
-===== Organisation 26 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/jeunesse-loyola/
-Website: https://www.jeunesseloyola.org/fr
+===== Organisation 26: Jeunesse Loyola =====
+URL: https://macommunaute.ca/bottin-des-organismes/jeunesse-loyola/
+Site internet: https://www.jeunesseloyola.org/fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6975 avenue Chester,
 Montréal QC H4V 2Z7
@@ -690,11 +690,11 @@ Nous organisons également des événements tels que des ateliers de personnalis
 Si vous souhaitez soutenir notre cause et contribuer à notre engagement envers la jeunesse, n’hésitez pas à faire un don.
 Nous sommes fiers de notre approche fondée sur les forces, qui vise à inspirer l’appartenance et la croissance chez les jeunes de NDG. Rejoignez-nous pour découvrir tout ce que Jeunesse Loyola a à offrir!
 
-===== Organisation 27 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ecoleprimairesocratesetdemosthene/
-Website: http://socdem.org/
+===== Organisation 27: L’École primaire Socrates et Démosthène =====
+URL: https://macommunaute.ca/bottin-des-organismes/ecoleprimairesocratesetdemosthene/
+Site internet: http://socdem.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5777 Wilderton avenue,
 Montréal QC H3S2V7
@@ -728,11 +728,11 @@ Offrir une éducation de qualité au niveau préscolaire et primaire avec une em
 Description
 Éducation au préscolaire et au primaire
 
-===== Organisation 28 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/la-fondation-valiquette/
-Website: https://valiquette.org/
+===== Organisation 28: La Fondation Valiquette =====
+URL: https://macommunaute.ca/bottin-des-organismes/la-fondation-valiquette/
+Site internet: https://valiquette.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 4781 Van Horne bureau 206,
 Montreal QC H3W 1J1
@@ -746,11 +746,11 @@ Réseaux sociaux
 Mission
 La Fondation Valiquette est un organisme de bienfaisance enregistré qui soutient les enfants pour qu’ils réussissent à l’école et se construisent un avenir prometteur. Nos initiatives : L’Académie Valiquette : Tutorat, cours de codage et de langues (français et anglais). Camp Valiquette : Camps d’hiver, de relâche et d’été alliant apprentissage, sports et arts. Succès Valiquette : Préparation à la vie après le secondaire (études ou emploi). Notre engagement communautaire est fondamental : nous collaborons activement avec la communauté pour fournir des ressources et créer des opportunités qui soutiennent les jeunes dans le besoin.
 
-===== Organisation 29 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ateliersboitealunch/
-Website: http://boitealunchndg.org/
+===== Organisation 29: Les Ateliers Boîte à Lunch =====
+URL: https://macommunaute.ca/bottin-des-organismes/ateliersboitealunch/
+Site internet: http://boitealunchndg.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6244 Rue Sherbrooke Ouest,
 Montréal QC H4B 1M2
@@ -787,11 +787,11 @@ Des pique-niques d’été pour les familles.
 Un programme de Cuisine Rencontres pour les parents.
 Voir plus d’informations sur nos activités ici!
 
-===== Organisation 30 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lespressesdeluniversitedemontreal/
-Website: None
+===== Organisation 30: Les Presses de l’Université de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/lespressesdeluniversitedemontreal/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone.
 Cette organisation vous appartient? Réclamer la gestion de cette fiche!
@@ -803,11 +803,11 @@ Spécialisés dans les domaines de l’Arts et de la Culture, nous nous engageon
 Grâce à notre expertise en SEO, nous veillons à ce que nos publications soient facilement accessibles en ligne, permettant ainsi de toucher un public plus large et de promouvoir notre patrimoine culturel. En tant qu’acteur local, nous sommes fiers de contribuer au dynamisme culturel de la ville de nan et de soutenir les artistes et écrivains de la région.
 Les Presses de l’Université de Montréal vous invitent à découvrir notre catalogue riche en connaissances et en créativité. Rejoignez-nous dans notre mission de valorisation de la culture et de l’éducation, et ensemble, cultivons l’art de la pensée et de la création.
 
-===== Organisation 31 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/monnaiemoney/
-Website: http://monnaiemoneyweb.wordpress.com/
+===== Organisation 31: Monnaie Money =====
+URL: https://macommunaute.ca/bottin-des-organismes/monnaiemoney/
+Site internet: http://monnaiemoneyweb.wordpress.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone ou consulter leur site Web.
 Heures d'ouverture
@@ -823,11 +823,11 @@ Le projet vise à donner aux jeunes des quartiers la possibilité de sortir du g
 Description
 L’éducation financière constitue le fondement de l’épargne et l’investissement à bon escient. Elle permet d’utiliser son crédit de façon responsable et de prendre des décisions financières éclairées puisque nous savons tous que de mauvais choix financiers peuvent entraîner des conséquences et affecter nos familles et notre avenir. Le projet Monnaie-Money Éducation Financière vise ainsi à fournir des outils fondamentaux pour assurer un avenir de succès aux jeunes consommateurs d’aujourd’hui et de demain.
 
-===== Organisation 32 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/observatoirevieillissementetsociete/
-Website: http://www.ovs-oas.org/ovs/
+===== Organisation 32: Observatoire Vieillissement et Société =====
+URL: https://macommunaute.ca/bottin-des-organismes/observatoirevieillissementetsociete/
+Site internet: http://www.ovs-oas.org/ovs/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4545, chemin Queen Mary,
 Montréal QC H3W 1W5
@@ -840,11 +840,11 @@ Créer et entretenir un site internet dont le rôle sera de documenter les probl
 Organiser des conférences publiques sur des sujets d’intéręt pour les personnes âgées.
 L’OVS est un lieu d’échanges entre le public, les experts et les décideurs publics. Il organise des conférences publiques gratuites, actualise un site internet et réalise des documents audiovisuels. Le site internet de l’OVS (http://www.ovs-oas.org/) est un lieu virtuel d’échanges s’adressant à la population, aux experts et aux décideurs. Il constitue un résumé des conférences publiques gratuites, des dossiers sur les mythes et les réalités entourant le vieillissement, ainsi que des liens vers d’autres sites traitant des problèmes rencontrés par les aînés dans la société. Chaque année, l’OVS organise à Montréal des conférences publiques gratuites destinées à stimuler les échanges d’idées et de vues entre les experts et la population. Les sujets touchent la situation des personnes âgées dans la société actuelle et à venir.
 
-===== Organisation 33 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ecolepolytechniquedemontreal/
-Website: http://www.polymtl.ca/
+===== Organisation 33: Polytechnique Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/ecolepolytechniquedemontreal/
+Site internet: http://www.polymtl.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2500, chemin de Polytechnique,
 Montréal QC H3T 1J4
@@ -857,11 +857,11 @@ Polytechnique Montréal est une université d’ingénierie de renommée interna
 Fière de ses 150 ans d’histoire, elle accueille aujourd’hui plus de 10 000 étudiantes et étudiants et compte sur l’expertise de près de 1 600 personnes aux compétences diverses, dont plus de 300 professeures et professeurs.
 Certifiée STARS, niveau Or, en développement durable, Polytechnique se distingue par ses avancées de pointe et son rôle actif dans le développement technologique, environnemental, économique et social. Elle valorise la diversité des personnes membres de son personnel et applique un programme d’accès à l’égalité en emploi visant les femmes, les membres des minorités visibles et ethniques, les Autochtones et les personnes handicapées. Ayant reçu la certification Parité de La Gouvernance au Féminin, elle offre d’excellentes conditions de travail misant notamment sur la conciliation travail-vie personnelle et le bien-être de ses employées et employés.
 
-===== Organisation 34 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/universitedemontreal/
-Website: http://www.umontreal.ca/
+===== Organisation 34: Université de Montréal - UdeM =====
+URL: https://macommunaute.ca/bottin-des-organismes/universitedemontreal/
+Site internet: http://www.umontreal.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2900, boulevard Édouard-Montpetit,
 Montréal QC H3T 1J4

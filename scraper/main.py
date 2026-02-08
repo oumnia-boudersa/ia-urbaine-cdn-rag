@@ -54,29 +54,17 @@ def main():
         txt_path = os.path.join(config.OUTPUT_DIR, f"{filter_name}.txt")
         with open(txt_path, "w", encoding="utf-8") as f:
             for i, card in enumerate(site_results, 1):
-                f.write(f"===== Organisation {i} =====\n")
-                f.write(f"Page URL: {card['url']}\n")
-                f.write(f"Website: {card['Site internet']}\n\n")
-                f.write(card["details"] or "")
+
+                f.write(f"===== Organisation {i}: {card['Organisation']} =====\n")
+                f.write(f"URL: {card['url']}\n")
+                f.write(f"Site internet: {card['Site internet']}\n\n")
+                f.write(f"Description: {card['details'] or ''}")
                 f.write("\n\n")
 
-
-    # Save outputs
-
-    # os.makedirs(config.OUTPUT_DIR, exist_ok=True)
-    # txt_file = os.path.join(config.OUTPUT_DIR, "results.txt")
-    # with open(txt_file, "w", encoding="utf-8") as f:
-    #     for i, card in enumerate(all_results, 1):
-    #         f.write(f"===== Organisation {i} =====\n")
-    #         f.write(f"Page URL: {card['url']}\n")
-    #         f.write(f"Website: {card['Site internet']}\n\n")
-    #         f.write(card["details"] or "")
-    #         f.write("\n\n")
-
-    # ---------- SAVE PDF ----------
-    pdf_path = os.path.join(config.OUTPUT_DIR, f"{filter_name}.pdf")
-    save_to_pdf(site_results, pdf_path)
-    logger.info(f"Saved files for {filter_name}")
+        # ---------- SAVE PDF ----------
+        pdf_path = os.path.join(config.OUTPUT_DIR, f"{filter_name}.pdf")
+        save_to_pdf(site_results, pdf_path)
+        logger.info(f"Saved files for {filter_name}")
 
     driver.quit()
 

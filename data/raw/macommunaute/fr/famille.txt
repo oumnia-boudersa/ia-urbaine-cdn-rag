@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ymcaduquebec/
-Website: http://www.ymcaquebec.org/
+===== Organisation 1: Les YMCA du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/ymcaduquebec/
+Site internet: http://www.ymcaquebec.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 1435 Rue Drummond,
 Montréal QC H3G 1W3
@@ -55,11 +55,11 @@ Les YMCA du Québec sont un organisme de bienfaisance dont la mission est de bâ
 Description
 Les YMCA du Québec sont un organisme de bienfaisance qui a pour mission de bâtir des communautés plus fortes en offrant des occasions d’épanouissement et de vie active, saine et engagée pour tous. Ses dix centres YMCA, son École internationale de langues, son École de ski, sa Résidence, son Camp YMCA Kanawana et ses 43 points de service à l’échelle de la province, sont fréquentés chaque année par plus de 130 000 personnes. Le premier YMCA d’Amérique du Nord a vu le jour à Montréal en novembre 1851. Les YMCA du Québec font partie d’un réseau canadien qui compte 50 associations YMCA. Pour de plus amples informations, visitez notre site Internet www.ymcaquebec.org, nos pages Facebook facebook.com/ymcaquebec ou Twitter twitter.com/YMCAQuebec.
 
-===== Organisation 2 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/agenceometz/
-Website: http://www.ometz.ca/
+===== Organisation 2: Agence Ometz =====
+URL: https://macommunaute.ca/bottin-des-organismes/agenceometz/
+Site internet: http://www.ometz.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5151 chemin Côte-Sainte-Catherine,
 Montréal QC H3W 1M6
@@ -75,11 +75,11 @@ La vague grandissante d’immigrants au Canada, en partie due aux nombreux nouve
 En 1945, l’Emploi Juif Montréal (JEM) a été fondé pour répondre aux besoins des vétérans canadiens de la guerre et des personnes arrivant d’Europe en quête de travail. Par la variété de services offerts aux demandeurs d’emploi et aux employeurs, JEM est devenu un leader montréalais en matière d’emploi et de placement.
 Actuellement, on compte plus de 13 000 personnes par année qui s’adressent à l’Agence Ometz dans le but d’améliorer leur qualité de vie. L’Agence offre un ensemble de services pour toute la famille qu’il s’agisse de difficultés vécues suite à l’éclatement de la famille ou de maladie mentale, de questions pécuniaires, de recherche d’un emploi ou d’installation à Montréal.
 
-===== Organisation 3 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairemountainsights/
-Website: https://ccmountainsights.org/
+===== Organisation 3: Centre Communautaire Mountain Sights - CCMS =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairemountainsights/
+Site internet: https://ccmountainsights.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7802, avenue Mountain Sights,
 Montréal QC H4P 2B2
@@ -112,11 +112,11 @@ Cliniques de santé
 Camp de jour dans le parc de La Savane (l’été)
 Groupe d’adolescents
 
-===== Organisation 4 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/maisonbleuemilieudeviepreventifalenfance/
-Website: http://www.maisonbleue.info/
+===== Organisation 4: La Maison Bleue : Milieu de vie préventif à l’enfance =====
+URL: https://macommunaute.ca/bottin-des-organismes/maisonbleuemilieudeviepreventifalenfance/
+Site internet: http://www.maisonbleue.info/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3735, avenue Plamondon,
 Montréal QC H3S 1L8
@@ -140,8 +140,11 @@ LA MAISON BLEUE - SAINT-MICHEL
 LA MAISON BLEUE - VERDUN
 4936 Rue de Verdun,
 (514) 564-4936
+(438) 383-4936
 LA MAISON BLEUE - MONTRÉAL-NORD
 4896, rue de Charleroi,
+(514) 903-4896
+(438) 380-3501
 Contacts (2)
 AMÉLIE SIGOUIN
 Directrice générale
@@ -153,8 +156,8 @@ Communiquer avec ce contact
 Mission
 La Maison Bleue est un organisme de bienfaisance sans but lucratif qui existe depuis le mois de mai 2007. La Maison Bleue vient en aide aux femmes enceintes et leur famille vivant dans un contexte de vulnérabilité. Sa mission est de réduire les inégalités sociales et favoriser le développement optimal de l’enfant, du ventre de sa mère jusqu’à l’âge de 5 ans.
 Description
-L’équipe de la Maison Bleue se compose de médecins de famille, d’une infirmière, d’une travailleuse sociale,d’un éducateur et d’une sage-femme qui travaillent en complémentarité dans un esprit d’interdisciplinarité. Les activités individuelles ou en groupe visent l’empowerment des femmes par la réappropriation de leur grossesse, la prévention de situations d’abus, de négligence, de relation d’attachement parent-enfant de type insécurisant, de troubles d’adaptation, etc.
-L’originalité de la Maison Bleue réside dans sa prise en compte de la multidisciplinarité des intervenants, de son environnement physique intégrateur qui offre plusieurs approches différentes et de sa structure administrative hybride. Une collaboration étroite avec le Centre de santé et des services sociaux de la Montagne a été établie, ce qui lui permet d’offrir gratuitement soins et activités.
+L’équipe de la Maison Bleue se compose de médecins de famille, d’une infirmière, d’une travailleuse sociale, d’un éducateur, d’une sage-femme et d’une avocate qui travaillent en complémentarité dans un esprit d’interdisciplinarité. Les activités individuelles ou en groupe visent l’empowerment des femmes par la réappropriation de leur grossesse, la prévention de situations d’abus, de négligence, de relation d’attachement parent-enfant de type insécurisant, de troubles d’adaptation, etc.
+L’originalité de la Maison Bleue réside dans sa prise en compte de la multidisciplinarité des intervenants, de son environnement physique intégrateur qui offre plusieurs approches différentes et de sa structure administrative hybride. Une collaboration étroite avec les CIUSSS et GMF de son territoire a été établie, ce qui lui permet d’offrir gratuitement soins et activités.
 Activités
 Évaluation initiale et plan d’intervention
 Activités prénatales et postnatales
@@ -169,11 +172,11 @@ Soutien matériel et Projet porte-bébés
 Projet orthophonie : un projet communautaire
 Projet « accompagnement à la naissance »
 
-===== Organisation 5 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/hippyquebec/
-Website: http://www.parentsengages.org/
+===== Organisation 5: Parents engagés pour la petite enfance - PEP =====
+URL: https://macommunaute.ca/bottin-des-organismes/hippyquebec/
+Site internet: http://www.parentsengages.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 5964 avenue Notre-Dame-de-Grâce, bureau 206,
 Montréal QC H4A 1N1
@@ -200,11 +203,11 @@ Des activités sont offertes à chaque visite, au domicile des familles, 30 sema
 Activités de groupe
 Des activités de groupe sur différents sujets et des sorties sont organisées pour les parents.
 
-===== Organisation 6 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/association-communautaire-westhaven-elmhurst/
-Website: None
+===== Organisation 6: Association Communautaire Westhaven-Elmhurst =====
+URL: https://macommunaute.ca/bottin-des-organismes/association-communautaire-westhaven-elmhurst/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7405 avenue Harley,
 Montréal QC H4B 1L5
@@ -224,11 +227,11 @@ Un camp d’été pour les jeunes, conçu pour encourager la créativité et le 
 Nous nous efforçons de créer un environnement inclusif où chaque individu peut s’épanouir, apprendre et se divertir. Grâce à nos activités diversifiées, nous visons à renforcer les liens entre les membres de la communauté, tout en répondant aux besoins spécifiques de chacun.
 Nous vous invitons à nous rejoindre pour découvrir toutes les opportunités que l’Association Communautaire Westhaven-Elmhurst a à offrir. Ensemble, construisons une communauté plus forte et plus unie!
 
-===== Organisation 7 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/baobabfamilial/
-Website: http://www.baobabfamilial.org/
+===== Organisation 7: Baobab Familial =====
+URL: https://macommunaute.ca/bottin-des-organismes/baobabfamilial/
+Site internet: http://www.baobabfamilial.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 599-6767 ch. Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -246,11 +249,11 @@ Description
 Le Baobab Familial offre des services divers destinés aux famille du quartier Côte-des-neiges: Accueil, écoute, référence et accompagnement; aide aux devoirs; halte-garderie communautaire; répit à domicile;; groupe ados; activités sportives pour femmes et filles; activités pour les pères; cafés partage et ateliers thématiques; ateliers sur les droits et responsabilités des enfants, sur le parcours migratoire et sur les compétences parentales; etc..
 Le Baobab Familial offre aussi toutes sortes d’activités à caractère social et culturel. Nos sorties permettent à nos familles de découvrir le Québec (plage, pommes, cabane à sucre, etc.), les cuisines collectives et les soupers communautaires sont autant d’occasion de se retrouver et de partager.
 
-===== Organisation 8 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-amitie-ressources-et-entraide-pour-la-jeunesse/
-Website: https://www.carejeunesse.org/
+===== Organisation 8: Centre Amitié, Ressources et Entraide pour la Jeunesse =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-amitie-ressources-et-entraide-pour-la-jeunesse/
+Site internet: https://www.carejeunesse.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7141 rue Sherbrooke Ouest, VE 223-7,
 Montréal QC H4B 1R6
@@ -281,11 +284,11 @@ Respect
 Bien-être
 C.A.R.E Jeunesse est très inclusif et accueille des membres de tous les horizons, capacités, cultures, religions, sexes, orientations sexuelles et ethnies. Notre objectif est de soutenir et d’accompagner tous les jeunes et anciens placés, offrant un espace d’écoute et de soutien pour leur permettre de s’épanouir malgré les défis rencontrés.
 
-===== Organisation 9 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairejuridiquedemontrealaidejuridique/
-Website: http://www.ccjm.qc.ca/
+===== Organisation 9: Centre communautaire juridique de Montréal – Aide juridique - CCJM =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairejuridiquedemontrealaidejuridique/
+Site internet: http://www.ccjm.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 440, boul. René-Lévesque ouest,
 Montréal QC H2Z 1V7
@@ -360,11 +363,11 @@ Expulsion
 Parrainage
 etc …
 
-===== Organisation 10 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredelapetiteenfanceenfantdesneigescpe/
-Website: None
+===== Organisation 10: Centre de la petite enfance Enfant-des-Neiges CPE =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredelapetiteenfanceenfantdesneigescpe/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5545, rue Snowdon,
 Montréal QC H3X 1Y8
@@ -380,11 +383,11 @@ Nous proposons une gamme de services adaptés aux besoins des familles, tels que
 Au CPE Enfant-des-Neiges, nous sommes fiers de soutenir les familles de Montréal dans leur quotidien en leur offrant des services de garde de qualité. Nous sommes un partenaire de confiance pour les parents qui cherchent un environnement chaleureux et sécuritaire pour leurs enfants.
 Rejoignez-nous au Centre de la petite enfance Enfant-des-Neiges CPE pour offrir à votre enfant une expérience enrichissante et éducative dans un cadre bienveillant et stimulant.
 
-===== Organisation 11 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpejardindefruits/
-Website: http://www.cpejardindefruits.org/
+===== Organisation 11: Centre de la petite enfance Jardin de Fruits - (CPE) =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpejardindefruits/
+Site internet: http://www.cpejardindefruits.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 5192 rue Paré,
 Montréal QC H4P 1P3
@@ -403,11 +406,11 @@ Le CPE offre des services de garde éducatifs diversifiés et de qualité au pro
 Description
 Nous sommes un centre de la petite enfance (CPE)
 
-===== Organisation 12 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredelapetiteenfancelesamisdepromiscpe/
-Website: None
+===== Organisation 12: Centre de la petite enfance Les Amis de Promis CPE =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredelapetiteenfancelesamisdepromiscpe/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3351 de la Côte-Sainte-Catherine,
 Montréal QC H3T 1C7
@@ -423,11 +426,11 @@ Au Centre de la petite enfance Les Amis de Promis CPE, nous mettons l’accent s
 Nos services s’adressent aux familles qui recherchent un CPE de confiance à Montréal, où l’éducation et le bien-être des enfants sont au cœur de nos préoccupations. Nous sommes fiers de jouer un rôle essentiel dans le développement des tout-petits, en collaboration étroite avec les parents.
 Au Centre de la petite enfance Les Amis de Promis CPE, nous sommes déterminés à offrir un environnement accueillant et sécuritaire où les enfants peuvent s’épanouir pleinement. Rejoignez-nous pour une expérience éducative enrichissante et stimulante pour votre enfant.
 
-===== Organisation 13 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredeservicecanadacotedesneigesndg/
-Website: http://www.servicecanada.gc.ca/
+===== Organisation 13: Centre de Service Canada – Côte-des-Neiges – N.-D.-G. =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredeservicecanadacotedesneigesndg/
+Site internet: http://www.servicecanada.gc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5160, boulevard Décarie,
 Montréal QC H3X 2H9
@@ -457,11 +460,11 @@ Téléphone: 1-800-123-4567
 Apprenez-en davantage sur notre mandat, nos programmes, notre transparence et notre engagement envers la lutte contre la fraude.
 Date de dernière modification du site: 17 juillet 2025
 
-===== Organisation 14 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpelescopainsdabord1/
-Website: None
+===== Organisation 14: centre peti enf carr =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpelescopainsdabord1/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5355, avenue West Hill,
 Montréal QC H4V 2W8
@@ -479,11 +482,11 @@ Accompagnement personnalisé pour les familles
 Soutien à la parentalité
 En tant que partenaire de confiance pour les familles de Montréal, le Centre Peti Enf Carr s’engage à promouvoir le bien-être et l’épanouissement des enfants, en offrant des services de qualité et en favorisant un environnement inclusif et bienveillant pour tous.
 
-===== Organisation 15 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cercle-amical-de-montreal/
-Website: https://www.cercledelamitie.ca/
+===== Organisation 15: Cercle Amical de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/cercle-amical-de-montreal/
+Site internet: https://www.cercledelamitie.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4585 avenue Bourret,
 Montréal QC H3S 1X1
@@ -503,11 +506,11 @@ Volet international du Cercle de l’amitié
 Le Cercle de l’amitié connaît une croissance rapide à l’échelle mondiale, avec plus de 80 établissements et des milliers d’enfants aux besoins particuliers et de bénévoles adolescents. Notre approche unique réunit ces jeunes pour des moments de plaisir et d’amitié, renforçant la confiance et l’autonomie des enfants aux besoins particuliers.
 Pour en savoir plus sur le volet international du Cercle de l’amitié, consultez le site FriendshipCircle.com.
 
-===== Organisation 16 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/chalet-kent/
-Website: https://www.chaletkent.ca/
+===== Organisation 16: Chalet Kent =====
+URL: https://macommunaute.ca/bottin-des-organismes/chalet-kent/
+Site internet: https://www.chaletkent.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3220 avenue Appleton,
 Montréal QC H3S 2T3
@@ -534,11 +537,11 @@ Occasions de créer des relations significatives et de développer la pensée cr
 Si vous souhaitez rejoindre notre communauté et rester informé de nos événements, inscrivez-vous ci-dessous :
 Merci de considérer le Chalet Kent comme un espace de croissance, de créativité et de communauté. Nous avons hâte de vous rencontrer en personne et de partager la beauté de créer ensemble.
 
-===== Organisation 17 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/garderiecrocus/
-Website: None
+===== Organisation 17: Cpe Crocus =====
+URL: https://macommunaute.ca/bottin-des-organismes/garderiecrocus/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone.
 Heures d'ouverture
@@ -551,11 +554,11 @@ L’enfant constitue la raison d’être du Centre de la petite enfance Crocus. 
 Description
 Le CPE Crocus est ouvert pour accueillir les enfants entre 7 h et 18 h, du lundi au vendredi. Notre adresse est le 3745 Chemin Queen Mary, Montréal, H3V 1A7.
 
-===== Organisation 18 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpeaupetitnuage/
-Website: None
+===== Organisation 18: CPE Au petit nuage =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpeaupetitnuage/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone.
 Heures d'ouverture
@@ -585,11 +588,11 @@ Dynamisme
 Salaire : 18,98 à 25,15 selon expérience.
 Entrée en fonction: Dès maintenant
 
-===== Organisation 19 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpebethrivkah/
-Website: None
+===== Organisation 19: CPE Beth Rivkah =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpebethrivkah/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5001, rue Vézina,
 Montréal QC H3W 1C2
@@ -607,11 +610,11 @@ Services de garde de qualité
 Soutien aux familles
 Collaboration avec la communauté de Montréal
 
-===== Organisation 20 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpecentrecommunautairejuif/
-Website: None
+===== Organisation 20: CPE Centre communautaire juif =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpecentrecommunautairejuif/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5480, avenue de Westbury,
 Montréal QC H3W 3G2
@@ -626,11 +629,11 @@ En tant que Centre de la petite enfance, le CPE Centre communautaire juif propos
 Par ailleurs, le CPE Centre communautaire juif s’engage également dans le soutien aux entreprises d’économie sociale. En favorisant l’inclusion et la solidarité, l’organisme contribue au développement économique et social de la communauté juive de Montréal.
 Au CPE Centre communautaire juif, nous mettons un point d’honneur à offrir des services de qualité, adaptés aux besoins spécifiques des familles et des enfants. Notre équipe dévouée et passionnée travaille chaque jour pour créer un environnement bienveillant et stimulant, où chacun peut s’épanouir et grandir en toute sécurité.
 
-===== Organisation 21 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpechateaudesneiges/
-Website: None
+===== Organisation 21: CPE Château des Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpechateaudesneiges/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5514 chemin Queen Mary,
 Montréal QC H3X 1V6
@@ -644,11 +647,11 @@ Notre mission est de soutenir les familles en leur offrant des services de quali
 En plus de nos services de garde, le CPE Château des Neiges collabore avec des entreprises d’économie sociale pour promouvoir l’économie locale et le développement durable. Nous sommes fiers de contribuer à la vitalité économique de notre quartier et de favoriser l’inclusion sociale.
 Au CPE Château des Neiges, nous mettons l’accent sur l’épanouissement des enfants, le soutien aux familles et la collaboration avec les acteurs locaux. Rejoignez-nous pour offrir le meilleur à vos enfants et contribuer au dynamisme de notre communauté.
 
-===== Organisation 22 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpecommunautairenotredamedegrace/
-Website: None
+===== Organisation 22: CPE communautaire Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpecommunautairenotredamedegrace/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4020, avenue Hingston,
 Montréal QC H4A 2J7
@@ -664,11 +667,11 @@ En tant qu’acteur de l’économie sociale, nous soutenons également les entr
 Nos services de garde sont conçus pour accompagner les familles dans leur quotidien, en leur offrant un soutien personnalisé et adapté à leurs besoins. Nous sommes fiers de contribuer au développement global des enfants et de favoriser l’épanouissement familial.
 Au CPE communautaire Notre-Dame-de-Grâce, nous mettons l’humain au cœur de nos actions et nous travaillons chaque jour pour créer un milieu de vie inclusif et bienveillant pour tous. Rejoignez-nous dans cette belle aventure!
 
-===== Organisation 23 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpecotedesneiges/
-Website: None
+===== Organisation 23: CPE Côte-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpecotedesneiges/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4810, avenue Van Horne,
 Montréal QC H3W 1J3
@@ -684,11 +687,11 @@ Nous collaborons également avec les entreprises d’économie sociale de la ré
 Au sein de notre centre, nos professionnels qualifiés et passionnés veillent au bien-être et à la sécurité des enfants, tout en favorisant leur éveil et leur apprentissage. Nous offrons un environnement stimulant et bienveillant, propice à l’épanouissement de chaque enfant.
 Au CPE Côte-des-Neiges, nous sommes fiers de jouer un rôle actif dans la vie de la communauté de Montréal et de contribuer au développement harmonieux des enfants et des familles de la région.
 
-===== Organisation 24 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpedeluniversitedemontreal/
-Website: None
+===== Organisation 24: CPE de l’Université de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpedeluniversitedemontreal/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 101 avenue Claude Champagne,
 Montréal QC H2V2X2
@@ -704,11 +707,11 @@ Au cœur de notre action se trouve notre centre de la petite enfance (CPE), où 
 En tant qu’acteur du secteur de l’économie sociale, nous collaborons avec des entreprises et des organisations locales pour promouvoir un modèle économique plus équitable et solidaire. Nous croyons en l’importance de soutenir le tissu social et économique de notre communauté, en encourageant des pratiques responsables et durables.
 Grâce à notre expertise et notre engagement envers les familles et les enfants, le CPE de l’Université de Montréal est un partenaire de choix pour les parents à la recherche de services de garde de qualité et de soutien éducatif. Nous sommes fiers de contribuer au bien-être et au développement des tout-petits de Montréal.
 
-===== Organisation 25 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpedelacote/
-Website: None
+===== Organisation 25: CPE de la Côte =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpedelacote/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5307, chemin de la Côte-des-Neiges,
 Montréal QC H3T 1Y4
@@ -724,11 +727,11 @@ Au CPE de la Côte, nous croyons en l’importance de créer un environnement s�
 Nos services de garde sont conçus pour répondre aux besoins des familles de Montréal, en offrant des programmes éducatifs adaptés à chaque tranche d’âge. Nous mettons l’accent sur l’épanouissement de chaque enfant et sur le soutien aux parents dans leur quotidien.
 Au CPE de la Côte, nous sommes fiers de faire partie de la communauté montréalaise et de contribuer au bien-être des familles et des entreprises d’économie sociale de notre région.
 
-===== Organisation 26 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpedespetitesfleurs/
-Website: None
+===== Organisation 26: CPE des Petites fleurs =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpedespetitesfleurs/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5080, rue West Broadway,
 Montréal QC H4V 1Z9
@@ -744,11 +747,11 @@ En plus de nos services de garde, nous collaborons étroitement avec les entrepr
 Le CPE des Petites Fleurs met un point d’honneur à offrir des programmes éducatifs adaptés à chaque enfant, favorisant leur épanouissement et leur développement global. Notre équipe qualifiée et attentionnée veille au bien-être de chaque enfant et à leur éveil à travers des activités variées et enrichissantes.
 Si vous recherchez un endroit accueillant et sécuritaire pour votre enfant, n’hésitez pas à nous contacter pour en savoir plus sur nos services de garde au sein du CPE des Petites Fleurs à Montréal.
 
-===== Organisation 27 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpeduquartierouest/
-Website: None
+===== Organisation 27: CPE du Quartier Ouest =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpeduquartierouest/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4171, avenue Madison,
 Montréal QC H4B 2V1
@@ -763,11 +766,11 @@ En tant que centre de la petite enfance (CPE), nous offrons un environnement sé
 Nous comprenons l’importance de concilier vie professionnelle et vie familiale, c’est pourquoi nous proposons des services de garde flexibles et adaptés aux besoins des parents. Que ce soit pour des horaires réguliers, des journées occasionnelles ou des périodes de vacances, nous sommes là pour accompagner les familles au quotidien.
 Le CPE du Quartier Ouest est un lieu de vie et d’apprentissage où chaque enfant est encouragé à explorer, grandir et s’épanouir. Rejoignez notre communauté et offrez à votre enfant une expérience enrichissante et mémorable dans un environnement chaleureux et sécuritaire.
 
-===== Organisation 28 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpeduquartierouestpetitesoeur/
-Website: None
+===== Organisation 28: CPE du Quartier Ouest — Petite soeur =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpeduquartierouestpetitesoeur/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4165, avenue Madison,
 Montréal QC H4B 2V1
@@ -786,11 +789,11 @@ Accompagnement personnalisé des familles
 Nous sommes fiers de contribuer à la vie de quartier et de soutenir les familles dans leur quotidien. En tant que CPE du Quartier Ouest — Petite soeur, nous mettons tout en oeuvre pour créer un environnement chaleureux et accueillant, où chaque enfant peut s’épanouir pleinement.
 Rejoignez-nous pour offrir à votre enfant une expérience éducative enrichissante et pour rejoindre une communauté engagée dans le bien-être des tout-petits à Montréal.
 
-===== Organisation 29 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpehec/
-Website: None
+===== Organisation 29: CPE HEC =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpehec/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5550, avenue Louis-Colin,
 Montréal QC H3T 1T7
@@ -806,11 +809,11 @@ Nous croyons en l’importance de la famille et de la communauté dans le dével
 En tant qu’organisme basé à Montréal, nous sommes fiers de servir la communauté locale en offrant des services de garde de qualité. Notre équipe est composée de professionnels dévoués et passionnés, prêts à accompagner les familles dans leur parcours éducatif.
 Au CPE HEC, nous sommes là pour soutenir les familles et contribuer au bien-être des enfants. Contactez-nous dès aujourd’hui pour en savoir plus sur nos services et nos programmes.
 
-===== Organisation 30 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpehelleniquetapedakia/
-Website: None
+===== Organisation 30: CPE hellénique Ta Pedakia =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpehelleniquetapedakia/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5757, avenue Wilderton,
 Montréal QC H3S 2K8
@@ -830,11 +833,11 @@ Encadrement professionnel et chaleureux
 Approche personnalisée
 Rejoignez-nous dès aujourd’hui pour offrir à votre enfant la meilleure expérience de garde à Montréal!
 
-===== Organisation 31 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpejardindenfantsndg/
-Website: None
+===== Organisation 31: CPE Jardin d’enfants NDG =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpejardindenfantsndg/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4335, avenue Hampton,
 Montréal QC H4A 2L3
@@ -854,11 +857,11 @@ Programmes éducatifs stimulants et enrichissants
 Activités favorisant le développement global des enfants
 Rejoignez-nous au CPE Jardin d’enfants NDG pour offrir à votre enfant une expérience éducative et enrichissante dans un environnement sécuritaire et bienveillant à Montréal.
 
-===== Organisation 32 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpekantsipor/
-Website: None
+===== Organisation 32: CPE Kan Tsipor =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpekantsipor/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5850, avenue Victoria,
 Montréal QC H3W 2R5
@@ -875,11 +878,11 @@ Nos professionnels qualifiés travaillent en étroite collaboration avec les par
 Au CPE Kan Tsipor, nous sommes fiers de jouer un rôle essentiel dans la vie des familles de Montréal. Nous sommes là pour accompagner, soutenir et encourager les parents dans leur rôle éducatif, en leur offrant un service de garde de qualité et en toute confiance.
 Rejoignez-nous dès aujourd’hui et découvrez comment le CPE Kan Tsipor peut contribuer au bonheur et à l’épanouissement de votre enfant!
 
-===== Organisation 33 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpelegardiendesreves/
-Website: None
+===== Organisation 33: CPE Le gardien des rêves =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpelegardiendesreves/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3757, avenue Van Horne,
 Montréal QC H3S 1R9
@@ -894,11 +897,11 @@ Grâce à notre expertise en tant que Centre de la petite enfance (CPE), nous of
 Nous comprenons l’importance de concilier vie familiale et professionnelle, c’est pourquoi nous offrons des services de garde flexibles et de qualité pour répondre aux besoins des parents. Chez CPE Le gardien des rêves, nous sommes là pour accompagner les familles dans leur quotidien et contribuer au bonheur des enfants.
 Si vous recherchez un CPE de confiance à Montréal, n’hésitez pas à nous contacter. Nous serons ravis de vous accueillir et de vous faire découvrir notre approche pédagogique axée sur le bien-être et l’épanouissement de chaque enfant.
 
-===== Organisation 34 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpelepasdegeant/
-Website: None
+===== Organisation 34: CPE Le pas de géant =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpelepasdegeant/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6685-6693, avenue Chester,
 Montréal QC H4V 1K4
@@ -914,11 +917,11 @@ Au sein de notre centre de la petite enfance (CPE), nous mettons tout en œuvre 
 Nos services de garde sont conçus pour répondre aux besoins des familles en offrant des horaires flexibles et des tarifs abordables. Nous sommes fiers d’être un soutien précieux pour les parents qui travaillent ou étudient, en leur offrant la tranquillité d’esprit nécessaire pour concilier vie professionnelle et vie familiale.
 Vous cherchez un CPE de confiance à Montréal pour votre enfant? N’hésitez pas à nous contacter pour en savoir plus sur nos services et nos valeurs. Chez CPE Le pas de géant, chaque enfant est unique et mérite le meilleur accompagnement pour grandir et s’épanouir!
 
-===== Organisation 35 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpelesptitsprofs/
-Website: None
+===== Organisation 35: CPE Les p’tits profs =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpelesptitsprofs/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3500-3502, avenue Belmore,
 Montréal QC H4B 2B9
@@ -933,11 +936,11 @@ En tant que Centre de la petite enfance (CPE), nous mettons l’accent sur le bi
 Les services de garde que nous offrons sont conçus pour répondre aux besoins des familles d’aujourd’hui. Que ce soit pour une garde régulière, occasionnelle ou en situation d’urgence, nous sommes là pour accompagner les parents dans la conciliation de leur vie professionnelle et familiale.
 Les P’tits Profs s’engage à promouvoir le bien-être des enfants et le soutien aux familles, en offrant des services de qualité et adaptés aux besoins de chacun. Nous sommes fiers de contribuer au développement des tout-petits et de soutenir les parents dans leur rôle éducatif. Rejoignez-nous à Montréal pour une expérience enrichissante et bienveillante pour vos enfants.
 
-===== Organisation 36 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpelespetitsgenies/
-Website: None
+===== Organisation 36: CPE Les petits génies =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpelespetitsgenies/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2775, avenue Willowdale,
 Montréal QC H3T 1H4
@@ -957,11 +960,11 @@ Services de garde adaptés aux besoins des familles
 Environnement sécuritaire et stimulant
 Venez découvrir le CPE Les petits génies, où chaque enfant est un petit génie en devenir!
 
-===== Organisation 37 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpemespremierspas/
-Website: None
+===== Organisation 37: CPE Mes premiers pas =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpemespremierspas/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 699, chemin de la Côte-des-Neiges,
 Montréal QC H3S 2B8
@@ -981,11 +984,11 @@ Repas équilibrés et sains
 Activités ludiques et éducatives
 Vous cherchez un CPE de confiance à Montréal pour accompagner votre enfant dans ses premiers pas? Faites confiance à CPE Mes premiers pas pour un environnement chaleureux et sécuritaire où votre enfant pourra s’épanouir pleinement.
 
-===== Organisation 38 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpemoitoietlesnotres/
-Website: None
+===== Organisation 38: CPE Moi, toi et les nôtres =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpemoitoietlesnotres/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2483, avenue Mariette,
 Montréal QC H4B 2E7
@@ -1000,11 +1003,11 @@ Au cœur de notre engagement se trouve notre Centre de la petite enfance (CPE), 
 Nos services de garde sont conçus pour offrir un environnement chaleureux et sécuritaire, où les enfants peuvent jouer, apprendre et grandir en toute confiance. Nous mettons l’accent sur l’éducation, en proposant des activités pédagogiques et ludiques qui favorisent le développement global de l’enfant.
 En choisissant CPE Moi, toi et les nôtres, vous optez pour une équipe professionnelle et dévouée, qui met tout en œuvre pour offrir aux enfants un cadre de vie stimulant et enrichissant. Rejoignez-nous pour une expérience éducative et humaine unique à Montréal !
 
-===== Organisation 39 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpepetiteschenilles/
-Website: https://www.cpelieu.com/cpe-petites-chenilles/
+===== Organisation 39: CPE Petites Chenilles ⌲ LIEU DES PETITS =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpepetiteschenilles/
+Site internet: https://www.cpelieu.com/cpe-petites-chenilles/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5851, chemin Upper-Lachine,
 Montréal QC H4A 2B7
@@ -1030,11 +1033,11 @@ Situé près du Métro Vendôme, nous sommes au service des familles francophone
 Les Petites Chenilles, un CPE pour tous!
 Pour inscrire votre enfant au CPE Petites Chenilles
 
-===== Organisation 40 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpestmary/
-Website: None
+===== Organisation 40: CPE St-Mary =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpestmary/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3830, avenue Lacombe,
 Montréal QC H3T 1M5
@@ -1054,11 +1057,11 @@ Services de garde adaptés
 Environnement sécuritaire et stimulant
 Venez nous rendre visite au CPE St-Mary pour découvrir notre approche unique et chaleureuse envers les familles de Montréal!
 
-===== Organisation 41 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpeyeshivagedola/
-Website: None
+===== Organisation 41: CPE Yeshiva Gedola =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpeyeshivagedola/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6155, chemin Deacon,
 Montréal QC H3S 2P4
@@ -1076,11 +1079,11 @@ Services de garde de qualité
 Activités éducatives et ludiques
 Soutien personnalisé aux familles
 
-===== Organisation 42 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpeyeshivaleviyitzchak/
-Website: None
+===== Organisation 42: CPE Yeshiva Levi Yitzchak =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpeyeshivaleviyitzchak/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6405, avenue de Westbury,
 Montréal QC H3W 2X5
@@ -1095,11 +1098,11 @@ Au CPE Yeshiva Levi Yitzchak, nous mettons l’accent sur l’éducation et le d
 Nous sommes fiers de proposer des activités éducatives variées, adaptées à l’âge et aux besoins de chaque enfant. Notre équipe de professionnels qualifiés est dévouée à offrir un accompagnement personnalisé et chaleureux à chaque famille.
 Que vous soyez à la recherche d’un CPE de confiance à Montréal pour votre enfant ou que vous souhaitiez en savoir plus sur nos services de garde, le CPE Yeshiva Levi Yitzchak est là pour vous accompagner. Contactez-nous dès aujourd’hui pour découvrir comment nous pouvons répondre à vos besoins en matière de petite enfance.
 
-===== Organisation 43 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/family-care-collective/
-Website: https://www.familycarecollective.org/
+===== Organisation 43: Family Care Collective =====
+URL: https://macommunaute.ca/bottin-des-organismes/family-care-collective/
+Site internet: https://www.familycarecollective.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5276 rue Sherbrooke Ouest, bureau 214,
 Montréal QC H4A 1W8
@@ -1122,11 +1125,11 @@ Notre équipe est composée de professionnels de la santé, d’activistes et de
 Équipe
 Notre approche centrée sur la personne, interdisciplinaire et intégrative, repose sur un réseau solide de professionnels de la santé, d’activistes et de chercheurs. Nous défendons l’équité, la dignité et l’éthique féministe en tant que valeurs fondamentales, tout en soutenant la santé physique et mentale de la famille dans son ensemble.
 
-===== Organisation 44 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/federation-quebecoise-des-associations-foyers-ecoles/
-Website: https://www.qfhsa.org/
+===== Organisation 44: Fédération Québécoise des Associations Foyers-Écoles =====
+URL: https://macommunaute.ca/bottin-des-organismes/federation-quebecoise-des-associations-foyers-ecoles/
+Site internet: https://www.qfhsa.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3285 boulevard Cavendish, bureau 560,
 Montréal QC H4B 2L9
@@ -1145,11 +1148,11 @@ Assurance QFHSA : Si vous planifiez un événement spécial, n’oubliez pas de 
 Rapports et Présentations : Consultez nos rapports et présentations des événements passés, tels que des tables rondes sur la promotion de l’anti-racisme et de l’anti-discrimination au Québec ou des discussions sur l’enseignement supérieur.
 Nous croyons en la collaboration et l’engagement de la communauté pour améliorer l’éducation et l’épanouissement des jeunes au Québec. Rejoignez-nous dans cette mission importante et ensemble, construisons un avenir meilleur pour nos enfants et notre société.
 
-===== Organisation 45 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/jeunesse-loyola/
-Website: https://www.jeunesseloyola.org/fr
+===== Organisation 45: Jeunesse Loyola =====
+URL: https://macommunaute.ca/bottin-des-organismes/jeunesse-loyola/
+Site internet: https://www.jeunesseloyola.org/fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6975 avenue Chester,
 Montréal QC H4V 2Z7
@@ -1170,11 +1173,11 @@ Nous organisons également des événements tels que des ateliers de personnalis
 Si vous souhaitez soutenir notre cause et contribuer à notre engagement envers la jeunesse, n’hésitez pas à faire un don.
 Nous sommes fiers de notre approche fondée sur les forces, qui vise à inspirer l’appartenance et la croissance chez les jeunes de NDG. Rejoignez-nous pour découvrir tout ce que Jeunesse Loyola a à offrir!
 
-===== Organisation 46 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lappuinational/
-Website: http://lappui.org/
+===== Organisation 46: L’Appui =====
+URL: https://macommunaute.ca/bottin-des-organismes/lappuinational/
+Site internet: http://lappui.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 400, boul. de Maisonneuve O., bureau 720,
 Montréal QC H3A 1L4
@@ -1188,11 +1191,11 @@ La mission de l'Appui pour les proches aidants est de contribuer au soutien des 
 Description
 Fondé en 2009, l’Appui pour les proches aidants est un organisme à but non lucratif financé par le Gouvernement du Québec et la Famille Lucie et André Chagnon. Le mandat principal de l’Appui pour les proches aidants consiste à soutenir le déploiement de services d’information, de formation, de soutien psychosocial et de répit, par le financement des organismes présents dans les milieux. L’Appui agit aussi à titre d’agent de mobilisation et de concertation des différents acteurs qui se consacrent au soutien des proches aidants et qui participent à améliorer leur qualité de vie. Cette mission est réalisée nationalement, mais aussi grâce à une présence dans 17 régions déployées partout au Québec, ainsi qu’à une entente spécifique de développement pour les Terres-Cries-de-la-Baie-James.
 
-===== Organisation 47 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lappuipourlesprochesaidantsmontreal/
-Website: http://lappui.org/
+===== Organisation 47: L’Appui pour les proches aidants Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/lappuipourlesprochesaidantsmontreal/
+Site internet: http://lappui.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 400, boul. de Maisonneuve O., bureau 720,
 Montreal QC H3A 1L4
@@ -1208,11 +1211,11 @@ Description
 À propos de l’Appui
 Fondé en 2009, l’Appui pour les proches aidants est un organisme à but non lucratif financé par le Gouvernement du Québec et la Famille Lucie et André Chagnon. Le mandat principal de l’Appui pour les proches aidants consiste à soutenir le déploiement de services d’information, de formation, de soutien psychosocial et de répit, par le financement des organismes présents dans les milieux. L’Appui agit aussi à titre d’agent de mobilisation et de concertation des différents acteurs qui se consacrent au soutien des proches aidants et qui participent à améliorer leur qualité de vie. Cette mission est réalisée nationalement, mais aussi grâce à une présence dans 17 régions déployées partout au Québec, ainsi qu’à une entente spécifique de développement pour les Terres-Cries-de-la-Baie-James.
 
-===== Organisation 48 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lenvol-des-femmes/
-Website: https://fr.womenontherise.ca/
+===== Organisation 48: L’Envol des Femmes =====
+URL: https://macommunaute.ca/bottin-des-organismes/lenvol-des-femmes/
+Site internet: https://fr.womenontherise.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6897 avenue Somerled,
 Montréal QC H4V 1V2
@@ -1238,11 +1241,11 @@ En devenant membre de Women on the Rise, vous soutenez la mission de l’organis
 Les avantages d’être membre incluent la réception du calendrier, des mises à jour régulières, des invitations spéciales, ainsi que la possibilité d’apprendre de nouvelles compétences et de participer à des relations de soutien dans un espace accueillant.
 Pour devenir membre, il suffit de contacter le personnel de l’organisme pour obtenir le formulaire d’adhésion.
 
-===== Organisation 49 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cpestejustine/
-Website: None
+===== Organisation 49: Le CPE Ste-Justine =====
+URL: https://macommunaute.ca/bottin-des-organismes/cpestejustine/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3175, chemin de la Côte-Sainte-Catherine,
 Montréal QC H3T 1C5
@@ -1256,11 +1259,11 @@ C’est grâce à l’initiative de deux employés du CHU Sainte-Justine que le 
 Au fil des années, des groupes d’enfants ont vu le jour, la qualité éducative a été revue et de nouvelles approches pédagogiques se sont instaurées. Le ratio d’enfants par groupe et l’instauration de temps de préparation pédagogique pour le personnel ont été révisées.Ceci est une pratique toujours en cours aujourd’hui.
 La création d’un poste à la cuisine et la réorganisation des horaires de travail sur quatre jours par semaine ont contribuées à un milieu de vie agréable pour tous. Que ce soit comme coordonnatrice et plus tard sous l’appellation de directrice, plusieurs personnes ont porté cette charge avec diligence et passion. L’équipe de travail a toujours été et continue à être un élément essentiel dans le bon fonctionnement du service de garde.
 
-===== Organisation 50 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/relaiscotedesneiges/
-Website: http://relaiscdn.ca/
+===== Organisation 50: Le Relais Côte-Des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/relaiscotedesneiges/
+Site internet: http://relaiscdn.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6600 avenue Victoria,
 Montreal QC H3W3G8
@@ -1302,11 +1305,11 @@ Activités spéciales
 Sorties socio-éducatives
 Semaine de relâche scolaire
 
-===== Organisation 51 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/maisondelafamillemosaik/
-Website: None
+===== Organisation 51: Maison de la famille Mosaïk =====
+URL: https://macommunaute.ca/bottin-des-organismes/maisondelafamillemosaik/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6215, Côte St-Luc,
 Montréal QC H3X 2H3
@@ -1363,11 +1366,11 @@ Five week program, where parents learn the benefits and how to do baby massage
 OLO, support group for pregnant women (through referrals). Registration required.
 Toy lending library and Resource Library is open
 
-===== Organisation 52 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/maison-elizabeth/
-Website: https://maisonelizabethhouse.com/fr/
+===== Organisation 52: Maison Elizabeth =====
+URL: https://macommunaute.ca/bottin-des-organismes/maison-elizabeth/
+Site internet: https://maisonelizabethhouse.com/fr/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2131 avenue Marlowe,
 Montréal QC H4A 3L4
@@ -1405,11 +1408,11 @@ Rapports Annuels
 Nous publions régulièrement des rapports annuels pour rendre compte de nos activités et de nos réalisations. Vous pouvez consulter nos rapports précédents pour en savoir plus sur notre engagement et notre impact dans la communauté.
 Nous vous remercions de votre intérêt pour la Maison Elizabeth House. Ensemble, nous pouvons faire une différence dans la vie des jeunes familles et contribuer à bâtir des avenirs plus prometteurs pour tous.
 
-===== Organisation 53 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/maisons-transitionnelles-o3-les-on-our-own-o3/
-Website: https://www.o3onourown.com/
+===== Organisation 53: Maisons Transitionnelles O3 (les) – On Our Own O3 =====
+URL: https://macommunaute.ca/bottin-des-organismes/maisons-transitionnelles-o3-les-on-our-own-o3/
+Site internet: https://www.o3onourown.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3970 boulevard Cavendish, bureau 1,
 Montréal QC H4B 2N3
@@ -1442,11 +1445,11 @@ Téléphone : 514-369-0757
 Courriel : info@o3onourown.com
 Merci de soutenir les Maisons Transitionnelles O3 et de nous aider à briser le cycle de la pauvreté, une famille à la fois.
 
-===== Organisation 54 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/manoir-ronald-mcdonald/
-Website: https://manoirmontreal.qc.ca/
+===== Organisation 54: Manoir Ronald Mcdonald =====
+URL: https://macommunaute.ca/bottin-des-organismes/manoir-ronald-mcdonald/
+Site internet: https://manoirmontreal.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5800 Chemin Hudson,
 Montréal QC H3S 2G5

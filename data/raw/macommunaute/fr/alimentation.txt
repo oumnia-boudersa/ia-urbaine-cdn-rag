@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/depotalimentairendg/
-Website: http://www.depotmtl.org/
+===== Organisation 1: The Depot Community Food Centre =====
+URL: https://macommunaute.ca/bottin-des-organismes/depotalimentairendg/
+Site internet: http://www.depotmtl.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6505 av. Somerled,
 Montreal QC H4V 1S7
@@ -21,11 +21,11 @@ De développer les saines habitudes, les connaissances et les compétences alime
 De favoriser le développement personnel et l’engagement communautaire des participantes et des participants.
 D’améliorer la compréhension de la pauvreté, de la justice sociale et des lacunes du système alimentaire, et d’aménager un cadre inclusif pour entreprendre des actions efficaces contre ces problèmes.
 
-===== Organisation 2 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrepourpersonnesageesespoirnouveau/
-Website: https://newhopendg.com/
+===== Organisation 2: Centre pour personnes âgées Espoir nouveau | New Hope Senior Citizens’ Centre - NH =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrepourpersonnesageesespoirnouveau/
+Site internet: https://newhopendg.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6225, av. Godfrey,
 Montréal QC H4B 1K3
@@ -41,11 +41,11 @@ Description
 Repas communautaire, le lundi et mercredi à 12h.
 Encourage les contacts interpersonnels par des activités de loisir: conditionnement physique, programme de visites amicales
 
-===== Organisation 3 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/corporationdedeveloppementcommunautairedecotedesneigescdc/
-Website: http://www.conseilcdn.qc.ca/
+===== Organisation 3: Corporation de développement communautaire de Côte-des-Neiges CDC =====
+URL: https://macommunaute.ca/bottin-des-organismes/corporationdedeveloppementcommunautairedecotedesneigescdc/
+Site internet: http://www.conseilcdn.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767 ch. de la Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -71,11 +71,11 @@ Initier ou soutenir des initiatives visant à rapprocher les différentes commun
 Défendre les intérêts de la communauté et agir comme porte-parole de ses membres auprès des différentes instances gouvernementales, publiques ou privées;
 Entretenir des liens avec des organismes poursuivant des fins similaires, afin d’alimenter le travail de la CDC et des ses membres et de maximiser l’impact de leurs interventions.
 
-===== Organisation 4 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/coalition-pour-la-securite-alimentaire-de-notre-dame-de-grace/
-Website: https://www.ndg.ca/fr/coalition-for-food-security
+===== Organisation 4: Coalition pour la Sécurité Alimentaire de Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/coalition-pour-la-securite-alimentaire-de-notre-dame-de-grace/
+Site internet: https://www.ndg.ca/fr/coalition-for-food-security
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5964 rue Notre-Dame-de-Grâce, bureau 204,
 Montréal QC H4A 1N1
@@ -95,11 +95,11 @@ Membres: CIUSSS-CO Cavendish, NDG Community Council, The Depot Community Food Ce
 Documents et liens utiles: La Coalition a créé un guide de ressources et initiatives en sécurité alimentaire à NDG pour faciliter la collaboration et les échanges entre les partenaires. Ce guide est régulièrement mis à jour en ligne.
 Pour plus d’informations et pour vous impliquer en faisant un don, en devenant bénévole ou membre, vous pouvez contacter la Coalition pour la sécurité alimentaire de NDG.
 
-===== Organisation 5 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cafeteriacommunautairemulticaf/
-Website: http://www.multicaf.org/
+===== Organisation 5: La Cafétéria communautaire MultiCaf =====
+URL: https://macommunaute.ca/bottin-des-organismes/cafeteriacommunautairemulticaf/
+Site internet: http://www.multicaf.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3591 av. Appleton,
 Montréal QC H3S 1K5
@@ -120,11 +120,11 @@ Notre cafétéria communautaire est ouverte à tous du lundi au vendredi où on 
 L’idéal des fondateurs de MultiCaf n’était pas limité au dépannage alimentaire. Ils étaient convaincus que les problèmes liés à la pauvreté nécessitaient que l’organisme aille plus loin. MultiCaf devait devenir un lieu de rencontre où les gens défavorisés pourraient se rassembler afin d’éviter l’isolement et revendiquer ensemble une société juste et équitable. À cette fin, MultiCaf offre un important programme d’activités complémentaires telles que des ateliers en alimentation et autres sujets pertinents, des sorties récréatives, un journal mensuel (écrit par nos membres), etc.
 Consultez notre site web au www.multicaf.org
 
-===== Organisation 6 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ateliersboitealunch/
-Website: http://boitealunchndg.org/
+===== Organisation 6: Les Ateliers Boîte à Lunch =====
+URL: https://macommunaute.ca/bottin-des-organismes/ateliersboitealunch/
+Site internet: http://boitealunchndg.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6244 Rue Sherbrooke Ouest,
 Montréal QC H4B 1M2
@@ -161,11 +161,11 @@ Des pique-niques d’été pour les familles.
 Un programme de Cuisine Rencontres pour les parents.
 Voir plus d’informations sur nos activités ici!
 
-===== Organisation 7 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/multicaf-ressource-communautaire-en-alimentation/
-Website: https://multicaf.org/
+===== Organisation 7: Multicaf – Ressource Communautaire en Alimentation =====
+URL: https://macommunaute.ca/bottin-des-organismes/multicaf-ressource-communautaire-en-alimentation/
+Site internet: https://multicaf.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3591 rue Appleton,
 Montréal QC H3S 1K5

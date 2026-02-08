@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredebenevolatsarpad/
-Website: https://www.sarpad.com/
+===== Organisation 1: Centre de bénévolat SARPAD Inc. - SARPAD =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredebenevolatsarpad/
+Site internet: https://www.sarpad.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6555 Chemin de la Côte-des-Neiges, Suite 442,
 Montréal QC H3S 2A6
@@ -55,11 +55,11 @@ Clinique d’impôts
 Cours informatique
 Pour effectuer une première demande de service, il suffit de téléphoner soit au bureau de Côte-des-Neiges, soit au bureau d’Outremont.
 
-===== Organisation 2 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrepourpersonnesageesespoirnouveau/
-Website: https://newhopendg.com/
+===== Organisation 2: Centre pour personnes âgées Espoir nouveau | New Hope Senior Citizens’ Centre - NH =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrepourpersonnesageesespoirnouveau/
+Site internet: https://newhopendg.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6225, av. Godfrey,
 Montréal QC H4B 1K3
@@ -75,11 +75,11 @@ Description
 Repas communautaire, le lundi et mercredi à 12h.
 Encourage les contacts interpersonnels par des activités de loisir: conditionnement physique, programme de visites amicales
 
-===== Organisation 3 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/a-deux-mains/
-Website: https://www.headandhands.ca/
+===== Organisation 3: À Deux Mains =====
+URL: https://macommunaute.ca/bottin-des-organismes/a-deux-mains/
+Site internet: https://www.headandhands.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3465 avenue Benny,
 Montréal QC H4B 2R9
@@ -104,11 +104,11 @@ Head & Hands œuvre depuis plus de 50 ans à l’autonomisation des jeunes de Mo
 Reconnaissance territoriale : Nous reconnaissons que Tio’tia:ke (Montréal) a longtemps été un lieu de rencontre et d’échanges entre les nations autochtones. Nous remercions la terre pour les ressources qu’elle nous procure et reconnaissons le rôle des Kanien’keha:ka comme gardiens de ce territoire.
 Nous soutenons les résistances autochtones en cours à travers le « Canada » et reconnaissons la responsabilité des Premières Nations, Inuits et Métis dans la protection de l’Île de la Tortue. La Terre a existé bien avant nous et continuera bien après notre départ.
 
-===== Organisation 4 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/baobabfamilial/
-Website: http://www.baobabfamilial.org/
+===== Organisation 4: Baobab Familial =====
+URL: https://macommunaute.ca/bottin-des-organismes/baobabfamilial/
+Site internet: http://www.baobabfamilial.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 599-6767 ch. Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -126,11 +126,11 @@ Description
 Le Baobab Familial offre des services divers destinés aux famille du quartier Côte-des-neiges: Accueil, écoute, référence et accompagnement; aide aux devoirs; halte-garderie communautaire; répit à domicile;; groupe ados; activités sportives pour femmes et filles; activités pour les pères; cafés partage et ateliers thématiques; ateliers sur les droits et responsabilités des enfants, sur le parcours migratoire et sur les compétences parentales; etc..
 Le Baobab Familial offre aussi toutes sortes d’activités à caractère social et culturel. Nos sorties permettent à nos familles de découvrir le Québec (plage, pommes, cabane à sucre, etc.), les cuisines collectives et les soupers communautaires sont autant d’occasion de se retrouver et de partager.
 
-===== Organisation 5 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-decoute-et-dinterpretation-des-nouvelles-recherches-du-croire/
-Website: https://ceinr.com/
+===== Organisation 5: Centre d’Écoute et d’Interprétation des Nouvelles Recherches du Croire =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-decoute-et-dinterpretation-des-nouvelles-recherches-du-croire/
+Site internet: https://ceinr.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2375 chemin de la Côte-Sainte-Catherine, bureau 5041,
 Montréal QC H3T 1A8
@@ -160,11 +160,11 @@ Revues publiées par le CEINR :
 Revue Ouvertures – Volumes 1 à 6
 Pour toute collaboration ou publication dans la revue Ouvertures, vous pouvez contacter l’équipe éditoriale à l’adresse redactionouvertures@gmail.com ou par téléphone au 514 343-2081.
 
-===== Organisation 6 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-dhebergement-saint-andrew/
-Website: https://www.saint-andrew.ca/
+===== Organisation 6: Centre d’Hébergement Saint-Andrew =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-dhebergement-saint-andrew/
+Site internet: https://www.saint-andrew.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3350 boulevard Cavendish,
 Montréal QC H4B 2M7
@@ -191,11 +191,11 @@ Personnes âgées de l’ouest de l’île de Montréal
 Besoins de soins continus
 Personnes ne pouvant plus vivre seules
 
-===== Organisation 7 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredecouteetdereferencemultiecoute/
-Website: http://www.multiecoute.org/
+===== Organisation 7: Centre d’écoute et de référence Multi-Écoute =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredecouteetdereferencemultiecoute/
+Site internet: http://www.multiecoute.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3600 Avenue Barclay,
 Montréal QC H3S 1K5
@@ -218,11 +218,11 @@ Informer et référer les participants vers des ressources du milieu pour bonifi
 Aider les immigrants et les nouveaux-arrivants à s’adapter et à mieux s’intégrer à la société d’accueil.
 Amener la personne à trouver en elle les ressources et les solutions à ses problèmes, et si nécessaire, l’aider à trouver les ressources externes pouvant répondre à ses besoins.
 
-===== Organisation 8 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredebenevolatcotedesneiges/
-Website: http://www.centrebenevolatcdn.org/accueilreception
+===== Organisation 8: Centre de bénévolat Côte-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredebenevolatcotedesneiges/
+Site internet: http://www.centrebenevolatcdn.org/accueilreception
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5450 Chem. de la Côte des Neiges,
 Montréal QC H3V 1Y6
@@ -252,11 +252,11 @@ La gestion du Centre est assurée par un conseil d’administration composé de 
 Afin de répondre aux besoins de nos bénéficiaires le recrutement de bénévoles se fait en continu.
 Si vous voulez vous impliquer dans un milieu qui a le bien être des aînés à cœur, contactez nous!
 
-===== Organisation 9 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-de-benevolat-notre-dame-de-grace/
-Website: None
+===== Organisation 9: Centre de Bénévolat Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-de-benevolat-notre-dame-de-grace/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4455 rue Benny, bureau 100,
 Montréal QC H4B 2S2
@@ -278,11 +278,11 @@ Ces activités sont conçues non seulement pour répondre aux besoins pratiques 
 En choisissant de participer aux programmes du Centre, les aînés peuvent découvrir une communauté dynamique qui valorise la solidarité et l’entraide. Grâce à une équipe de bénévoles dévoués, l’organisme s’efforce de répondre aux défis quotidiens auxquels font face les personnes âgées, tout en favorisant leur autonomie et leur bien-être.
 Pour plus d’informations sur les services offerts et comment y accéder, n’hésitez pas à contacter le Centre. Ensemble, nous pouvons contribuer à faire de Côte-des-Neiges—Notre-Dame-de-Grâce un lieu où chaque aîné se sent chez soi.
 
-===== Organisation 10 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-de-benevolat-sarpad-cote-des-neiges/
-Website: https://sarpad.com/
+===== Organisation 10: Centre de Bénévolat Sarpad – Côte-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-de-benevolat-sarpad-cote-des-neiges/
+Site internet: https://sarpad.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6555 chemin de la Côte-des-Neiges, bureau 442,
 Montréal QC H3S 2A6
@@ -331,11 +331,11 @@ Coordonnatrice du projet « Vieillir mieux chez soi, ça se prépare! »: Valér
 Chargée de contenu « Vieillir mieux chez soi, ça se prépare! »: Marie Lamarre
 Travailleuse de milieu (ITMAV): Lorena Garrido
 
-===== Organisation 11 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrederessourcesdelacommunautenoire/
-Website: http://www.bcrcmontreal.com/
+===== Organisation 11: Centre de ressources de la communauté noire =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrederessourcesdelacommunautenoire/
+Site internet: http://www.bcrcmontreal.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767, Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -346,11 +346,11 @@ Mission
 Aider les jeunes anglophones noirs de Montréal à participer pleinement à la société civile
 Description
 
-===== Organisation 12 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredesainescotedesneiges/
-Website: http://www.ainecdn.org/
+===== Organisation 12: Centre des Aînés Côte-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredesainescotedesneiges/
+Site internet: http://www.ainecdn.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6600, Avenue Victoria, bureau 101,
 Montréal QC H3W 3G7
@@ -379,11 +379,11 @@ Programmes à caractère préventif face au vieillissement
 Service d’information, d’orientation et de références auprès des groupes communautaires et des services sociaux du quartier ou d’ailleurs
 Notre bulletin d’information, le P’tit Journal pour vous informer sur la vie associative et les activités du Centre.
 
-===== Organisation 13 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-pour-personnes-agees-espoir-nouveau/
-Website: https://newhopendg.com/?lang=fr
+===== Organisation 13: Centre pour Personnes Âgées Espoir Nouveau =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-pour-personnes-agees-espoir-nouveau/
+Site internet: https://newhopendg.com/?lang=fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6225 avenue Godfrey,
 Montréal QC H4B 1K3
@@ -413,11 +413,11 @@ Si vous souhaitez soutenir notre cause, vous pouvez faire un don sur notre page 
 Ne manquez pas notre Souper-Bénéfice Automnal qui aura lieu le vendredi 17 octobre à 18h au Centre Espoir Nouveau. Les billets sont en vente dès maintenant sur notre site.
 Pour plus d’informations sur nos services et activités, n’hésitez pas à nous contacter au 514 484 0425 ou par email à dayprograms@newhopendg.com.
 
-===== Organisation 14 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centreweikangplacemariette/
-Website: None
+===== Organisation 14: Centre Wei Kang =====
+URL: https://macommunaute.ca/bottin-des-organismes/centreweikangplacemariette/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2500 avenue Mariette,
 Montréal QC H4B 2E6
@@ -426,11 +426,11 @@ L'adresse courriel de cette organisation est inconnue, veuillez les contacter pa
 Description
 Place Mariette est une résidence de 13 chambres pour personnes âgées. Nous sommes situés à Côte-des-Neiges-NDG et nous sommes connus par notre ambiance chaleureuse et familiale. Nous comptons avec une équipe de préposés aux bénéficiaires professionnels et courtoises.
 
-===== Organisation 15 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cercle-amical-de-montreal/
-Website: https://www.cercledelamitie.ca/
+===== Organisation 15: Cercle Amical de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/cercle-amical-de-montreal/
+Site internet: https://www.cercledelamitie.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4585 avenue Bourret,
 Montréal QC H3S 1X1
@@ -450,11 +450,11 @@ Volet international du Cercle de l’amitié
 Le Cercle de l’amitié connaît une croissance rapide à l’échelle mondiale, avec plus de 80 établissements et des milliers d’enfants aux besoins particuliers et de bénévoles adolescents. Notre approche unique réunit ces jeunes pour des moments de plaisir et d’amitié, renforçant la confiance et l’autonomie des enfants aux besoins particuliers.
 Pour en savoir plus sur le volet international du Cercle de l’amitié, consultez le site FriendshipCircle.com.
 
-===== Organisation 16 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/chemin-de-la-cote/
-Website: None
+===== Organisation 16: Chemin de la Côte =====
+URL: https://macommunaute.ca/bottin-des-organismes/chemin-de-la-cote/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5295 chemin de la Côte-Sainte-Catherine,
 Montréal QC H3W 0A1
@@ -471,11 +471,11 @@ Il est important de noter que, pour garantir un environnement serein, les animau
 Au Chemin de la Côte, nous croyons en l’importance de créer un milieu de vie inclusif et accueillant. Notre équipe dévouée travaille sans relâche pour assurer le confort et la sécurité de nos résidents. Nous comprenons que chaque personne a des besoins uniques, et nous nous engageons à fournir un soutien adapté à chacun.
 Pour plus d’informations sur nos services ou pour planifier une visite, n’hésitez pas à nous contacter. Votre bien-être est notre priorité.
 
-===== Organisation 17 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/comitecommunautairecontrelesabusenverslespersonnesagees/
-Website: http://www.ndgelderabuse-abusenverslesaines.ca/fr/index.html
+===== Organisation 17: Comité communautaire contre les abus envers les personnes âgées - CCCAEPA =====
+URL: https://macommunaute.ca/bottin-des-organismes/comitecommunautairecontrelesabusenverslespersonnesagees/
+Site internet: http://www.ndgelderabuse-abusenverslesaines.ca/fr/index.html
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2100 Marlowe, ,
 Montréal QC H4A 3L5
@@ -492,11 +492,11 @@ c) des rencontres mensuelles commanditées qui rassemblent les citoyens d’âge
 d) des liens avec des organisations provinciales et nationales qui font pression en faveur des personnes âgées, victimes d’abus ou de négligence;
 e) la production de matériel éducatif sur l’âgisme et l’abus contre les personnes âgées.
 
-===== Organisation 18 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communaute-vietnamienne-au-canada-region-montreal/
-Website: https://communautevietmontreal.com/
+===== Organisation 18: Communauté Vietnamienne au Canada – Région Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/communaute-vietnamienne-au-canada-region-montreal/
+Site internet: https://communautevietmontreal.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767 chemin de la Côte-des-Neiges, bureau 495,
 Montréal QC H3S 2T6
@@ -520,11 +520,11 @@ La Communauté Vietnamienne au Canada – Région de Montréal a joué un rôle 
 Le lien étroit avec la communauté vietnamienne est une valeur fondamentale de l’organisme, qui s’efforce de maintenir cet engagement à travers divers événements et célébrations, tels que le Têt du Tigre et les excursions communautaires.
 La Communauté Vietnamienne au Canada – Région de Montréal est un pilier essentiel pour les Vietnamiens récemment installés au Canada, ainsi que pour les femmes, les enfants et les victimes de violences conjugales. Son histoire riche et son engagement envers la communauté en font un acteur clé dans l’intégration et le soutien des nouveaux arrivants vietnamiens à Montréal.
 
-===== Organisation 19 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/eglise-unitarienne-de-montreal/
-Website: https://www.ucmtl.ca/fr/accueil
+===== Organisation 19: Église Unitarienne de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/eglise-unitarienne-de-montreal/
+Site internet: https://www.ucmtl.ca/fr/accueil
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5035 boulevard De Maisonneuve Ouest,
 Montréal QC H4A 1Y5
@@ -556,11 +556,11 @@ Part 1 of Catherine Halloway’s Reflection
 Share the Plate, Summer 2020
 Rejoignez-nous sur YouTube pour voir plus de sermons, méditations et bénédictions.
 
-===== Organisation 20 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/femmesaverties/
-Website: http://www.womenaware.ca/
+===== Organisation 20: Femmes Averties =====
+URL: https://macommunaute.ca/bottin-des-organismes/femmesaverties/
+Site internet: http://www.womenaware.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 514-489-1110
 514-484-9013
@@ -572,11 +572,11 @@ Mission
 Notre mission est d'aider l'autonomisation des femmes qui ont connu la violence conjugale par le biais de l'entraide et de la sensibilisation afin d'améliorer leur qualité de vie.
 Description
 
-===== Organisation 21 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/infoabus/
-Website: None
+===== Organisation 21: Info Abus =====
+URL: https://macommunaute.ca/bottin-des-organismes/infoabus/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 Montréal QC
 514-489-2287
@@ -588,11 +588,11 @@ Mission
 La ligne Info-Abus aux aînés est un service téléphonique bilingue et confidentiel d'écoute, d'information et de référence offert aux personnes âgées victimes d'abus psychologique, financier ou physique.
 Description
 
-===== Organisation 22 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lappuinational/
-Website: http://lappui.org/
+===== Organisation 22: L’Appui =====
+URL: https://macommunaute.ca/bottin-des-organismes/lappuinational/
+Site internet: http://lappui.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 400, boul. de Maisonneuve O., bureau 720,
 Montréal QC H3A 1L4
@@ -606,11 +606,11 @@ La mission de l'Appui pour les proches aidants est de contribuer au soutien des 
 Description
 Fondé en 2009, l’Appui pour les proches aidants est un organisme à but non lucratif financé par le Gouvernement du Québec et la Famille Lucie et André Chagnon. Le mandat principal de l’Appui pour les proches aidants consiste à soutenir le déploiement de services d’information, de formation, de soutien psychosocial et de répit, par le financement des organismes présents dans les milieux. L’Appui agit aussi à titre d’agent de mobilisation et de concertation des différents acteurs qui se consacrent au soutien des proches aidants et qui participent à améliorer leur qualité de vie. Cette mission est réalisée nationalement, mais aussi grâce à une présence dans 17 régions déployées partout au Québec, ainsi qu’à une entente spécifique de développement pour les Terres-Cries-de-la-Baie-James.
 
-===== Organisation 23 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lappuipourlesprochesaidantsmontreal/
-Website: http://lappui.org/
+===== Organisation 23: L’Appui pour les proches aidants Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/lappuipourlesprochesaidantsmontreal/
+Site internet: http://lappui.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 400, boul. de Maisonneuve O., bureau 720,
 Montreal QC H3A 1L4
@@ -626,11 +626,11 @@ Description
 À propos de l’Appui
 Fondé en 2009, l’Appui pour les proches aidants est un organisme à but non lucratif financé par le Gouvernement du Québec et la Famille Lucie et André Chagnon. Le mandat principal de l’Appui pour les proches aidants consiste à soutenir le déploiement de services d’information, de formation, de soutien psychosocial et de répit, par le financement des organismes présents dans les milieux. L’Appui agit aussi à titre d’agent de mobilisation et de concertation des différents acteurs qui se consacrent au soutien des proches aidants et qui participent à améliorer leur qualité de vie. Cette mission est réalisée nationalement, mais aussi grâce à une présence dans 17 régions déployées partout au Québec, ainsi qu’à une entente spécifique de développement pour les Terres-Cries-de-la-Baie-James.
 
-===== Organisation 24 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lenvol-des-femmes/
-Website: https://fr.womenontherise.ca/
+===== Organisation 24: L’Envol des Femmes =====
+URL: https://macommunaute.ca/bottin-des-organismes/lenvol-des-femmes/
+Site internet: https://fr.womenontherise.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6897 avenue Somerled,
 Montréal QC H4V 1V2
@@ -656,11 +656,11 @@ En devenant membre de Women on the Rise, vous soutenez la mission de l’organis
 Les avantages d’être membre incluent la réception du calendrier, des mises à jour régulières, des invitations spéciales, ainsi que la possibilité d’apprendre de nouvelles compétences et de participer à des relations de soutien dans un espace accueillant.
 Pour devenir membre, il suffit de contacter le personnel de l’organisme pour obtenir le formulaire d’adhésion.
 
-===== Organisation 25 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/envoldesfemmeswomenontherise/
-Website: https://www.womenontherise.ca/
+===== Organisation 25: L’Envol des femmes / Women on the Rise - WOR =====
+URL: https://macommunaute.ca/bottin-des-organismes/envoldesfemmeswomenontherise/
+Site internet: https://www.womenontherise.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6897 Av Somerled,
 Montréal QC H4V 1V2
@@ -683,11 +683,11 @@ Nous partageons de délicieux repas communautaires faits maison, avec un intér�
 Nous offrons un programme de gardiennage éducatif et bilingue centré sur le développement de l’enfant.
 Nous encourageons les parents à adopter une attitude positive face à l’éducation de leurs enfants. Nous reconnaissons les défis parentaux et nous encourageons l’échange d’idées dans un contexte sans jugement.
 
-===== Organisation 26 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/residencemariagoretti/
-Website: http://www.logement.umontreal.ca/documents/low_ResidenceMariaGoretti_06_08_09.pdf
+===== Organisation 26: La Résidence Maria-Goretti =====
+URL: https://macommunaute.ca/bottin-des-organismes/residencemariagoretti/
+Site internet: http://www.logement.umontreal.ca/documents/low_ResidenceMariaGoretti_06_08_09.pdf
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3333, chemin de la Côte-Sainte-Catherine,
 Montréal QC H3T 1C8
@@ -708,11 +708,11 @@ En plein cœur de Montréal, la Résidence Maria-Goretti accueille des femmes â
 Description
 La Résidence Maria-Goretti accueille, depuis 1953, des femmes âgées de 18 à 45 ans de toutes origines pour des séjours de courte et longue durée. Elle compte 220 chambres réparties sur cinq étages. Chaque chambre comprend un lit simple, des espaces de rangement, un bureau de travail, un petit réfrigérateur et un lavabo.
 
-===== Organisation 27 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/gardiendemonfreremybrotherskeeper/
-Website: None
+===== Organisation 27: Le Gardien de mon frère / My Brother’s Keeper =====
+URL: https://macommunaute.ca/bottin-des-organismes/gardiendemonfreremybrotherskeeper/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5150 rue Queen Mary,
 Montréal QC H3W 3H7
@@ -733,11 +733,11 @@ Nos interventions se concentrent principalement sur l’aide et l’écoute, en 
 Vous pouvez compter sur notre équipe dévouée pour vous offrir un soutien personnalisé et adapté à vos besoins. Notre mission est de vous aider à surmonter les difficultés que vous rencontrez et à vous guider vers des solutions concrètes pour améliorer votre situation.
 N’hésitez pas à nous contacter pour prendre rendez-vous ou pour en savoir plus sur nos services. Chez Le Gardien de mon frère / My Brother’s Keeper, votre bien-être est notre priorité.
 
-===== Organisation 28 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/le-sentier-montreal/
-Website: https://lesentier-thetrail.ca/
+===== Organisation 28: Le Sentier – Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/le-sentier-montreal/
+Site internet: https://lesentier-thetrail.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5654 avenue Monkland,
 Montréal QC H4A 1E4
@@ -758,11 +758,11 @@ Devenir bénévole :
 Le Sentier accueille toute personne souhaitant offrir de son temps, connaissances, qualifications et empathie comme bénévole pour aider nos vétérans dans le besoin. Rejoignez-nous et contribuez à offrir un meilleur futur à ceux qui ont servi notre pays.
 Nous sommes là pour vous accompagner dans votre transition vers une vie civile harmonieuse. Contactez-nous pour plus d’informations sur nos services et comment vous pouvez contribuer à notre mission.
 
-===== Organisation 29 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/pinay/
-Website: None
+===== Organisation 29: Pinay =====
+URL: https://macommunaute.ca/bottin-des-organismes/pinay/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4781 avenue Van Horne,
 Montréal QC H3W 1H8
@@ -786,11 +786,11 @@ Défense des droits pour promouvoir l’égalité et la justice sociale
 Nous croyons fermement que chaque femme mérite d’avoir accès à des ressources qui favorisent son autonomie et sa sécurité. En collaborant avec nous, vous rejoignez une communauté qui valorise le bien-être et l’empowerment des femmes philippines à Montréal.
 N’hésitez pas à nous contacter pour en savoir plus sur nos services ou pour obtenir de l’aide. Ensemble, nous pouvons faire une différence significative dans la vie des femmes que nous desservons.
 
-===== Organisation 30 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/servicedaidecommunautaireetdeliaisonpourimmigrantsdenotredamedegrace/
-Website: None
+===== Organisation 30: Service d’aide communautaire et de liaison pour immigrants de Notre-Dame-de-Grâce - SACLI =====
+URL: https://macommunaute.ca/bottin-des-organismes/servicedaidecommunautaireetdeliaisonpourimmigrantsdenotredamedegrace/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6575 Ave Somerled,
 Montréal QC H4V 1T1
@@ -803,11 +803,11 @@ Mission
 Service d'aide aux nouveaux immigrants et réfugiés - Information (immigration, adaptation sociale, services sociaux, éducation, logement, francisation) - Service de dépannage
 Description
 
-===== Organisation 31 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/services-sociaux-helleniques-du-quebec/
-Website: https://hcgm.org/?lang=fr
+===== Organisation 31: Services Sociaux Helléniques du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/services-sociaux-helleniques-du-quebec/
+Site internet: https://hcgm.org/?lang=fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5777 avenue Wilderton,
 Montréal QC H3S 2V7
@@ -832,11 +832,11 @@ Si vous rencontrez des problèmes ou des préoccupations qui vous causent du str
 L’engagement des Services sociaux helléniques du Québec envers la communauté se reflète dans leur mission de préserver et de promouvoir la langue grecque, d’établir des organisations caritatives, d’aide sociale et éducatives, et de perpétuer la foi et la tradition de l’Église orthodoxe grecque.
 Pour en savoir plus sur les Services sociaux helléniques du Québec et leur mission, veuillez visiter leur site Web officiel : Services sociaux helléniques du Québec.
 
-===== Organisation 32 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/societeelizabethfryduquebec/
-Website: http://elizabethfry.qc.ca/
+===== Organisation 32: Société Elizabeth Fry du Québec - SEFQ =====
+URL: https://macommunaute.ca/bottin-des-organismes/societeelizabethfryduquebec/
+Site internet: http://elizabethfry.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5105, Chemin de la Côte Saint-Antoine,
 Montréal QC H4A 1N8

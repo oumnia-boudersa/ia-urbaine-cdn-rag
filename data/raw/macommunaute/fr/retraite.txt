@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/alliancedesassociationsdesretraitesetdainesduquebec/
-Website: None
+===== Organisation 1: Alliance des Associations des Retraités et d’Ainés du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/alliancedesassociationsdesretraitesetdainesduquebec/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3, Carré Cummings,
 Montréal QC H3W 3E8

@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/acatcanada/
-Website: http://acatcanada.ca/
+===== Organisation 1: ACAT Canada =====
+URL: https://macommunaute.ca/bottin-des-organismes/acatcanada/
+Site internet: http://acatcanada.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 Chemin de la Côte-Sainte-Catherine,
 Montréal QC H3T1B6
@@ -13,11 +13,11 @@ L’Action des chrétiens pour l’abolition de la torture (ACAT) est l’antenn
 Description
 Plaidoyers, Éducation aux droits humains, Spiritualité, Soutien pour la guérison des victimes de torture
 
-===== Organisation 2 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairejuridiquedemontrealaidejuridique/
-Website: http://www.ccjm.qc.ca/
+===== Organisation 2: Centre communautaire juridique de Montréal – Aide juridique - CCJM =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairejuridiquedemontrealaidejuridique/
+Site internet: http://www.ccjm.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 440, boul. René-Lévesque ouest,
 Montréal QC H2Z 1V7
@@ -92,11 +92,11 @@ Expulsion
 Parrainage
 etc …
 
-===== Organisation 3 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/corporation-des-maitres-electriciens-du-quebec/
-Website: https://www.cmeq.org/
+===== Organisation 3: Corporation des Maîtres Électriciens du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/corporation-des-maitres-electriciens-du-quebec/
+Site internet: https://www.cmeq.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5925 boulevard Décarie,
 Montréal QC H3W 3C9
@@ -137,11 +137,11 @@ Santé et sécurité au travail
 Techniques de réalisation
 Pour plus d’informations, contactez la CMEQ au 514 738-2184 (option 7) ou par courriel à formation@cmeq.org.
 
-===== Organisation 4 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lappuinational/
-Website: http://lappui.org/
+===== Organisation 4: L’Appui =====
+URL: https://macommunaute.ca/bottin-des-organismes/lappuinational/
+Site internet: http://lappui.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 400, boul. de Maisonneuve O., bureau 720,
 Montréal QC H3A 1L4
@@ -155,11 +155,11 @@ La mission de l'Appui pour les proches aidants est de contribuer au soutien des 
 Description
 Fondé en 2009, l’Appui pour les proches aidants est un organisme à but non lucratif financé par le Gouvernement du Québec et la Famille Lucie et André Chagnon. Le mandat principal de l’Appui pour les proches aidants consiste à soutenir le déploiement de services d’information, de formation, de soutien psychosocial et de répit, par le financement des organismes présents dans les milieux. L’Appui agit aussi à titre d’agent de mobilisation et de concertation des différents acteurs qui se consacrent au soutien des proches aidants et qui participent à améliorer leur qualité de vie. Cette mission est réalisée nationalement, mais aussi grâce à une présence dans 17 régions déployées partout au Québec, ainsi qu’à une entente spécifique de développement pour les Terres-Cries-de-la-Baie-James.
 
-===== Organisation 5 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lappuipourlesprochesaidantsmontreal/
-Website: http://lappui.org/
+===== Organisation 5: L’Appui pour les proches aidants Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/lappuipourlesprochesaidantsmontreal/
+Site internet: http://lappui.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 400, boul. de Maisonneuve O., bureau 720,
 Montreal QC H3A 1L4
@@ -175,11 +175,11 @@ Description
 À propos de l’Appui
 Fondé en 2009, l’Appui pour les proches aidants est un organisme à but non lucratif financé par le Gouvernement du Québec et la Famille Lucie et André Chagnon. Le mandat principal de l’Appui pour les proches aidants consiste à soutenir le déploiement de services d’information, de formation, de soutien psychosocial et de répit, par le financement des organismes présents dans les milieux. L’Appui agit aussi à titre d’agent de mobilisation et de concertation des différents acteurs qui se consacrent au soutien des proches aidants et qui participent à améliorer leur qualité de vie. Cette mission est réalisée nationalement, mais aussi grâce à une présence dans 17 régions déployées partout au Québec, ainsi qu’à une entente spécifique de développement pour les Terres-Cries-de-la-Baie-James.
 
-===== Organisation 6 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/la-ligue-des-noirs-du-quebec/
-Website: https://liguedesnoirs.org/
+===== Organisation 6: La Ligue des Noirs du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/la-ligue-des-noirs-du-quebec/
+Site internet: https://liguedesnoirs.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5201 boulevard Décarie,
 Montréal QC H3W 3C2
@@ -203,11 +203,11 @@ La Ligue des Noirs du Québec œuvre pour rehausser la conscience morale, social
 Nos objectifs incluent la défense des droits de la communauté, l’éducation populaire pour le respect des droits des citoyens, la sensibilisation des gouvernements à l’importance de l’égalité des chances, l’encouragement de la participation citoyenne, et la défense des victimes d’injustice et d’abus de pouvoir.
 Depuis 1969, La Ligue des Noirs du Québec a établi des liens avec d’autres organisations pour mieux servir la communauté. Nous référons certaines plaintes aux instances appropriées et avons créé des organisations spécialisées pour répondre aux besoins spécifiques de la communauté.
 
-===== Organisation 7 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/societeelizabethfryduquebec/
-Website: http://elizabethfry.qc.ca/
+===== Organisation 7: Société Elizabeth Fry du Québec - SEFQ =====
+URL: https://macommunaute.ca/bottin-des-organismes/societeelizabethfryduquebec/
+Site internet: http://elizabethfry.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5105, Chemin de la Côte Saint-Antoine,
 Montréal QC H4A 1N8

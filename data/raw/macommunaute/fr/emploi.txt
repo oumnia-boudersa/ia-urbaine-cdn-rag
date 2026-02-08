@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/carrefourjeunesseemploidecotedesneiges/
-Website: http://www.cjecdn.qc.ca/
+===== Organisation 1: Carrefour Jeunesse-Emploi de Côte-des-Neiges/ Ville Mont-Royal/ Outremont - CJE-CDN / VMR / Outremont =====
+URL: https://macommunaute.ca/bottin-des-organismes/carrefourjeunesseemploidecotedesneiges/
+Site internet: http://www.cjecdn.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6555, Côte-des-neiges,
 Montréal QC H3S 2A6
@@ -47,11 +47,11 @@ Projets spéciaux
 Persévérance scolaire 16-17 ans
 Insertion socioprofessionnelle 18-24 ans
 
-===== Organisation 2 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/agenceometz/
-Website: http://www.ometz.ca/
+===== Organisation 2: Agence Ometz =====
+URL: https://macommunaute.ca/bottin-des-organismes/agenceometz/
+Site internet: http://www.ometz.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5151 chemin Côte-Sainte-Catherine,
 Montréal QC H3W 1M6
@@ -67,11 +67,11 @@ La vague grandissante d’immigrants au Canada, en partie due aux nombreux nouve
 En 1945, l’Emploi Juif Montréal (JEM) a été fondé pour répondre aux besoins des vétérans canadiens de la guerre et des personnes arrivant d’Europe en quête de travail. Par la variété de services offerts aux demandeurs d’emploi et aux employeurs, JEM est devenu un leader montréalais en matière d’emploi et de placement.
 Actuellement, on compte plus de 13 000 personnes par année qui s’adressent à l’Agence Ometz dans le but d’améliorer leur qualité de vie. L’Agence offre un ensemble de services pour toute la famille qu’il s’agisse de difficultés vécues suite à l’éclatement de la famille ou de maladie mentale, de questions pécuniaires, de recherche d’un emploi ou d’installation à Montréal.
 
-===== Organisation 3 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrederecherchedemploicotedesneiges/
-Website: http://www.crecdn.com/
+===== Organisation 3: Centre de recherche d’emploi Côte-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrederecherchedemploicotedesneiges/
+Site internet: http://www.crecdn.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3600 Barclay,
 Montréal QC H3S 1K5
@@ -122,11 +122,11 @@ Critères d’admission:
 Détenir un diplôme d’études collégiales ou universitaires
 Pour information et inscription: 514-733-3026
 
-===== Organisation 4 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/carrefourjeunesseemploinotredamedegrace/
-Website: http://cje-ndg.com/
+===== Organisation 4: Carrefour Jeunesse-Emploi Notre-Dame-de-Grâce - CJE =====
+URL: https://macommunaute.ca/bottin-des-organismes/carrefourjeunesseemploinotredamedegrace/
+Site internet: http://cje-ndg.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6370, rue Sherbrooke Ouest,
 Montréal QC H4B 1M9
@@ -145,11 +145,11 @@ Le Carrefour Jeunesse-Emploi NDG est un organisme sans but lucratif qui a pour m
 Description
 Il offre une gamme de services bilingues gratuits, notamment en matière de réinsertion sociale, de recherche d’emploi, de retour aux études et de sensibilisation à la réalité entrepreneuriale. Son équipe dynamique travaille en collaboration avec les partenaires du milieu à la réalisation de projets novateurs lui permettant de participer à la réussite des jeunes chercheurs d’emploi.
 
-===== Organisation 5 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredeservicecanadacotedesneigesndg/
-Website: http://www.servicecanada.gc.ca/
+===== Organisation 5: Centre de Service Canada – Côte-des-Neiges – N.-D.-G. =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredeservicecanadacotedesneigesndg/
+Site internet: http://www.servicecanada.gc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5160, boulevard Décarie,
 Montréal QC H3X 2H9
@@ -179,11 +179,11 @@ Téléphone: 1-800-123-4567
 Apprenez-en davantage sur notre mandat, nos programmes, notre transparence et notre engagement envers la lutte contre la fraude.
 Date de dernière modification du site: 17 juillet 2025
 
-===== Organisation 6 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredestravailleursettravailleusesimmigrants/
-Website: http://www.iwc-cti.org/
+===== Organisation 6: Centre des travailleurs et travailleuses immigrants - IWC CTI =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredestravailleursettravailleusesimmigrants/
+Site internet: http://www.iwc-cti.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4755, Avenue Van Horne,
 Montréal QC H3W 1H8
@@ -204,11 +204,11 @@ Cours sur les droits et le syndicalisme pour les travailleur(euse)s.
 Formation de base sur ordinateur.
 Organisation d’événements culturels et sociaux tels que Mai l’œuvre! Montréal et La Journée internationale des Femmes.
 
-===== Organisation 7 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clubami/
-Website: http://clubami.qc.ca/
+===== Organisation 7: Club Ami =====
+URL: https://macommunaute.ca/bottin-des-organismes/clubami/
+Site internet: http://clubami.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767 Chemin De la Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -224,11 +224,11 @@ Description
 Club Ami est situé dans le quartier Côte-des-Neiges, à Montréal, et permet aux personnes en souffrance psychologique d’avoir un espace leur appartenant, où il est possible de partager des moments de répit, un café ou la présence exceptionnelle de nos membres. Nous offrons des activités collectives variées: atelier de peinture, de yoga, visites au musée, conférences, et plus encore.
 Les intervenants et notre directrice organisent les activités, s’assurent du bien-être de chacun au sein de l’organisme et sont disponibles pour entendre et référer si besoin.
 
-===== Organisation 8 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communautenoireafricainedemontrealcanadaconamc/
-Website: None
+===== Organisation 8: CONAM – Centre d’Orientation des Nouveaux Arrivants et immigrants de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/communautenoireafricainedemontrealcanadaconamc/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767, Chemin de la Côte-des-Neiges,
 Montréal QC H3S 2T6

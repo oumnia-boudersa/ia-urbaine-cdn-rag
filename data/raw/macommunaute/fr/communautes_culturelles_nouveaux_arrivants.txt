@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/alacalliancepourlaccueiletlintegrationdespersonnesimmigrantes/
-Website: https://www.alac.qc.ca/
+===== Organisation 1: Alliance pour l’accueil et l’intégration des personnes immigrantes - ALAC =====
+URL: https://macommunaute.ca/bottin-des-organismes/alacalliancepourlaccueiletlintegrationdespersonnesimmigrantes/
+Site internet: https://www.alac.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5165 chemin Queen-Mary,
 Montréal QC H3W1X7
@@ -18,11 +18,11 @@ Aide à l’intégration
 Aide à l’emploi
 Cours de français
 
-===== Organisation 2 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ymcaduquebec/
-Website: http://www.ymcaquebec.org/
+===== Organisation 2: Les YMCA du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/ymcaduquebec/
+Site internet: http://www.ymcaquebec.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 1435 Rue Drummond,
 Montréal QC H3G 1W3
@@ -75,11 +75,11 @@ Les YMCA du Québec sont un organisme de bienfaisance dont la mission est de bâ
 Description
 Les YMCA du Québec sont un organisme de bienfaisance qui a pour mission de bâtir des communautés plus fortes en offrant des occasions d’épanouissement et de vie active, saine et engagée pour tous. Ses dix centres YMCA, son École internationale de langues, son École de ski, sa Résidence, son Camp YMCA Kanawana et ses 43 points de service à l’échelle de la province, sont fréquentés chaque année par plus de 130 000 personnes. Le premier YMCA d’Amérique du Nord a vu le jour à Montréal en novembre 1851. Les YMCA du Québec font partie d’un réseau canadien qui compte 50 associations YMCA. Pour de plus amples informations, visitez notre site Internet www.ymcaquebec.org, nos pages Facebook facebook.com/ymcaquebec ou Twitter twitter.com/YMCAQuebec.
 
-===== Organisation 3 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/agenceometz/
-Website: http://www.ometz.ca/
+===== Organisation 3: Agence Ometz =====
+URL: https://macommunaute.ca/bottin-des-organismes/agenceometz/
+Site internet: http://www.ometz.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5151 chemin Côte-Sainte-Catherine,
 Montréal QC H3W 1M6
@@ -95,11 +95,11 @@ La vague grandissante d’immigrants au Canada, en partie due aux nombreux nouve
 En 1945, l’Emploi Juif Montréal (JEM) a été fondé pour répondre aux besoins des vétérans canadiens de la guerre et des personnes arrivant d’Europe en quête de travail. Par la variété de services offerts aux demandeurs d’emploi et aux employeurs, JEM est devenu un leader montréalais en matière d’emploi et de placement.
 Actuellement, on compte plus de 13 000 personnes par année qui s’adressent à l’Agence Ometz dans le but d’améliorer leur qualité de vie. L’Agence offre un ensemble de services pour toute la famille qu’il s’agisse de difficultés vécues suite à l’éclatement de la famille ou de maladie mentale, de questions pécuniaires, de recherche d’un emploi ou d’installation à Montréal.
 
-===== Organisation 4 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/bienvenueanotredamedegrace/
-Website: https://bienvenuendg.ca/accueil/
+===== Organisation 4: Bienvenue à Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/bienvenueanotredamedegrace/
+Site internet: https://bienvenuendg.ca/accueil/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2180 Belgrave,
 Montréal QC H4A 2L8
@@ -118,11 +118,11 @@ Accompagnement: Nous accompagnons les nouveaux arrivants dans leurs démarches d
 Préparation à l’emploi: Nous offrons des possibilités de développement de carrière aux participants et nous valorisons leur contribution au développement de la communauté
 Partenariat et concertation: Nous travaillons avec les partenaires de la communauté pour mieux répondre aux besoins des familles immigrantes
 
-===== Organisation 5 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrederecherchedemploicotedesneiges/
-Website: http://www.crecdn.com/
+===== Organisation 5: Centre de recherche d’emploi Côte-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrederecherchedemploicotedesneiges/
+Site internet: http://www.crecdn.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3600 Barclay,
 Montréal QC H3S 1K5
@@ -173,11 +173,11 @@ Critères d’admission:
 Détenir un diplôme d’études collégiales ou universitaires
 Pour information et inscription: 514-733-3026
 
-===== Organisation 6 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/hippyquebec/
-Website: http://www.parentsengages.org/
+===== Organisation 6: Parents engagés pour la petite enfance - PEP =====
+URL: https://macommunaute.ca/bottin-des-organismes/hippyquebec/
+Site internet: http://www.parentsengages.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 5964 avenue Notre-Dame-de-Grâce, bureau 206,
 Montréal QC H4A 1N1
@@ -204,11 +204,11 @@ Des activités sont offertes à chaque visite, au domicile des familles, 30 sema
 Activités de groupe
 Des activités de groupe sur différents sujets et des sorties sont organisées pour les parents.
 
-===== Organisation 7 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/acatcanada/
-Website: http://acatcanada.ca/
+===== Organisation 7: ACAT Canada =====
+URL: https://macommunaute.ca/bottin-des-organismes/acatcanada/
+Site internet: http://acatcanada.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 Chemin de la Côte-Sainte-Catherine,
 Montréal QC H3T1B6
@@ -219,11 +219,11 @@ L’Action des chrétiens pour l’abolition de la torture (ACAT) est l’antenn
 Description
 Plaidoyers, Éducation aux droits humains, Spiritualité, Soutien pour la guérison des victimes de torture
 
-===== Organisation 8 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationdelacommunautenoiredecotedesneiges/
-Website: http://www.cdnbca.org/
+===== Organisation 8: Association de la communauté noire de Côte-Des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationdelacommunautenoiredecotedesneiges/
+Site internet: http://www.cdnbca.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6585, ch. de la Côte-des-Neiges,
 Montréal QC H3S 2A5
@@ -239,11 +239,11 @@ Information et référence
 Camps de jour
 Cours aux adultes
 
-===== Organisation 9 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationjamaicainedemontreal/
-Website: None
+===== Organisation 9: Association jamaïcaine de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationjamaicainedemontreal/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4065, rue Jean-Talon Ouest,
 Montréal QC H4P 1W6
@@ -256,11 +256,11 @@ L’Association jamaïcaine de Montréal intervient principalement dans les doma
 Nous proposons des activités, des ateliers et des programmes visant à promouvoir la diversité culturelle, la solidarité et l’inclusion sociale. En outre, nous organisons régulièrement des événements festifs et culturels pour célébrer la richesse et la vitalité de la culture jamaïcaine et des autres communautés présentes dans notre ville.
 Rejoignez l’Association jamaïcaine de Montréal pour bénéficier d’un soutien chaleureux et d’un réseau solidaire. Ensemble, construisons une communauté forte et dynamique à Montréal!
 
-===== Organisation 10 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/baobabfamilial/
-Website: http://www.baobabfamilial.org/
+===== Organisation 10: Baobab Familial =====
+URL: https://macommunaute.ca/bottin-des-organismes/baobabfamilial/
+Site internet: http://www.baobabfamilial.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 599-6767 ch. Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -278,11 +278,11 @@ Description
 Le Baobab Familial offre des services divers destinés aux famille du quartier Côte-des-neiges: Accueil, écoute, référence et accompagnement; aide aux devoirs; halte-garderie communautaire; répit à domicile;; groupe ados; activités sportives pour femmes et filles; activités pour les pères; cafés partage et ateliers thématiques; ateliers sur les droits et responsabilités des enfants, sur le parcours migratoire et sur les compétences parentales; etc..
 Le Baobab Familial offre aussi toutes sortes d’activités à caractère social et culturel. Nos sorties permettent à nos familles de découvrir le Québec (plage, pommes, cabane à sucre, etc.), les cuisines collectives et les soupers communautaires sont autant d’occasion de se retrouver et de partager.
 
-===== Organisation 11 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredecouteetdereferencemultiecoute/
-Website: http://www.multiecoute.org/
+===== Organisation 11: Centre d’écoute et de référence Multi-Écoute =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredecouteetdereferencemultiecoute/
+Site internet: http://www.multiecoute.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3600 Avenue Barclay,
 Montréal QC H3S 1K5
@@ -305,11 +305,11 @@ Informer et référer les participants vers des ressources du milieu pour bonifi
 Aider les immigrants et les nouveaux-arrivants à s’adapter et à mieux s’intégrer à la société d’accueil.
 Amener la personne à trouver en elle les ressources et les solutions à ses problèmes, et si nécessaire, l’aider à trouver les ressources externes pouvant répondre à ses besoins.
 
-===== Organisation 12 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredelalangueetculturecoreenneamontrealmontrealkoreanlanguageandculture/
-Website: http://www.mklcc.com/
+===== Organisation 12: Centre de la Langue et Culture Coréenne à Montréal / Montreal Korean Language and Culture =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredelalangueetculturecoreenneamontrealmontrealkoreanlanguageandculture/
+Site internet: http://www.mklcc.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone ou consulter leur site Web.
 Réseaux sociaux
@@ -333,11 +333,11 @@ Festival les Couleurs de la Corée
 Levée de fonds de fin d’année
 Autres événements saisonniers et exceptionnels
 
-===== Organisation 13 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredereferencedelacommunauterussophone/
-Website: http://www.crcrq.qc.ca/
+===== Organisation 13: Centre de référence de la communauté russophone - CRCRQ =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredereferencedelacommunauterussophone/
+Site internet: http://www.crcrq.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767, chemin de la Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -360,11 +360,11 @@ Notre mission consiste à contribuer au support des immigrants russophones rési
 Description
 À venir
 
-===== Organisation 14 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrederessourcesdelacommunautenoire/
-Website: http://www.bcrcmontreal.com/
+===== Organisation 14: Centre de ressources de la communauté noire =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrederessourcesdelacommunautenoire/
+Site internet: http://www.bcrcmontreal.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767, Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -375,11 +375,11 @@ Mission
 Aider les jeunes anglophones noirs de Montréal à participer pleinement à la société civile
 Description
 
-===== Organisation 15 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredestravailleursettravailleusesimmigrants/
-Website: http://www.iwc-cti.org/
+===== Organisation 15: Centre des travailleurs et travailleuses immigrants - IWC CTI =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredestravailleursettravailleusesimmigrants/
+Site internet: http://www.iwc-cti.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4755, Avenue Van Horne,
 Montréal QC H3W 1H8
@@ -400,11 +400,11 @@ Cours sur les droits et le syndicalisme pour les travailleur(euse)s.
 Formation de base sur ordinateur.
 Organisation d’événements culturels et sociaux tels que Mai l’œuvre! Montréal et La Journée internationale des Femmes.
 
-===== Organisation 16 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/comitecanadiendesrefugiesdelamer/
-Website: None
+===== Organisation 16: Comité canadien des réfugiés de la mer =====
+URL: https://macommunaute.ca/bottin-des-organismes/comitecanadiendesrefugiesdelamer/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6655 Côte-des-Neiges ,
 Montréal QC H3S 2B4
@@ -415,11 +415,11 @@ HORAIRE
 Cette organisation vous appartient? Réclamer la gestion de cette fiche!
 Description
 
-===== Organisation 17 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/comitemisscreolecmckomitemisskreyl/
-Website: None
+===== Organisation 17: COMITÉ MISS CRÉOLE / Komité Miss Kréyòl - (CMC) =====
+URL: https://macommunaute.ca/bottin-des-organismes/comitemisscreolecmckomitemisskreyl/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone.
 Réseaux sociaux
@@ -431,11 +431,11 @@ Cet évènement a pour but de fêter les mamans le dernier dimanche du mois de m
 Afin de souligner la contribution et le rayonnement de la Femme des cultures créoles et d’ailleurs, une programmation riche et variée est proposée à nos participants.
 Échos de femmes: Il s’agit de donner la parole aux femmes pour des femmes et de créer des échanges interculturels et intergénérationnels. Offrir aux femmes un espace pour émettre leur opinion, échanger su
 
-===== Organisation 18 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communautehelleniquedugrandmontreal/
-Website: http://www.hcgm.org/
+===== Organisation 18: Communauté Hellénique du Grand Montréal - CHGM =====
+URL: https://macommunaute.ca/bottin-des-organismes/communautehelleniquedugrandmontreal/
+Site internet: http://www.hcgm.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5757, avenue Wilderton,
 Montréal QC H3S 2K8
@@ -470,11 +470,11 @@ Les buts de la Communauté sont d’assurer l’épanouissement de la culture de
 • de mettre sur pied des œuvres de charité, de bien-être et d’éducation au profit de la population d’origine grecque;
 • de conserver et de perpétuer la foi grecque orthodoxe et la tradition promulguée par l’autorité du Patriarcat Œcuménique de Constantinople, suivant la doctrine et la foi proclamées et appliquées par l’église grecque orthodoxe, et selon l’autorité ecclésiastique et les règles religieuses désignées par ce patriarcat.
 
-===== Organisation 19 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communaute-moldave-du-quebec/
-Website: https://www.moldovaquebec.ca/
+===== Organisation 19: Communauté Moldave du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/communaute-moldave-du-quebec/
+Site internet: https://www.moldovaquebec.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767 chemin de la Côte-des-Neiges, bureau 693-5,
 Montréal QC H3S 2T6
@@ -499,11 +499,11 @@ L’organisme collabore avec l’Association Culturelle Roumaine (ACR) pour mett
 Contact
 Pour plus d’informations sur la Communauté Moldave du Québec et ses activités, vous pouvez visiter leur site web à l’adresse www.moldovaquebec.ca ou les contacter par téléphone au 613-695-6168.
 
-===== Organisation 20 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communautesefaradeunifieeduquebec/
-Website: http://www.csuq.org/
+===== Organisation 20: Communauté Sépharade Unifiée du Québec - CSUQ =====
+URL: https://macommunaute.ca/bottin-des-organismes/communautesefaradeunifieeduquebec/
+Site internet: http://www.csuq.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5151 Chemin De la Côte-Sainte-Catherine,
 Montréal QC
@@ -519,11 +519,11 @@ Partie prenante d’une société multiethnique et porte ouverte sur le Québec 
 La CSUQ compte ainsi plusieurs formations culturelles, dont un ensemble musical – «La Chorale Kinor »-, une association favorisant la promotion de la liturgie sépharade traditionnelle – L’Association des hazanim et paytanim sépharades du Canada-, et une galerie d’art – Galeria – permettant la promotion des artistes sépharades.
 Les Montréalais ont appris depuis des années à découvrir et à apprécier l’apport sépharade par le biais du Festival Séfarad. Ce prestigieux événement leur permet, chaque été, de se familiariser avec la richesse d’une culture à la fois traditionnelle et contemporaine qui fait désormais partie du patrimoine québécois et canadien. Un comité de Femmes juives francophones travaille également pour la reconnaissance d’une identité féminine sépharade au sein du Canada.
 
-===== Organisation 21 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communaute-vietnamienne-au-canada-region-montreal/
-Website: https://communautevietmontreal.com/
+===== Organisation 21: Communauté Vietnamienne au Canada – Région Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/communaute-vietnamienne-au-canada-region-montreal/
+Site internet: https://communautevietmontreal.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767 chemin de la Côte-des-Neiges, bureau 495,
 Montréal QC H3S 2T6
@@ -547,11 +547,11 @@ La Communauté Vietnamienne au Canada – Région de Montréal a joué un rôle 
 Le lien étroit avec la communauté vietnamienne est une valeur fondamentale de l’organisme, qui s’efforce de maintenir cet engagement à travers divers événements et célébrations, tels que le Têt du Tigre et les excursions communautaires.
 La Communauté Vietnamienne au Canada – Région de Montréal est un pilier essentiel pour les Vietnamiens récemment installés au Canada, ainsi que pour les femmes, les enfants et les victimes de violences conjugales. Son histoire riche et son engagement envers la communauté en font un acteur clé dans l’intégration et le soutien des nouveaux arrivants vietnamiens à Montréal.
 
-===== Organisation 22 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/communautenoireafricainedemontrealcanadaconamc/
-Website: None
+===== Organisation 22: CONAM – Centre d’Orientation des Nouveaux Arrivants et immigrants de Montréal =====
+URL: https://macommunaute.ca/bottin-des-organismes/communautenoireafricainedemontrealcanadaconamc/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767, Chemin de la Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -570,11 +570,11 @@ Cinéma, Danse, Festivals / Évènements spéciaux, Maison de la culture, Musiqu
 Sports et loisirs
 Centre sportif / Parc, Commissions et fédérations sportives, Ligue sportive, Voyage
 
-===== Organisation 23 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/conseilcommunautairedenotredamedegrace/
-Website: http://www.ndg.ca/
+===== Organisation 23: Conseil communautaire de Notre-Dame-de-Grâce =====
+URL: https://macommunaute.ca/bottin-des-organismes/conseilcommunautairedenotredamedegrace/
+Site internet: http://www.ndg.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5964, rue Notre-Dame-de-Grâce,
 Montréal QC H4A 1N1
@@ -594,11 +594,11 @@ agir en tant que lieu central d’information pour promouvoir le bien-être de l
 développer, faire fonctionner et soutenir des projets et actions communautaires;
 organiser un processus large de discussion et d’échange quand une question sociale, un projet ou un sujet soulève des positions très divergentes dans la communauté.
 
-===== Organisation 24 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/conseil-des-educateurs-noirs-du-quebec/
-Website: https://qbbe.ca/fr
+===== Organisation 24: Conseil des Éducateurs Noirs du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/conseil-des-educateurs-noirs-du-quebec/
+Site internet: https://qbbe.ca/fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5165 rue Sherbrooke Ouest, bureau 317,
 Montréal QC H4A 1T6
@@ -619,11 +619,11 @@ Notre mission : Encourager et soutenir l’amélioration continue du système d�
 Clientèle servie : Plus de 50 ans après sa création, le QBBE est au service des familles multiculturelles et interculturelles, des élèves du primaire et du secondaire dans les secteurs francophone, anglophone et privé.
 Au Quebec Board of Black Educators, nous sommes dévoués à fournir des services éducatifs de qualité pour un avenir meilleur pour tous. Rejoignez-nous dans notre mission de promouvoir l’équité et l’excellence dans l’éducation pour les communautés noires et racialisées du Québec.
 
-===== Organisation 25 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ecole-multiethnique-de-langues-et-de-cultures-du-quebec/
-Website: https://coursdefrancais.ca/
+===== Organisation 25: École Multiethnique de Langues et de Cultures du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/ecole-multiethnique-de-langues-et-de-cultures-du-quebec/
+Site internet: https://coursdefrancais.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3480 boulevard Décarie, 2e étage,
 Montréal QC H4A 3J3
@@ -646,11 +646,11 @@ Comment s’inscrire
 Pour vous inscrire à la prochaine session, veuillez visiter le site quebec.ca. Vous pouvez également nous contacter pour plus d’informations sur nos cours et nos services.
 Nous sommes là pour vous accompagner dans votre apprentissage du français et pour vous aider à réussir votre intégration au Québec. Rejoignez-nous dès aujourd’hui pour commencer votre parcours linguistique avec l’ÉMULCQ!
 
-===== Organisation 26 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/groupeihozo/
-Website: None
+===== Organisation 26: Groupe Ihozo =====
+URL: https://macommunaute.ca/bottin-des-organismes/groupeihozo/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone.
 Cette organisation vous appartient? Réclamer la gestion de cette fiche!
@@ -664,11 +664,11 @@ Arts et Culture : Nous organisons des événements culturels tels que des danses
 En tant que membre de la communauté de nan, Groupe Ihozo s’engage à créer un environnement inclusif et accueillant pour tous. Nous croyons en la force de la diversité pour enrichir notre société et renforcer les liens entre les différentes communautés.
 Rejoignez-nous pour célébrer la culture, l’art et l’histoire de nan avec Groupe Ihozo. Ensemble, construisons un avenir plus harmonieux et solidaire pour tous.
 
-===== Organisation 27 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/jeunessesawacanada/
-Website: http://jeunessesawa.ca/
+===== Organisation 27: Jeunesse Sawa Canada =====
+URL: https://macommunaute.ca/bottin-des-organismes/jeunessesawacanada/
+Site internet: http://jeunessesawa.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5322, Place Cochrane,
 Montréal QC H3X 1H6
@@ -681,11 +681,11 @@ Nous intervenons notamment auprès des communautés culturelles et des nouveaux 
 Jeunesse Sawa Canada organise régulièrement des manifestations culturelles, sportives et récréatives, et soutient les projets de ses membres pour les aider à les concrétiser. Nous intervenons également en cas de besoin pour intercéder en faveur de nos membres.
 Rejoignez-nous pour faire partie d’une communauté dynamique et engagée, et pour contribuer à la valorisation de la culture sawa au Canada.
 
-===== Organisation 28 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/envoldesfemmeswomenontherise/
-Website: https://www.womenontherise.ca/
+===== Organisation 28: L’Envol des femmes / Women on the Rise - WOR =====
+URL: https://macommunaute.ca/bottin-des-organismes/envoldesfemmeswomenontherise/
+Site internet: https://www.womenontherise.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6897 Av Somerled,
 Montréal QC H4V 1V2
@@ -708,11 +708,11 @@ Nous partageons de délicieux repas communautaires faits maison, avec un intér�
 Nous offrons un programme de gardiennage éducatif et bilingue centré sur le développement de l’enfant.
 Nous encourageons les parents à adopter une attitude positive face à l’éducation de leurs enfants. Nous reconnaissons les défis parentaux et nous encourageons l’échange d’idées dans un contexte sans jugement.
 
-===== Organisation 29 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cogidcanada/
-Website: http://www.cogidcanada.org/
+===== Organisation 29: La Coordination Générale des Ivoiriens de la Diaspora - (COGID-CANADA) =====
+URL: https://macommunaute.ca/bottin-des-organismes/cogidcanada/
+Site internet: http://www.cogidcanada.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 11150 Rue Meighen,
 Montréal QC H8Y 3J1
@@ -728,11 +728,11 @@ Tél : (514) 299-8362 / (514) 229-1913
 E-mail : guignolee@cogidcanada.org
 Site Web : www.cogidcanada.org/guignolee
 
-===== Organisation 30 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/la-ligue-des-noirs-du-quebec/
-Website: https://liguedesnoirs.org/
+===== Organisation 30: La Ligue des Noirs du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/la-ligue-des-noirs-du-quebec/
+Site internet: https://liguedesnoirs.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5201 boulevard Décarie,
 Montréal QC H3W 3C2
@@ -756,11 +756,11 @@ La Ligue des Noirs du Québec œuvre pour rehausser la conscience morale, social
 Nos objectifs incluent la défense des droits de la communauté, l’éducation populaire pour le respect des droits des citoyens, la sensibilisation des gouvernements à l’importance de l’égalité des chances, l’encouragement de la participation citoyenne, et la défense des victimes d’injustice et d’abus de pouvoir.
 Depuis 1969, La Ligue des Noirs du Québec a établi des liens avec d’autres organisations pour mieux servir la communauté. Nous référons certaines plaintes aux instances appropriées et avons créé des organisations spécialisées pour répondre aux besoins spécifiques de la communauté.
 
-===== Organisation 31 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/regroupementivoirocanadien/
-Website: http://www.regroupementivoirocanadien.com/
+===== Organisation 31: Le Regroupement Ivoiro Canadien - RIC =====
+URL: https://macommunaute.ca/bottin-des-organismes/regroupementivoirocanadien/
+Site internet: http://www.regroupementivoirocanadien.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 750, rue Fortier,
 Montréal QC H4L 5C1
@@ -771,11 +771,11 @@ Le Regroupement Ivoiro-Canadien est un organisme sans but lucratif créé en 200
 Description
 Soirées culturelles, sorties sportives, sorties à la cabane à sucre, fêtes de la St-Jean, coopération internationale avec la Côte d’Ivoire, etc.
 
-===== Organisation 32 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/relaiscotedesneiges/
-Website: http://relaiscdn.ca/
+===== Organisation 32: Le Relais Côte-Des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/relaiscotedesneiges/
+Site internet: http://relaiscdn.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6600 avenue Victoria,
 Montreal QC H3W3G8
@@ -817,11 +817,11 @@ Activités spéciales
 Sorties socio-éducatives
 Semaine de relâche scolaire
 
-===== Organisation 33 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/ateliersboitealunch/
-Website: http://boitealunchndg.org/
+===== Organisation 33: Les Ateliers Boîte à Lunch =====
+URL: https://macommunaute.ca/bottin-des-organismes/ateliersboitealunch/
+Site internet: http://boitealunchndg.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6244 Rue Sherbrooke Ouest,
 Montréal QC H4B 1M2
@@ -858,11 +858,11 @@ Des pique-niques d’été pour les familles.
 Un programme de Cuisine Rencontres pour les parents.
 Voir plus d’informations sur nos activités ici!
 
-===== Organisation 34 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/paalpartageonslemonde/
-Website: http://www.paalmtl.org/
+===== Organisation 34: PAAL, Partageons le monde =====
+URL: https://macommunaute.ca/bottin-des-organismes/paalpartageonslemonde/
+Site internet: http://www.paalmtl.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4610 Grand Boulevard,
 MONTREAL QC H4B 2X9
@@ -888,11 +888,11 @@ PAAL est un organisme de sensibilisation à la diversité culturelle, unique en 
 PAAL offre tout des activités et un programme éducatif pour enfants, adolescents et adultes, souhaitant vivre une expérience culturelle mémorable en découvrant différentes cultures et peuples du monde.
 Nous vous y accueillons dans une ambiance stimulante et interactive, à l’image de nos valeurs : paix, amour, amitié et liberté !
 
-===== Organisation 35 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/pinay/
-Website: None
+===== Organisation 35: Pinay =====
+URL: https://macommunaute.ca/bottin-des-organismes/pinay/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4781 avenue Van Horne,
 Montréal QC H3W 1H8
@@ -916,11 +916,11 @@ Défense des droits pour promouvoir l’égalité et la justice sociale
 Nous croyons fermement que chaque femme mérite d’avoir accès à des ressources qui favorisent son autonomie et sa sécurité. En collaborant avec nous, vous rejoignez une communauté qui valorise le bien-être et l’empowerment des femmes philippines à Montréal.
 N’hésitez pas à nous contacter pour en savoir plus sur nos services ou pour obtenir de l’aide. Ensemble, nous pouvons faire une différence significative dans la vie des femmes que nous desservons.
 
-===== Organisation 36 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/regroupementdesorganismesdumontrealethniquepourlelogement/
-Website: http://romel-montreal.ca/
+===== Organisation 36: Regroupement des organismes du Montréal ethnique pour le logement - ROMEL =====
+URL: https://macommunaute.ca/bottin-des-organismes/regroupementdesorganismesdumontrealethniquepourlelogement/
+Site internet: http://romel-montreal.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6555 Côte-des-Neiges,
 Montréal QC H3S 2A6
@@ -941,11 +941,11 @@ Recherche de logement en location
 Informations diversifiés sur le logement
 Gestion immobilière
 
-===== Organisation 37 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/reseau-de-developpement-et-de-prevention-afro-canadien/
-Website: https://acdpn.org/
+===== Organisation 37: Réseau de Développement et de Prévention Afro-Canadien =====
+URL: https://macommunaute.ca/bottin-des-organismes/reseau-de-developpement-et-de-prevention-afro-canadien/
+Site internet: https://acdpn.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6585 chemin de la Côte-des-Neiges,
 Montréal QC H3S 2A5
@@ -968,11 +968,11 @@ Partenariat avec McGill: Nous collaborons avec l’Université McGill pour amél
 Programmes politiques: Nous augmentons l’accès à des services de soutien et de prévention adaptés sur le plan culturel en anglais pour mieux répondre aux besoins de la communauté noire anglophone à Montréal.
 Ensemble, nous construisons ce que la communauté noire devrait être. Rejoignez-nous dans notre mission de renforcement et de coordination de la communauté noire pour un avenir meilleur.
 
-===== Organisation 38 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/servicedaidecommunautaireetdeliaisonpourimmigrantsdenotredamedegrace/
-Website: None
+===== Organisation 38: Service d’aide communautaire et de liaison pour immigrants de Notre-Dame-de-Grâce - SACLI =====
+URL: https://macommunaute.ca/bottin-des-organismes/servicedaidecommunautaireetdeliaisonpourimmigrantsdenotredamedegrace/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6575 Ave Somerled,
 Montréal QC H4V 1T1
@@ -985,11 +985,11 @@ Mission
 Service d'aide aux nouveaux immigrants et réfugiés - Information (immigration, adaptation sociale, services sociaux, éducation, logement, francisation) - Service de dépannage
 Description
 
-===== Organisation 39 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/service-dinterprete-daide-et-de-reference-aux-immigrants/
-Website: https://www.siari.org/
+===== Organisation 39: Service d’Interprète, d’Aide et de Référence aux Immigrants =====
+URL: https://macommunaute.ca/bottin-des-organismes/service-dinterprete-daide-et-de-reference-aux-immigrants/
+Site internet: https://www.siari.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767 chemin de la Côte-des-Neiges, bureau 499,
 Montréal QC H3S 2T6
@@ -1025,11 +1025,11 @@ Edmond Tuan In: “Je suis très contente de leur super service pour ma déclara
 Choisie Bidi: “Une équipe pleine d’empathie et d’expérience qui m’ont permis d’être plus confiante sur ma procédure.”
 Le SIARI organise régulièrement des événements, des cours en groupe, des camps de jour et bien d’autres activités pour favoriser l’intégration des immigrants. Consultez notre calendrier pour ne rien manquer de nos prochaines initiatives.
 
-===== Organisation 40 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/services-sociaux-helleniques-du-quebec/
-Website: https://hcgm.org/?lang=fr
+===== Organisation 40: Services Sociaux Helléniques du Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/services-sociaux-helleniques-du-quebec/
+Site internet: https://hcgm.org/?lang=fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5777 avenue Wilderton,
 Montréal QC H3S 2V7

@@ -1,8 +1,8 @@
-===== Organisation 1 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrederepitphilou/
-Website: http://www.centrephilou.com/
+===== Organisation 1: Centre Philou =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrederepitphilou/
+Site internet: http://www.centrephilou.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2450, ch. de la Côte-Sainte-Catherine,
 Montréal QC H3T 1B1
@@ -20,11 +20,11 @@ Le Centre Philou a pour mission d'offrir des services d'aide et de développemen
 Description
 Le Centre Philou est un organisme sans but lucratif et une œuvre de bienfaisance qui offre des services spécialisés aux enfants polyhandicapés et leur famille : séjours de répit, programmes de développement, garderie et soutien familial.
 
-===== Organisation 2 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationdespinabifidaetdhydrocephalieduquebec/
-Website: http://www.spina.qc.ca/
+===== Organisation 2: Association de spina-bifida et d’hydrocéphalie du Québec - ASBHQ =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationdespinabifidaetdhydrocephalieduquebec/
+Site internet: http://www.spina.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7000, avenue du Parc, bureau 312,
 Montréal QC H3N 1X1
@@ -51,11 +51,11 @@ Apporter un soutien aux associations régionales en leur offrant une expertise e
 L’ASBHQ accorde une importance majeure à la concertation et au partenariat avec d’autres organismes des secteurs communautaires, publics, ou parapublics, afin de mieux développer les services qui répondront aux besoins de ses membres. Ses partenaires ou membres à vie sont le Centre de réadaptation Constance-Lethbridge (CRCL), l’Institut de réadaptation en déficience physique de Québec (IRDPQ), le Centre de réadaptation Chaudière-Appalaches (CRDP-CA) et l’Hôpital Shriners pour Enfants.
 Nous collaborons activement avec les organismes suivants, sur des dossiers d’intérêt commun: éducation, intégration, adaptation scolaire, intégration en milieu de garde, transport adapté, équité, politique familiale, emploi, etc. : L’Office des personnes handicapées du Québec (OPHQ), la Confédération des organismes de personnes handicapées du Québec (COPHAN), le Comité d’adaptation de la main-d’oeuvre (CAMO) pour personnes handicapées et l’Association québécoise des étudiants ayant des incapacités au postsecondaire (AQEIPS).
 
-===== Organisation 3 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredebenevolatsarpad/
-Website: https://www.sarpad.com/
+===== Organisation 3: Centre de bénévolat SARPAD Inc. - SARPAD =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredebenevolatsarpad/
+Site internet: https://www.sarpad.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6555 Chemin de la Côte-des-Neiges, Suite 442,
 Montréal QC H3S 2A6
@@ -108,11 +108,11 @@ Clinique d’impôts
 Cours informatique
 Pour effectuer une première demande de service, il suffit de téléphoner soit au bureau de Côte-des-Neiges, soit au bureau d’Outremont.
 
-===== Organisation 4 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/a-deux-mains/
-Website: https://www.headandhands.ca/
+===== Organisation 4: À Deux Mains =====
+URL: https://macommunaute.ca/bottin-des-organismes/a-deux-mains/
+Site internet: https://www.headandhands.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3465 avenue Benny,
 Montréal QC H4B 2R9
@@ -137,11 +137,11 @@ Head & Hands œuvre depuis plus de 50 ans à l’autonomisation des jeunes de Mo
 Reconnaissance territoriale : Nous reconnaissons que Tio’tia:ke (Montréal) a longtemps été un lieu de rencontre et d’échanges entre les nations autochtones. Nous remercions la terre pour les ressources qu’elle nous procure et reconnaissons le rôle des Kanien’keha:ka comme gardiens de ce territoire.
 Nous soutenons les résistances autochtones en cours à travers le « Canada » et reconnaissons la responsabilité des Premières Nations, Inuits et Métis dans la protection de l’Île de la Tortue. La Terre a existé bien avant nous et continuera bien après notre départ.
 
-===== Organisation 5 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/actioncancerduseindemontreal/
-Website: http://www.bcam.qc.ca/
+===== Organisation 5: Action cancer du sein de Montréal - ACSM =====
+URL: https://macommunaute.ca/bottin-des-organismes/actioncancerduseindemontreal/
+Site internet: http://www.bcam.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5890, av. Monkland,
 Montréal QC H4A 1G2
@@ -166,11 +166,11 @@ une prévention plus efficace, un diagnostic plus précoce et des soins plus app
 un pouvoir de décision en matière de traitements, de services, de politiques et de recherche dans le domaine de la santé;
 l’octroi de fonds de recherche sur les causes premières du cancer du sein.
 
-===== Organisation 6 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/amiquebecagircontrelamaladiementale/
-Website: http://www.amiquebec.org/
+===== Organisation 6: AMI-Québec – Allié.e.s en santé mentale =====
+URL: https://macommunaute.ca/bottin-des-organismes/amiquebecagircontrelamaladiementale/
+Site internet: http://www.amiquebec.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5800 Boulevard Décarie ,
 Montréal QC H3X 2J5
@@ -184,11 +184,11 @@ AMI-QUÉBEC est un organisme communautaire qui s’est engagé à aider les memb
 Description
 Nous avons plusieurs programmes pour les proches-aidants, incluant des ateliers, la consultation individuelle pour les proches-aidants, et des groupes de soutien. Plusieurs de nos programmes sont offerts à travers le Québec par vidéoconférence. Veuillez noter que la plupart de nos services sont en anglais.
 
-===== Organisation 7 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationpolioquebec/
-Website: http://www.polioquebec.org/
+===== Organisation 7: Association Polio Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationpolioquebec/
+Site internet: http://www.polioquebec.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3500 boul. Décarie,
 Montréal QC H4A 3J5
@@ -205,11 +205,11 @@ Défendre les intérêts des personnes victimes du Syndrome Post-Polio (SPP).
 Élargir et consolider des partenariats avec divers organismes.
 Encourager la recherche pour le traitement du Syndrome Post-Polio et d’autres conditions similaires.
 
-===== Organisation 8 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/atlas-centre-de-pediatrie-sociale-en-communaute-de-cote-des-neiges/
-Website: https://cpscatlas.org/contact/
+===== Organisation 8: Atlas, Centre de Pédiatrie Sociale en Communauté de Côte-des-Neiges - Atlas CPSC =====
+URL: https://macommunaute.ca/bottin-des-organismes/atlas-centre-de-pediatrie-sociale-en-communaute-de-cote-des-neiges/
+Site internet: https://cpscatlas.org/contact/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Siège social
 3600 ave de Kent,
 Montréal QC H2S 1N2
@@ -238,11 +238,11 @@ Soins thérapeutiques
 Services d’accompagnement juridique
 Tous adaptés selon le trajet unique de chaque enfant !
 
-===== Organisation 9 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/bureaudesdrthomassindryaremkoomnipraticiens/
-Website: None
+===== Organisation 9: Bureau des Dr Thomassin & Dr Yaremko / Omnipraticiens =====
+URL: https://macommunaute.ca/bottin-des-organismes/bureaudesdrthomassindryaremkoomnipraticiens/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7316, rue Sherbrooke Ouest,
 Montréal QC H4B 1R7
@@ -262,11 +262,11 @@ Soins pour les maladies chroniques
 Prise en charge des urgences
 N’hésitez pas à prendre rendez-vous avec notre équipe dès aujourd’hui pour bénéficier de soins de qualité et personnalisés dans un environnement chaleureux et accueillant.
 
-===== Organisation 10 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cansupport-des-cedres/
-Website: https://cansupport.ca/fr
+===== Organisation 10: Cansupport des Cèdres =====
+URL: https://macommunaute.ca/bottin-des-organismes/cansupport-des-cedres/
+Site internet: https://cansupport.ca/fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 1001 boulevard Décarie,
 Montréal QC H4A 3J1
@@ -295,11 +295,11 @@ Collection de livres sur la santé générale et le cancer
 Programme de prêt de perruques et de couvre-têtes pour les patients atteints du cancer
 Pour plus d’informations sur nos services et sur la façon de bénéficier de notre soutien, n’hésitez pas à nous contacter. CanSupport des Cèdres est là pour vous accompagner dans votre lutte contre le cancer.
 
-===== Organisation 11 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairejuridiquedemontrealaidejuridique/
-Website: http://www.ccjm.qc.ca/
+===== Organisation 11: Centre communautaire juridique de Montréal – Aide juridique - CCJM =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrecommunautairejuridiquedemontrealaidejuridique/
+Site internet: http://www.ccjm.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 440, boul. René-Lévesque ouest,
 Montréal QC H2Z 1V7
@@ -374,11 +374,11 @@ Expulsion
 Parrainage
 etc …
 
-===== Organisation 12 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredactionsidamontreal/
-Website: https://www.casm-mtl.org/
+===== Organisation 12: Centre d’Action Sida Montréal - CASM =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredactionsidamontreal/
+Site internet: https://www.casm-mtl.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 +1 514-495-0990
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone ou consulter leur site Web.
@@ -397,11 +397,11 @@ Description
 – Activités récréatives
 – Sécurité alimentaire
 
-===== Organisation 13 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-dhebergement-father-dowd/
-Website: https://www.fatherdowd.ca/
+===== Organisation 13: Centre d’Hébergement Father-Dowd =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-dhebergement-father-dowd/
+Site internet: https://www.fatherdowd.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6565 chemin Hudson,
 Montréal QC H3S 2T7
@@ -419,21 +419,21 @@ Notre Mission :
 Le Centre d’hébergement Father Dowd prodigue des soins aux membres âgés de la communauté qui ne peuvent plus vivre seuls. Nous offrons un environnement accueillant, sécuritaire et familier répondant aux besoins de chaque résident. Les familles sont considérées comme des partenaires et sont encouragées à participer aux soins.
 Le Centre bénéficie d’un appui généreux de ses Auxiliaires pour les programmes spéciaux et autres besoins.
 
-===== Organisation 14 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredinterventiondecrisetracom/
-Website: https://www.tracom.ca/
+===== Organisation 14: Centre d’intervention de crise Tracom =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredinterventiondecrisetracom/
+Site internet: https://www.tracom.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 L'adresse courriel de cette organisation est inconnue, veuillez les contacter par téléphone ou consulter leur site Web.
 Description
 Le Centre d’intervention de crise Tracom est un organisme à but non lucratif qui offre des services de crise 24 h/24, 7 j/7 en santé mentale à la population adulte du territoire Centre-Ouest de l’Île de Montréal. L’offre de services comprend l’intervention téléphonique, l’hébergement de crise et le suivi dans la communauté.
 
-===== Organisation 15 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredecouteetdereferencemultiecoute/
-Website: http://www.multiecoute.org/
+===== Organisation 15: Centre d’écoute et de référence Multi-Écoute =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredecouteetdereferencemultiecoute/
+Site internet: http://www.multiecoute.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3600 Avenue Barclay,
 Montréal QC H3S 1K5
@@ -456,11 +456,11 @@ Informer et référer les participants vers des ressources du milieu pour bonifi
 Aider les immigrants et les nouveaux-arrivants à s’adapter et à mieux s’intégrer à la société d’accueil.
 Amener la personne à trouver en elle les ressources et les solutions à ses problèmes, et si nécessaire, l’aider à trouver les ressources externes pouvant répondre à ses besoins.
 
-===== Organisation 16 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredebenevolatcotedesneiges/
-Website: http://www.centrebenevolatcdn.org/accueilreception
+===== Organisation 16: Centre de bénévolat Côte-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredebenevolatcotedesneiges/
+Site internet: http://www.centrebenevolatcdn.org/accueilreception
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5450 Chem. de la Côte des Neiges,
 Montréal QC H3V 1Y6
@@ -490,11 +490,11 @@ La gestion du Centre est assurée par un conseil d’administration composé de 
 Afin de répondre aux besoins de nos bénéficiaires le recrutement de bénévoles se fait en continu.
 Si vous voulez vous impliquer dans un milieu qui a le bien être des aînés à cœur, contactez nous!
 
-===== Organisation 17 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-de-benevolat-sarpad-cote-des-neiges/
-Website: https://sarpad.com/
+===== Organisation 17: Centre de Bénévolat Sarpad – Côte-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-de-benevolat-sarpad-cote-des-neiges/
+Site internet: https://sarpad.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6555 chemin de la Côte-des-Neiges, bureau 442,
 Montréal QC H3S 2A6
@@ -543,11 +543,11 @@ Coordonnatrice du projet « Vieillir mieux chez soi, ça se prépare! »: Valér
 Chargée de contenu « Vieillir mieux chez soi, ça se prépare! »: Marie Lamarre
 Travailleuse de milieu (ITMAV): Lorena Garrido
 
-===== Organisation 18 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-de-bien-etre-lespoir-cest-la-vie/
-Website: https://hopeandcope.ca/fr/?lang=fr
+===== Organisation 18: Centre de Bien-Être l’Espoir c’Est la Vie =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-de-bien-etre-lespoir-cest-la-vie/
+Site internet: https://hopeandcope.ca/fr/?lang=fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4635 chemin de la Côte-Sainte-Catherine,
 Montréal QC H3W 1M1
@@ -570,11 +570,11 @@ En tant qu’organisme sans subvention gouvernementale, nous comptons sur la gé
 Que vous souhaitiez faire un don, devenir bénévole ou simplement en apprendre davantage sur notre organisme, nous sommes là pour vous accompagner. N’hésitez pas à nous contacter pour en savoir plus sur nos services et sur la manière dont nous pouvons vous aider dans votre parcours avec le cancer.
 Nous sommes là pour vous soutenir. Rejoignez-nous dès aujourd’hui et faites partie de notre communauté d’espoir et de bien-être.
 
-===== Organisation 19 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-de-developpement-yaldei-shashuim/
-Website: https://www.centreyaldei.org/
+===== Organisation 19: Centre de Développement Yaldei Shashuim =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-de-developpement-yaldei-shashuim/
+Site internet: https://www.centreyaldei.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5170 rue Van Horne,
 Montréal QC H3W 1J6
@@ -593,11 +593,11 @@ Programmes de soutien: groupe des tout-petits, support scolaire, compétences so
 En 2016, Yaldei a déménagé dans un établissement moderne de 40 000 pieds carrés à Montréal, offrant ses services à plus de 25 écoles et aidant 276 enfants chaque année. L’école Yaldei propose un enseignement en anglais pour les élèves de 4 à 16 ans présentant une déficience intellectuelle modérée à profonde, des troubles du spectre de l’autisme et des déficiences physiques connexes.
 Pour en savoir plus sur les services offerts par Yaldei ou pour demander une admission, veuillez contacter Chanie Klein au 514-279-3666.
 
-===== Organisation 20 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredemedecinefamilialedelhopitalstmarys/
-Website: None
+===== Organisation 20: Centre de médecine familiale de l’Hôpital St-Mary’s =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredemedecinefamilialedelhopitalstmarys/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3777, rue Jean-Brillant,
 Montréal QC H3T 1M5
@@ -615,11 +615,11 @@ Consultations médicales générales
 Soins spécialisés pour enfants, adultes et personnes âgées
 Prévention et promotion de la santé
 
-===== Organisation 21 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredemedecinefamilialeherzlgmfherzl/
-Website: None
+===== Organisation 21: Centre de médecine familiale Herzl – GMF Herzl =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredemedecinefamilialeherzlgmfherzl/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5790, chemin de la Côte-des-Neiges,
 Montréal QC H3S 1X9
@@ -638,11 +638,11 @@ Prévention et dépistage
 Suivi personnalisé
 Nous sommes fiers de contribuer au bien-être de la communauté montréalaise en offrant des soins de qualité et en favorisant l’accès à des services de santé essentiels. Prenez rendez-vous dès aujourd’hui pour bénéficier de nos services au Centre de médecine familiale Herzl – GMF Herzl.
 
-===== Organisation 22 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredereadaptationconstancelethbridge/
-Website: http://www.constance-lethbridge.qc.ca/
+===== Organisation 22: Centre de réadaptation Constance-Lethbridge - CRCL =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredereadaptationconstancelethbridge/
+Site internet: http://www.constance-lethbridge.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7005, boul. de Maisonneuve Ouest,
 Montréal QC H4B 1T3
@@ -659,11 +659,11 @@ En interdisciplinarité, nous offrons des services de réadaptation personnalis�
 Le CRCL est reconnu par le ministère de la Santé et des Services sociaux pour offrir ses services en langues française et anglaise.
 De plus, le CRCL est reconnu au niveau régional comme établissement ayant un programme d’accès aux communautés ethnoculturelles.
 
-===== Organisation 23 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centredereadaptationmabmackay/
-Website: http://www.mabmackay.ca/
+===== Organisation 23: Centre de réadaptation MAB-Mackay =====
+URL: https://macommunaute.ca/bottin-des-organismes/centredereadaptationmabmackay/
+Site internet: http://www.mabmackay.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7000 rue Sherbrooke Ouest,
 Montréal QC H4B 1R3
@@ -690,11 +690,11 @@ De concert avec ses partenaires œuvrant dans les domaines de l’éducation, de
 Le Centre s’engage à desservir la population anglophone du Québec, et la prestation des services s’effectue en anglais et en français.
 Situé à Montréal, Québec, le Centre de réadaptation MAB-Mackay est un établissement de santé et des services sociaux dynamique offrant une gamme étendue de services spécialisés et surspécialisés ses deux sites : MAB (anciennement l’Association montréalaise pour les aveugles) et Mackay (anciennement le Centre de réadaptation Mackay). Le Centre exploite également deux points de services, un à Laval l’autre à l’Ouest de l’Île (West Island).
 
-===== Organisation 24 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-du-cancer-des-cedres/
-Website: https://www.cedars.ca/impact/centre-du-cancer-des-cedres
+===== Organisation 24: Centre du Cancer des Cèdres =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-du-cancer-des-cedres/
+Site internet: https://www.cedars.ca/impact/centre-du-cancer-des-cedres
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 1001 boulevard Décarie,
 Montréal QC H4A 3J1
@@ -718,11 +718,11 @@ Notre histoire
 La Fondation des Cèdres contre le cancer a été fondée il y a plus de 50 ans par des membres de la communauté libanaise soucieux de lutter contre le cancer. Depuis sa création, l’organisme s’est engagé à améliorer la santé des patients atteints de cancer, en offrant des soins attentionnés, en soutenant la recherche novatrice et en promouvant l’éducation dans le domaine de l’oncologie.
 Pour en savoir plus sur le Centre du cancer des Cèdres, veuillez visiter le site officiel.
 
-===== Organisation 25 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centre-hospitalier-de-st-mary/
-Website: https://www.smhc.qc.ca/fr
+===== Organisation 25: Centre Hospitalier de St. Mary =====
+URL: https://macommunaute.ca/bottin-des-organismes/centre-hospitalier-de-st-mary/
+Site internet: https://www.smhc.qc.ca/fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3830 avenue Lacombe,
 Montréal QC H3T 1M5
@@ -745,11 +745,11 @@ Désintoxication : Un programme de soutien pour les personnes en quête de réha
 Le Centre Hospitalier de St. Mary s’engage à offrir un environnement accueillant et sécuritaire, où chaque patient reçoit une attention particulière. Grâce à son affiliation avec l’Université McGill, l’établissement bénéficie d’un accès à des ressources académiques de pointe et à des recherches innovantes, garantissant ainsi des traitements à la fine pointe de la technologie.
 En tant qu’acteur clé de la santé à Montréal, le Centre Hospitalier de St. Mary s’efforce de répondre aux besoins variés de sa population, tout en mettant l’accent sur l’accessibilité et la qualité des soins. Que vous soyez un résident de Côte-des-Neiges—Notre-Dame-de-Grâce ou des environs, cet établissement est prêt à vous soutenir dans votre parcours de santé.
 
-===== Organisation 26 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centrehospitalieruniversitairechusaintejustine/
-Website: http://www.chu-sainte-justine.org/
+===== Organisation 26: Centre hospitalier universitaire CHU Sainte-Justine =====
+URL: https://macommunaute.ca/bottin-des-organismes/centrehospitalieruniversitairechusaintejustine/
+Site internet: http://www.chu-sainte-justine.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5200 Bélanger Est ,
 Montréal QC H1T 1C9
@@ -774,11 +774,11 @@ Un rôle de premier plan en matière de réadaptation
 L’exercice d’un rôle de premier plan en matière de réadaptation distingue le CHU Sainte-Justine des autres centres hospitaliers universitaires.
 Avec le Centre de réadaptation Marie Enfant (CRME), seul centre de réadaptation pédiatrique au Québec, le CHU assure ce rôle pour donner une extension toute particulière à notre vocation, dans un continuum de soins et services, enrichi par une mission de réadaptation de calibre universitaire.
 
-===== Organisation 27 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centremedicaldelaplaza/
-Website: None
+===== Organisation 27: Centre médical de la Plaza =====
+URL: https://macommunaute.ca/bottin-des-organismes/centremedicaldelaplaza/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6700, chemin de la Côte-des-Neiges,
 Montréal QC H3S 2B2
@@ -798,11 +798,11 @@ Suivi médical régulier
 Vaccinations et conseils de santé
 Au Centre médical de la Plaza, votre santé est notre priorité. Prenez rendez-vous dès aujourd’hui pour bénéficier de nos services de qualité.
 
-===== Organisation 28 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/centremedicaldecelles/
-Website: None
+===== Organisation 28: Centre médical Decelles =====
+URL: https://macommunaute.ca/bottin-des-organismes/centremedicaldecelles/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6900 Boulevard Décarie suite M,,
 Montréal QC H3X 2T8
@@ -822,11 +822,11 @@ Conseils en alimentation et en hygiène de vie
 En choisissant le Centre médical Decelles, vous optez pour une approche globale de la santé, axée sur la prévention et le suivi régulier. Notre équipe est là pour vous accompagner et vous soutenir dans votre démarche de bien-être.
 Prenez soin de vous et de votre santé en nous rendant visite au Centre médical Decelles à Montréal.
 
-===== Organisation 29 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/chabad-lifeline/
-Website: https://www.chabadlifeline.com/
+===== Organisation 29: Chabad Lifeline =====
+URL: https://macommunaute.ca/bottin-des-organismes/chabad-lifeline/
+Site internet: https://www.chabadlifeline.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4615 chemin de la Côte-Sainte-Catherine,
 Montréal QC H3W 1M1
@@ -863,11 +863,11 @@ Initiatives de sensibilisation auprès des jeunes
 Rencontres ouvertes avec conférenciers
 Si vous ou une personne que vous connaissez luttez contre une dépendance, n’hésitez pas à contacter Chabad Lifeline pour un soutien confidentiel et bienveillant. Ensemble, nous pouvons travailler à un avenir plus sain et plus lumineux.
 
-===== Organisation 30 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/chsld-juif-donald-berman/
-Website: https://www.chsldjuifdonaldberman.ca/
+===== Organisation 30: CHSLD Juif Donald Berman =====
+URL: https://macommunaute.ca/bottin-des-organismes/chsld-juif-donald-berman/
+Site internet: https://www.chsldjuifdonaldberman.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5725 avenue Victoria,
 Montréal QC H3W 3H6
@@ -891,11 +891,11 @@ Notre Mission
 Nous nous engageons à offrir des soins de qualité aux résidents en favorisant l’autonomie, l’approche interdisciplinaire, la participation des familles et la sécurité. En tant que membre du CIUSSS du Centre-Ouest-de-l’Île-de-Montréal, nous adhérons aux valeurs de respect, dignité et excellence dans les soins de santé.
 Notre établissement se compose de deux pavillons : le Centre hospitalier juif de l’espérance (Hope) et le Centre d’accueil David et Sylvia Kastner.
 
-===== Organisation 31 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cliniquemedicalediamant/
-Website: None
+===== Organisation 31: Clinique médicale Diamant =====
+URL: https://macommunaute.ca/bottin-des-organismes/cliniquemedicalediamant/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5885, chemin de la Côte-des-neiges,
 Montréal QC H3T 1Y9
@@ -925,11 +925,11 @@ Conseils en santé préventive
 Nous sommes fiers de contribuer à la santé et au bien-être de la communauté montréalaise, en offrant des services de qualité et en favorisant l’accès aux soins médicaux pour tous.
 Prenez rendez-vous à la Clinique médicale Diamant pour bénéficier de soins professionnels et attentionnés, prodigués par une équipe dévouée à votre santé.
 
-===== Organisation 32 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cliniquemedicaledu2101/
-Website: None
+===== Organisation 32: Clinique médicale du 2101 =====
+URL: https://macommunaute.ca/bottin-des-organismes/cliniquemedicaledu2101/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2101, boul. Edouard Montpetit,
 Montréal QC H3T 1J3
@@ -944,11 +944,11 @@ Notre équipe de professionnels de la santé est dévouée à fournir des servic
 À la Clinique médicale du 2101, nous intervenons dans divers domaines de la santé, tels que la médecine préventive, la gestion des maladies chroniques, les vaccinations, les dépistages et bien plus encore. Nous nous engageons à répondre aux besoins de notre communauté en offrant des services adaptés et de qualité.
 Si vous recherchez une clinique médicale de confiance à Montréal, n’hésitez pas à nous contacter pour prendre rendez-vous. Votre santé est notre priorité et nous mettons tout en œuvre pour vous offrir des soins personnalisés et efficaces.
 
-===== Organisation 33 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cliniquemedicaleterrebonne/
-Website: None
+===== Organisation 33: Clinique médicale Terrebonne =====
+URL: https://macommunaute.ca/bottin-des-organismes/cliniquemedicaleterrebonne/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5435, rue de Terrebonne,
 Montréal QC H4A 3R7
@@ -967,11 +967,11 @@ Depistages
 Vaccinations
 Suivis médicaux réguliers
 
-===== Organisation 34 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cliniquemedicalevaccinationetmedecinespecialisee/
-Website: None
+===== Organisation 34: Clinique médicale vaccination et médecine spécialisée =====
+URL: https://macommunaute.ca/bottin-des-organismes/cliniquemedicalevaccinationetmedecinespecialisee/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6260, rue Victoria,
 Montréal QC H3W 2S3
@@ -989,11 +989,11 @@ Vaccinations
 Consultations médicales
 Médecine spécialisée
 
-===== Organisation 35 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cliniquemedicalevanhorne/
-Website: None
+===== Organisation 35: Clinique médicale Van Horne =====
+URL: https://macommunaute.ca/bottin-des-organismes/cliniquemedicalevanhorne/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4875, avenue Van Horne,
 Montréal QC H3W 1J2
@@ -1012,11 +1012,11 @@ Vaccinations et immunisations
 Conseils médicaux personnalisés
 Nous sommes fiers de contribuer à la santé et au bien-être de la population de Montréal en offrant des services médicaux de qualité accessibles à tous. Prenez rendez-vous dès aujourd’hui à la Clinique médicale Van Horne pour prendre soin de votre santé et de celle de vos proches.
 
-===== Organisation 36 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cliniquemetromediccotedesneiges/
-Website: https://www.santemedic.ca/
+===== Organisation 36: Clinique Santé Medic =====
+URL: https://macommunaute.ca/bottin-des-organismes/cliniquemetromediccotedesneiges/
+Site internet: https://www.santemedic.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5950, chemin de la Côte-des-Neiges,
 Montréal QC H3S 1Z5
@@ -1031,11 +1031,11 @@ We offer a more human approach to medicine by being more attentive to your needs
 DIVERSITY
 We stand out by the variety of programs available allowing the customer to have access to a doctor and several other health care professionals in a same location
 
-===== Organisation 37 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/cliniquesocialedepsychanalysedemontreal/
-Website: http://www.clipsy-montreal.org/
+===== Organisation 37: Clinique sociale de psychanalyse de Montréal - CSPM =====
+URL: https://macommunaute.ca/bottin-des-organismes/cliniquesocialedepsychanalysedemontreal/
+Site internet: http://www.clipsy-montreal.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7000 Chem. de la Côte-des-Neiges,
 Montréal QC H3S 2C1
@@ -1053,11 +1053,11 @@ Les personnes à qui nous venons en aide ont des problèmes de santé mentale ou
 Outre le fait que toutes sont sous le seuil du faible revenu, le portrait des personnes que nous aidons est hétérogène. Un grand nombre de ces personnes sont des jeunes en situation de décrochage ou à risque de décrochage, souvent psychiquement incapables de s’investir dans des projets. Il y a également ces jeunes qui, en plus de leurs graves problèmes de santé mentale, se trouvent dans une situation de marginalité et de très grande pauvreté. D’autres sont des étudiants en questionnement sur eux-mêmes, sur leurs choix relationnels et professionnels, sur le sens de leur vie. D’autres sont des parents confrontés à d’importantes difficultés personnelles et professionnelles qui affectent lourdement leurs compétences parentales. D’autres sont des immigrants de 1re ou de 2e génération aux prises avec des difficultés d’intégration socio-économique.
 Le spectre de notre clientèle s’étend de la très jeune vingtaine à la soixantaine, mais près de 75 % des personnes qui font une demande de soins à la CSPM sont âgées de 18 à 35 ans.
 
-===== Organisation 38 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clscdebennyfarm/
-Website: http://www.cssscavendish.qc.ca/
+===== Organisation 38: CLSC de Benny Farm =====
+URL: https://macommunaute.ca/bottin-des-organismes/clscdebennyfarm/
+Site internet: http://www.cssscavendish.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6484, avenue de Monkland, ,
 Montréal QC H4B 1H3
@@ -1071,11 +1071,11 @@ Mission
 La mission du CLSC est d'offrir en première ligne à la population du territoire qu'il dessert des services de santé et des services sociaux courants de nature préventive ou curative, de réadaptation ou de réinsertion.
 Description
 
-===== Organisation 39 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clscdecotedesneiges/
-Website: http://www.csssdelamontagne.qc.ca/
+===== Organisation 39: CLSC de Côte-des-Neiges =====
+URL: https://macommunaute.ca/bottin-des-organismes/clscdecotedesneiges/
+Site internet: http://www.csssdelamontagne.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5700, chemin de la Côte-des- Neiges,
 Montréal QC H3T 2A8
@@ -1095,11 +1095,11 @@ Mission
 La mission du CLSC est d'offrir en première ligne à la population du territoire qu'il dessert des services de santé et des services sociaux courants de nature préventive ou curative, de réadaptation ou de réinsertion.
 Description
 
-===== Organisation 40 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/clubami/
-Website: http://clubami.qc.ca/
+===== Organisation 40: Club Ami =====
+URL: https://macommunaute.ca/bottin-des-organismes/clubami/
+Site internet: http://clubami.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6767 Chemin De la Côte-des-Neiges,
 Montréal QC H3S 2T6
@@ -1115,11 +1115,11 @@ Description
 Club Ami est situé dans le quartier Côte-des-Neiges, à Montréal, et permet aux personnes en souffrance psychologique d’avoir un espace leur appartenant, où il est possible de partager des moments de répit, un café ou la présence exceptionnelle de nos membres. Nous offrons des activités collectives variées: atelier de peinture, de yoga, visites au musée, conférences, et plus encore.
 Les intervenants et notre directrice organisent les activités, s’assurent du bien-être de chacun au sein de l’organisme et sont disponibles pour entendre et référer si besoin.
 
-===== Organisation 41 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/comitecommunautairecontrelesabusenverslespersonnesagees/
-Website: http://www.ndgelderabuse-abusenverslesaines.ca/fr/index.html
+===== Organisation 41: Comité communautaire contre les abus envers les personnes âgées - CCCAEPA =====
+URL: https://macommunaute.ca/bottin-des-organismes/comitecommunautairecontrelesabusenverslespersonnesagees/
+Site internet: http://www.ndgelderabuse-abusenverslesaines.ca/fr/index.html
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2100 Marlowe, ,
 Montréal QC H4A 3L5
@@ -1136,11 +1136,11 @@ c) des rencontres mensuelles commanditées qui rassemblent les citoyens d’âge
 d) des liens avec des organisations provinciales et nationales qui font pression en faveur des personnes âgées, victimes d’abus ou de négligence;
 e) la production de matériel éducatif sur l’âgisme et l’abus contre les personnes âgées.
 
-===== Organisation 42 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/complexedesantereineelizabeth/
-Website: None
+===== Organisation 42: Complexe de Santé Reine Elizabeth =====
+URL: https://macommunaute.ca/bottin-des-organismes/complexedesantereineelizabeth/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2100, avenue Marlowe,
 Montréal QC H4A 3L5
@@ -1155,11 +1155,11 @@ Au sein de notre établissement, nous proposons une gamme complète de services 
 Nous mettons un point d’honneur à offrir un accueil chaleureux et un suivi personnalisé à chacun de nos patients, dans le respect de la confidentialité et de la dignité de chacun. Chez le Complexe de Santé Reine Elizabeth, votre bien-être est notre priorité.
 Que vous soyez à la recherche d’une clinique médicale de confiance à Montréal ou que vous souhaitiez bénéficier de soins de santé de qualité, n’hésitez pas à nous contacter. Nous sommes là pour vous accompagner et vous aider à prendre soin de votre santé.
 
-===== Organisation 43 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/family-care-collective/
-Website: https://www.familycarecollective.org/
+===== Organisation 43: Family Care Collective =====
+URL: https://macommunaute.ca/bottin-des-organismes/family-care-collective/
+Site internet: https://www.familycarecollective.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5276 rue Sherbrooke Ouest, bureau 214,
 Montréal QC H4A 1W8
@@ -1182,11 +1182,11 @@ Notre équipe est composée de professionnels de la santé, d’activistes et de
 Équipe
 Notre approche centrée sur la personne, interdisciplinaire et intégrative, repose sur un réseau solide de professionnels de la santé, d’activistes et de chercheurs. Nous défendons l’équité, la dignité et l’éthique féministe en tant que valeurs fondamentales, tout en soutenant la santé physique et mentale de la famille dans son ensemble.
 
-===== Organisation 44 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/fondation-espace-espoir/
-Website: https://www.espaceespoir.org/
+===== Organisation 44: Fondation Espace Espoir =====
+URL: https://macommunaute.ca/bottin-des-organismes/fondation-espace-espoir/
+Site internet: https://www.espaceespoir.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7001 chemin de la Côte-des-Neiges,
 Montréal QC H3S 2B6
@@ -1208,11 +1208,11 @@ En vous impliquant avec la Fondation Espace Espoir, vous contribuez à améliore
 Nous vous invitons à faire un don pour soutenir notre mission et à vous abonner à notre infolettre pour rester informé de nos actions et de l’impact que nous avons sur la vie des jeunes que nous aidons.
 Contactez-nous dès aujourd’hui pour en savoir plus sur notre travail et sur la façon dont vous pouvez contribuer à offrir de l’espoir aux enfants et adolescents qui en ont le plus besoin.
 
-===== Organisation 45 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/fondationrea/
-Website: https://fondationrea.ca/
+===== Organisation 45: Fondation RÉA =====
+URL: https://macommunaute.ca/bottin-des-organismes/fondationrea/
+Site internet: https://fondationrea.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 63 Avenue de Darlington,
 Montreal QC H3S2J4
@@ -1232,11 +1232,11 @@ Ensemble, ils contribuent à améliorer la qualité de vie des personnes ayant u
 Quel est le rôle de RÉA dans tout cela? Notre quotidien consiste à sensibiliser et recueillir des dons pour la cause, l’Institut et les usagers.
 Et parce que vous vous posez certainement la question. RÉA équivaut aux trois premières lettres du mot RÉAdaptation, car nous sommes présents dès les premiers instants. Tout simplement.
 
-===== Organisation 46 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/forwardhousemaisonlesetapes/
-Website: http://www.maisonlesetapes.org/
+===== Organisation 46: Forward House – Maison Les Étapes =====
+URL: https://macommunaute.ca/bottin-des-organismes/forwardhousemaisonlesetapes/
+Site internet: http://www.maisonlesetapes.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2240 Girouard,
 Montréal QC H4A 3C3
@@ -1271,11 +1271,11 @@ Contactez Forward House
 Merci. Votre message est important pour nous.
 Contact
 
-===== Organisation 47 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/hopitalcatherineboothdelarmeedusalut/
-Website: None
+===== Organisation 47: Hôpital Catherine Booth de l’Armée du Salut =====
+URL: https://macommunaute.ca/bottin-des-organismes/hopitalcatherineboothdelarmeedusalut/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4375, avenue Montclair,
 Montréal QC H4B 2J5
@@ -1292,11 +1292,11 @@ Programmes de physiothérapie
 Réhabilitation pour problèmes orthopédiques, neurologiques ou cardiaques
 Soutien psychologique, social et personnel
 
-===== Organisation 48 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/hopital-general-juif/
-Website: https://www.hgj.ca/
+===== Organisation 48: Hôpital Général Juif =====
+URL: https://macommunaute.ca/bottin-des-organismes/hopital-general-juif/
+Site internet: https://www.hgj.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3755 chemin de la Côte-Sainte-Catherine,
 Montréal QC H3T 1E2
@@ -1321,11 +1321,11 @@ Au fil des ans, l’Hôpital général juif a su s’adapter aux besoins changea
 Contact
 Pour plus d’informations sur l’Hôpital général juif, veuillez visiter notre site web.
 
-===== Organisation 49 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/hopitalrichardson/
-Website: None
+===== Organisation 49: Hôpital Richardson =====
+URL: https://macommunaute.ca/bottin-des-organismes/hopitalrichardson/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5425, avenue Bessborough,
 Montréal QC H4V 2S7
@@ -1342,11 +1342,11 @@ Urgences médicales 24/7
 Consultations spécialisées
 Services de réadaptation
 
-===== Organisation 50 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/institutuniversitairedegeriatriedemontreal/
-Website: http://www.iugm.qc.ca/
+===== Organisation 50: Institut universitaire de gériatrie de Montréal - IUGM =====
+URL: https://macommunaute.ca/bottin-des-organismes/institutuniversitairedegeriatriedemontreal/
+Site internet: http://www.iugm.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4565, Chemin Queen-Mary,
 Montréal QC H3W 1W5
@@ -1363,11 +1363,11 @@ réadaptation fonctionnelle intensive;
 hébergement et soins de longue durée;
 centre ambulatoire comprenant des activités de centre de jour, d’hôpital de jour et des cliniques externes spécialisées (clinique de cognition, clinique de dysphagie, clinique de continence urinaire et clinique de gestion de la douleur chronique).
 
-===== Organisation 51 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/lespoircestlavie/
-Website: http://www.jgh.ca/fr/HopeCope
+===== Organisation 51: L’espoir, c’est la vie =====
+URL: https://macommunaute.ca/bottin-des-organismes/lespoircestlavie/
+Site internet: http://www.jgh.ca/fr/HopeCope
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 3755 Côte-Sainte-Catherine,
 Montréal QC H3T 1E2
@@ -1382,11 +1382,11 @@ Description
 Depuis 1981, L’espoir, c’est la vie répond aux besoins psychosociaux des patients atteints de cancer et de leurs proches; nous sommes réputés à l’échelle nationale et internationale pour l’excellence et l’innovation avec lesquelles nous abordons les soins pour le cancer. Financé grâce à une communauté fort généreuse, L’espoir, c’est la vie est un organisme constitué de bénévoles; son principe fondateur repose sur la croyance que des bénévoles qui ont passé par l’expérience du cancer peuvent faire toute la différence, ce qui se vérifie dans chaque démarche d’accompagnement et de soutien des patients.
 Géré par un personnel qualifié et logé dans les locaux de l’Hôpital général juif, notre organisme veille sur les patients à tous les stades de la maladie, que ce soit le diagnostic, le traitement, la guérison, la survie, les soins palliatifs ou le deuil. Nos programmes aident les patients à découvrir et à mettre à profit leurs ressources intérieures, afin de développer des techniques d’adaptation, de partager leurs parcours personnels et de tirer parti de l’expérience des patients qui ont survécu au cancer. Tous les programmes offerts par L’espoir, c’est la vie s’appuient sur des preuves scientifiques et ont été élaborés pour répondre aux besoins de nos utilisateurs
 
-===== Organisation 52 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/abrienville/
-Website: http://www.labrienville.org/
+===== Organisation 52: L’ Abri en Ville =====
+URL: https://macommunaute.ca/bottin-des-organismes/abrienville/
+Site internet: http://www.labrienville.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2100 rue Marlowe,,
 Montréal QC H4A 3L5
@@ -1399,11 +1399,11 @@ Description
 Pour plus d’information sur le démarrage d’un projet dans votre communauté :
 Courriel : ensemble@labrienville.org
 
-===== Organisation 53 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/associationdesinfirmieresetdesinfirmiersensoinsdepiedsduquebec/
-Website: None
+===== Organisation 53: L’Association des infirmières et infirmiers en soins podologiques du Québec - AIISPQ =====
+URL: https://macommunaute.ca/bottin-des-organismes/associationdesinfirmieresetdesinfirmiersensoinsdepiedsduquebec/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2545 Rue De Lorimier,
 Longueuil QC J4K 3P7
@@ -1413,11 +1413,11 @@ Effectue le soin des pieds, de l’utilisation et la recommandation de produits 
 Prodigue les conseils pour le soulagement des symptômes, la prévention de callosités, durillons, crevasses, les conseils d’hygiène et de sécurité.
 Assure un suivi de santé en soins podologiques, à l’élaboration du PTI, à la documentation des soins et services, au suivi clinique du client.
 
-===== Organisation 54 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/societedelanemiefalciformeducanada/
-Website: None
+===== Organisation 54: La Société de l’Anémie Falciforme du Canada =====
+URL: https://macommunaute.ca/bottin-des-organismes/societedelanemiefalciformeducanada/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6999, chemin de la Cote-des-Neiges,
 Montréal QC H3S 2B8
@@ -1429,11 +1429,11 @@ Lundi au vendredi 9h00 à 17h00
 Description
 Éducation de la population-cible, dépistage sur une base volontaire, conseils génétiques aux porteurs, services sociaux et soutien aux parents et aux personnes atteintes de cette maladie.
 
-===== Organisation 55 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/le-centre-de-sante-autochtone-de-tiohtiake/
-Website: https://ihct.ca/fr
+===== Organisation 55: Le Centre de Santé Autochtone de Tiohtià:ke =====
+URL: https://macommunaute.ca/bottin-des-organismes/le-centre-de-sante-autochtone-de-tiohtiake/
+Site internet: https://ihct.ca/fr
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2100 avenue Marlowe, bureau 236,
 Montréal QC H4A 3L5
@@ -1457,11 +1457,11 @@ Si vous avez besoin de soutien en matière de toxicomanie, notre spécialiste ce
 Contact
 Pour plus d’informations sur nos services ou pour prendre rendez-vous à notre clinique, n’hésitez pas à nous contacter au 514-482-8557. Vous pouvez également nous rendre visite à l’adresse suivante: 2100 avenue de Marlowe, bureau 236, Montréal (Québec) H4A 3L5.
 
-===== Organisation 56 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/maison-les-etapes-inc/
-Website: https://fr.maisonlesetapes.org/
+===== Organisation 56: Maison les Étapes Inc. =====
+URL: https://macommunaute.ca/bottin-des-organismes/maison-les-etapes-inc/
+Site internet: https://fr.maisonlesetapes.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2240 rue Girouard,
 Montréal QC H4A 3C3
@@ -1486,11 +1486,11 @@ Pour plus d’informations sur nos services résidentiels, vous pouvez nous cont
 Enfin, nous croyons en l’importance du soutien et de l’accompagnement dans le parcours de chaque individu. Comme le dit si bien Joubert Botha : “Parfois, les gens autour de vous ne comprennent pas votre parcours. Ils n’en ont pas besoin; ce n’est pas pour eux.”
 Nous sommes là pour vous accompagner. N’hésitez pas à nous contacter via le formulaire ci-dessus. Votre message est important pour nous.
 
-===== Organisation 57 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/maison-up/
-Website: https://www.uphouse.org/index_fr.html
+===== Organisation 57: Maison Up =====
+URL: https://macommunaute.ca/bottin-des-organismes/maison-up/
+Site internet: https://www.uphouse.org/index_fr.html
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5215 rue Namur,
 Montréal QC H4P 2R7
@@ -1519,11 +1519,11 @@ Partenariats
 Nous collaborons avec des étudiants en counseling, diététique et ergothérapie, offrant des opportunités de stage. En tant que membre du réseau d’organisations communautaires de Montréal, nous bénéficions du soutien financier du Programme de soutien aux organismes communautaires.
 Si vous avez des questions ou souhaitez en savoir plus sur Maison UP, n’hésitez pas à nous contacter. Nous serons ravis de vous accueillir et de vous présenter notre communauté engagée dans la santé mentale.
 
-===== Organisation 58 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/medecinsdu2101/
-Website: None
+===== Organisation 58: Médecins du 2101 =====
+URL: https://macommunaute.ca/bottin-des-organismes/medecinsdu2101/
+Site internet: None
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 2101, boulevard Édouard-Montpetit,
 Montréal QC H3T 1J3
@@ -1542,11 +1542,11 @@ Suivi de maladies chroniques
 Soins d’urgence
 Que vous soyez un résident de Montréal ou simplement de passage, les Médecins du 2101 sont là pour répondre à vos besoins en matière de santé. Prenez rendez-vous dès aujourd’hui pour bénéficier de soins professionnels et attentionnés, axés sur votre bien-être.
 
-===== Organisation 59 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/programme-avantage/
-Website: https://centreavantage.ca/
+===== Organisation 59: Programme Avantâge =====
+URL: https://macommunaute.ca/bottin-des-organismes/programme-avantage/
+Site internet: https://centreavantage.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 4565 chemin Queen-Mary,
 Montréal QC H3W 1W5
@@ -1567,11 +1567,11 @@ Collection de publications de l’IUGM disponibles en ligne
 Notre objectif est de sensibiliser le public à l’importance du vieillissement en santé et de fournir des informations pertinentes et actualisées pour y parvenir.
 Pour en savoir plus sur nos activités, nos conférences et nos ressources, visitez notre site web à l’adresse centreavantage.ca.
 
-===== Organisation 60 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/projet10/
-Website: https://p10.qc.ca/
+===== Organisation 60: Projet 10 =====
+URL: https://macommunaute.ca/bottin-des-organismes/projet10/
+Site internet: https://p10.qc.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 10138 Rue Lajeunesse,
 Montréal QC H3L 2E2
@@ -1594,11 +1594,11 @@ Nous offrons des ateliers d’information pour les jeunes, les professeurs et in
 SANTÉ TRANS
 À Projet 10, nous travaillons fort à trouver des médecins et d’autres professionnels de la santé qui sont qualifiés et informés pour travailler avec les jeunes trans d’une façon ouverte et non jugeante. À cette fin, nous maintenons une base de données de physiciens, thérapeutes, etc. pour la Santé Trans. De cette façon, nous pouvons référer nos participants à ces spécialistes de la santé. Récemment, l’équipe de travail de Projet 10 a été des membres actifs d’un Réseau pour la Santé Trans afin d’améliorer l’accès des personnes trans aux services de santé.
 
-===== Organisation 61 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/reseau-de-developpement-et-de-prevention-afro-canadien/
-Website: https://acdpn.org/
+===== Organisation 61: Réseau de Développement et de Prévention Afro-Canadien =====
+URL: https://macommunaute.ca/bottin-des-organismes/reseau-de-developpement-et-de-prevention-afro-canadien/
+Site internet: https://acdpn.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6585 chemin de la Côte-des-Neiges,
 Montréal QC H3S 2A5
@@ -1621,11 +1621,11 @@ Partenariat avec McGill: Nous collaborons avec l’Université McGill pour amél
 Programmes politiques: Nous augmentons l’accès à des services de soutien et de prévention adaptés sur le plan culturel en anglais pour mieux répondre aux besoins de la communauté noire anglophone à Montréal.
 Ensemble, nous construisons ce que la communauté noire devrait être. Rejoignez-nous dans notre mission de renforcement et de coordination de la communauté noire pour un avenir meilleur.
 
-===== Organisation 62 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/retablissement-smart-quebec/
-Website: https://smartrecoveryquebec.org/
+===== Organisation 62: Rétablissement Smart – Québec =====
+URL: https://macommunaute.ca/bottin-des-organismes/retablissement-smart-quebec/
+Site internet: https://smartrecoveryquebec.org/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 5605 Chemin Upper Lachine,
 Montréal QC H4A 2A6
@@ -1656,11 +1656,11 @@ SMART Recovery® Quebec offre des outils et des exercices pour vous aider à gé
 Contact Us
 Pour plus d’informations ou pour participer à nos réunions, veuillez nous contacter au 514-621-2257. Vous pouvez également nous suivre sur les réseaux sociaux et télécharger notre application mobile.
 
-===== Organisation 63 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/coupdebalai/
-Website: http://www.coupdebalai.com/
+===== Organisation 63: Services CDB à domicile – Coup de balai - Services CDB à domicile =====
+URL: https://macommunaute.ca/bottin-des-organismes/coupdebalai/
+Site internet: http://www.coupdebalai.com/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 6525 Decarie,
 Montréal QC H3W 3E3
@@ -1696,11 +1696,11 @@ Frais de services
 Les tarifs varient de 4 à 24 dollars de l’heure. Plusieurs services sont subventionnés par la RAMQ, l’Appui Montréal et/ou le programme de crédit d’impôt pour le maintien à domicile des ainés.
 Vos services peuvent être combinés avec des services subventionnés et non subventionnés.
 
-===== Organisation 64 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/societe-canadienne-de-psychanalyse/
-Website: https://www.fr.psychoanalysis.ca/
+===== Organisation 64: Société Canadienne de Psychanalyse =====
+URL: https://macommunaute.ca/bottin-des-organismes/societe-canadienne-de-psychanalyse/
+Site internet: https://www.fr.psychoanalysis.ca/
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7000 chemin de la Côte-des-Neiges,
 Montréal QC H3S 2C1
@@ -1730,11 +1730,11 @@ Western Canada Psychoanalytic Society
 Contact
 Si vous souhaitez en savoir plus sur la psychanalyse au Canada, n’hésitez pas à nous contacter au 514.738.6105. Vous pouvez également nous rendre visite à notre siège social situé au 410-4333, Rue Sainte-Catherine Ouest, Westmount, QC H3Z 1P9, Canada.
 
-===== Organisation 65 =====
-Page URL: https://macommunaute.ca/bottin-des-organismes/universite-concordia-centre-de-psychologie-appliquee/
-Website: https://www.concordia.ca/artsci/psychology/facilities-services/apc.html
+===== Organisation 65: Université Concordia – Centre de Psychologie Appliquée =====
+URL: https://macommunaute.ca/bottin-des-organismes/universite-concordia-centre-de-psychologie-appliquee/
+Site internet: https://www.concordia.ca/artsci/psychology/facilities-services/apc.html
 
-À PROPOS DE L'ORGANISME
+Description: À PROPOS DE L'ORGANISME
 Coordonnées
 7141 rue Sherbrooke Ouest, bureau PY-111,
 Montréal QC H4B 1R6
