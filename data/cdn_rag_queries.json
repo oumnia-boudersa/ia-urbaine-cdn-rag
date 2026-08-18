@@ -1,0 +1,324 @@
+{
+  "Persona 1": {
+    "Simple": [
+      "Where can I talk to someone near Côte-des-Neiges who can help me in my language?",
+      "Is there a nearby place to get a small food basket for the week?",
+      "Where can I get help booking a doctor appointment without using the internet?",
+      "Are there free French classes close to Côte-des-Neiges for beginners?",
+      "Is there a place nearby where seniors can join activities and meet people?"
+    ],
+    "Medium": [
+      "I got a letter about my health card and I do not understand what it wants, where can someone explain it to me?",
+      "I need help reading medication instructions because I am not sure I am taking them right, who can help?",
+      "I want to see a doctor but I do not know which clinic to call, can someone guide me in person?",
+      "I feel lonely most days and I want somewhere safe to spend time, what places are around Côte-des-Neiges?",
+      "I am worried about my rent and I do not know what I am allowed to ask the landlord, where can I get advice?"
+    ],
+    "Hard": [
+      "I have pain, I do not speak French well, and I am also running out of food, is there one place in Côte-des-Neiges that can help me figure out both?",
+      "I heard there is help for seniors nearby but I cannot remember the name, where should I start?",
+      "My landlord wants me to sign something and I am scared, plus I need someone to translate, who can I talk to?",
+      "I tried calling for an apointment but I got confused and hung up, can someone help me call again near Côte-des-Neiges?",
+      "Je parle un peu français and Tagalog, and I feel embarrassed asking for help, is there somewhere calm where I can talk privately?"
+    ]
+  },
+  "Persona 2": {
+    "Simple": [
+      "Where can I find free Wi-Fi near Côte-des-Neiges?",
+      "Is there a place nearby to print documents for free or very cheap?",
+      "Where can I use a computer to apply for jobs in Côte-des-Neiges?",
+      "Where can I charge my phone if I am out all day?",
+      "Where can I get help finding a food bank close by?"
+    ],
+    "Medium": [
+      "My internet at home is unreliable, is there a place where I can sit and fill online forms without losing connection?",
+      "I only have a phone and it is hard to upload files, where can someone help me send documents?",
+      "I need to apply for benefits but I do not know which website to use, where can I get help in person?",
+      "I have an interview and I need to make a resume quickly, where can I get support today?",
+      "I keep missing calls because my data runs out, is there a place that can help me contact services using Wi-Fi?"
+    ],
+    "Hard": [
+      "I have to submit papers for a form, I have no stable internet, and I need to print and scan, where can I do all of that in Côte-des-Neiges today?",
+      "I need help but I do not know what to ask for, is there somewhere I can just go and explain my situation?",
+      "I need Wi-Fi for job search and also food help for this week, is there a place that can help with both?",
+      "I tried to upload my documnts and it keeps failing, where can I go so someone can help me do it right?",
+      "Je cherche du Wi-Fi gratuit and I also need help with a CV, peut-être en anglais ou بالعربية, where can I go near Côte-des-Neiges?"
+    ]
+  },
+  "Persona 3": {
+    "Simple": [
+      "Where can I learn basic computer use near Côte-des-Neiges?",
+      "Where can I get help making a resume?",
+      "Is there a place that can help me set up an email account?",
+      "Where can I look for local construction or manual jobs?",
+      "Where can I get help with simple budgeting and bills?"
+    ],
+    "Medium": [
+      "I want more clients for small jobs but I do not know how to post online, where can someone show me?",
+      "I need to apply for work online but I keep getting stuck on the forms, where can I get help face to face?",
+      "My phone is too old to open some sites, is there somewhere with computers I can use?",
+      "I lost access to my email and now I cannot reply to job offers, where can I fix that?",
+      "I need help understanding tax papers and I do not want to mess it up, where can I go nearby?"
+    ],
+    "Hard": [
+      "I need work fast and I also have rent stress, is there a place in Côte-des-Neiges that can help with job search and money advice together?",
+      "Someone told me about a free computer help place but I forgot what it is called, where should I start looking?",
+      "I need to send an invoice and get paid but I do not know how to do it online, who can help me learn this?",
+      "My account got locked because I typed the passwrod wrong too many times, where can I go for help near me?",
+      "Je ne suis pas bon avec l’ordi and I get frustrated, can someone help me step by step, maybe en français and a bit of English?"
+    ]
+  },
+  "Persona 4": {
+    "Simple": [
+      "Where can I get food support near Côte-des-Neiges?",
+      "Where can I ask about rent help?",
+      "Is there help finding childcare near Côte-des-Neiges?",
+      "Where can I get help finding a job quickly?",
+      "Are there free French classes nearby?"
+    ],
+    "Medium": [
+      "I need help but I want it to be discreet, where can I ask about food and rent without feeling exposed?",
+      "I lost my job and I have kids, is there a place that can help me plan what to do next?",
+      "I need childcare so I can attend interviews, where can I find short-term options?",
+      "I am behind on bills and I am scared to open letters, where can someone help me sort them out?",
+      "I want to avoid going to many places with my kids, is there one location that can guide me to the right help?"
+    ],
+    "Hard": [
+      "I lost my job, my kids need food, and my landlord is pressuring me, can you tell me where in Côte-des-Neiges I can get help for rent and groceries without waiting forever?",
+      "I do not even know what I qualify for, is there a place I can talk to that will not judge me?",
+      "I need childcare and also help with job search, is there somewhere that can help with both in the same visit?",
+      "I called and got nervous and hung up, plus my French is bad, where can I go in person for help, maybe with русский or English?",
+      "I wrote “rent suprot CDN” and I cannot find anything clear, can you point me to somewhere real and close?"
+    ]
+  },
+  "Persona 5": {
+    "Simple": [
+      "Where can I quickly find local referrals for food assistance in Côte-des-Neiges?",
+      "Which places near Côte-des-Neiges help with affordable housing searches?",
+      "Where can clients get help using computers for forms and job applications?",
+      "Who provides job training or CV help in the neighborhood?",
+      "Where can people get help with immigration-related paperwork in Montréal?"
+    ],
+    "Medium": [
+      "I need options that can serve people in multiple languages, where can I find those services near Côte-des-Neiges?",
+      "A client has no phone plan and weak internet, which services can they access in person without appointments?",
+      "I need a quick referral for mental health support that is easy to access, what is available nearby?",
+      "Where can I send someone to get help with online benefit applications and document uploads?",
+      "I want a central place that can triage needs like food, housing, and paperwork, what should I look for locally?"
+    ],
+    "Hard": [
+      "I have a client who needs food today, rent help this month, and a computer to submit forms, can you suggest a small list of places in Côte-des-Neiges that cover these needs?",
+      "I cannot remember the name of a local place that helps with forms near Côte-des-Neiges, can you help me identify likely options?",
+      "I need referrals that work for people who speak français/anglais and sometimes español or العربية, where can I find services that can handle this without long delays?",
+      "My notes say “immig help + wifi + CV” and I cannot find anything now, can you point me to a reliable local starting point?",
+      "A client is anxious, has no stable housing, and needs document help, but they also need interpretation, what is the simplest referral path near Côte-des-Neiges?"
+    ]
+  },
+  "Persona 6": {
+    "Simple": [
+      "Where can I get food help near Côte-des-Neiges?",
+      "Where can I find affordable childcare options nearby?",
+      "Where can I get help applying for family benefits?",
+      "Is there a place with after-school activities for kids in Côte-des-Neiges?",
+      "Where can I get help writing a resume for part-time work?"
+    ],
+    "Medium": [
+      "My schedule changes every week, is there childcare help that can handle irregular hours?",
+      "I keep making mistakes on online forms and it stresses me out, where can someone help me in person?",
+      "I am short on groceries before payday, where can I get quick food support close to home?",
+      "I feel overwhelmed and I need someone to talk to, where can I find low-cost mental health support nearby?",
+      "I need help with both food and benefits, is there one place that can guide me without sending me everywhere?"
+    ],
+    "Hard": [
+      "I can only go out after work, I need food help and someone to help me submit benefit forms online, where can I go in Côte-des-Neiges in the evening?",
+      "I do not know what papers I need to bring for help, what should I take with me?",
+      "I need childcare so I can keep my job, and I also need help with rent, is there a place that can help me plan both?",
+      "I keep searching “foood help near me” and I get places far away, can you give me something close to Côte-des-Neiges?",
+      "Je suis épuisée and I do not want to be judged, is there somewhere I can ask quietly, maybe en français and a bit of English?"
+    ]
+  },
+  "Persona 7": {
+    "Simple": [
+      "Where can I get free legal help for immigration issues in Montréal?",
+      "Where can I get help translating official letters?",
+      "Where can I find food assistance near Côte-des-Neiges?",
+      "How can I see a doctor if I do not have a family doctor?",
+      "Where can I learn French for beginners near Côte-des-Neiges?"
+    ],
+    "Medium": [
+      "I need someone to check my documents before I submit them, where can I get help?",
+      "I have a degree and I want to work, where can I get help finding jobs that match my skills?",
+      "I feel very anxious and I cannot sleep, where can I talk to someone without paying a lot?",
+      "I do not know what benefits I can apply for right now, where can someone explain my options?",
+      "I need help with both job search and paperwork, is there a place that can guide me step by step?"
+    ],
+    "Hard": [
+      "I need legal help for my status, I am anxious all the time, and I also need food support, where in Côte-des-Neiges can I start without being sent to many places?",
+      "I was told to go to an office for my papers but I forgot the name, where should I begin?",
+      "I need help with documents and also a safe place to talk because I feel panic, can you suggest where to go first?",
+      "I typed my birth date wrong on a form and now I am scared it ruined everything, where can I get help fixing it?",
+      "Мені потрібна допомога with papers, and I do not speak French, is there somewhere near Côte-des-Neiges with Ukrainian or Russian support?"
+    ]
+  },
+  "Persona 8": {
+    "Simple": [
+      "Where can I find interpretation services for community support in Montréal?",
+      "Where can adults join French classes near Côte-des-Neiges?",
+      "Where can I find simple multilingual materials about local services?",
+      "Are there local places that help people fill out forms with language support?",
+      "Where can I find referrals for food support in Côte-des-Neiges?"
+    ],
+    "Medium": [
+      "I need practical training for staff on working with interpreters, where can I find something local?",
+      "A client speaks a less common language, where can I find an interpretation option that is realistic and affordable?",
+      "I want a list of services that can handle walk-ins who need language support, where can I search?",
+      "Where can I find plain-language guides that explain benefits and services without complicated terms?",
+      "Which organizations near Côte-des-Neiges can support clients who need both social help and translation?"
+    ],
+    "Hard": [
+      "I need referrals for clients who need food and housing help and also interpretation, can you suggest places in Côte-des-Neiges that can do more than one thing in the same visit?",
+      "I remember a training about “interprétation communautaire” but I cannot find it again, where should I look?",
+      "My coworker searched “trasnlation tools for outreach” and got random apps, what is a reliable option for field work?",
+      "A client needs help with forms and mental health support, and they speak español and some Arabic, where can I refer them without sending them across the city?",
+      "Je cherche un outil simple, maybe with offline mode, for quick phrases like “documents” and “appointment,” and also something that can handle 中文 or русский, what can I use?"
+    ]
+  },
+  "Persona 9": {
+    "Simple": [
+      "Where can I post a volunteer opportunity in Côte-des-Neiges?",
+      "Are there local groups interested in community gardening?",
+      "Where can I find community gardens in Montréal that might partner with us?",
+      "Is there a community center that can help connect us with volunteers?",
+      "Where can I find youth groups that might want to volunteer outdoors?"
+    ],
+    "Medium": [
+      "I have space for gardening but I do not know who to contact to reach residents in Côte-des-Neiges, where should I start?",
+      "I want to connect this project with food support groups, which local organizations should I talk to?",
+      "How can I recruit volunteers who speak different languages so more people feel welcome?",
+      "Is there a local network that links community projects together so we can collaborate?",
+      "I want to involve families and seniors, where can I find local programs that would be interested?"
+    ],
+    "Hard": [
+      "We have land and tools, but we cannot recruit enough volunteers, and we also want to link the harvest to food support groups, who in Côte-des-Neiges can help us connect these pieces?",
+      "Someone mentioned a neighborhood garden group but I forgot the name, can you help me figure out what it might be?",
+      "I need volunteers and also a way to communicate across languages, is there a place that can help us recruit and translate at the same time?",
+      "I keep posting but getting no replies, maybe I am using the wrong words, where should I advertise locally in Montréal?",
+      "Je veux recruter des bénévoles, maybe en français, English, and un poco español, where can I share the offer in Côte-des-Neiges?"
+    ]
+  },
+  "Persona 10": {
+    "Simple": [
+      "Where can a family with children get food support in Côte-des-Neiges?",
+      "Are there places that can provide emergency groceries today near Côte-des-Neiges?",
+      "Where can I refer a family that cannot travel far for food help?",
+      "Which local organizations support families with young children in Côte-des-Neiges?",
+      "Where can I find a quick list of food assistance options in the neighborhood?"
+    ],
+    "Medium": [
+      "A family was turned away from a food bank downtown, where else can they go closer to Côte-des-Neiges?",
+      "I want to avoid sending families to an overloaded place, what are alternative food support options nearby?",
+      "The family has limited French or English, which services might still help them without confusion?",
+      "They need food now and also help with documents, is there somewhere that can handle both?",
+      "They have no phone plan and limited internet, where can they go in person to get help?"
+    ],
+    "Hard": [
+      "A family with kids was refused downtown, they have no money for transport, and they need food today, where in Côte-des-Neiges can they go and what should they bring?",
+      "I do not know their exact address, only that they are in Côte-des-Neiges, what is the safest first place to send them?",
+      "They need food, help with school paperwork, and someone to interpret, is there a place that can help with all of that?",
+      "I wrote “banque alimetaire family refused” and I cannot find clear options, can you point me to something reliable nearby?",
+      "La famille parle un peu فارسی and some English, and they are stressed, is there a service in Côte-des-Neiges that can help without making them explain everything twice?"
+    ]
+  },
+  "Persona 11": {
+    "Simple": [
+      "Where can I get urgent help if my landlord is taking back my apartment?",
+      "Who can explain tenant rights in Montréal in simple words?",
+      "Where can I find emergency housing near Côte-des-Neiges?",
+      "Is there help for seniors searching for affordable housing?",
+      "Where can I get help with forms if I am not comfortable online?"
+    ],
+    "Medium": [
+      "My landlord is pushing me to sign papers and I do not understand them, where can I get advice quickly?",
+      "I may lose my home around July 1, where can I start looking for help now?",
+      "I cannot search listings online well, is there somewhere that can help me find housing in person?",
+      "I am worried about moving costs and deposits, is there any support for that?",
+      "I want someone to help me talk to my landlord or understand what to say, where can I go?"
+    ],
+    "Hard": [
+      "My landlord wants me out, I do not understand the paper, and July 1 is coming, can you tell me where to get quick tenant advice and also where to look for temporary housing near Côte-des-Neiges?",
+      "I do not know if this counts as eviction or something else, where can I ask without making mistakes?",
+      "I need help and I cannot use the internet much, where can I walk in and talk to someone?",
+      "I searched “evicton help montreal” and I got confused, can you point me to the right place to start?",
+      "Je suis stressé, I speak mostly French, and I need help fast, is there somewhere near Côte-des-Neiges that can explain my rights slowly?"
+    ]
+  },
+  "Persona 12": {
+    "Simple": [
+      "Where can I get help if my apartment is unsafe or dirty?",
+      "Who can tell me what to do if the landlord lied about the apartment?",
+      "Where can I get low-cost legal help for housing problems in Montréal?",
+      "Where can I find safe affordable housing near Côte-des-Neiges?",
+      "Where can I get food help if I am staying in a shelter?"
+    ],
+    "Medium": [
+      "I moved into a place that does not match the photos and I feel trapped, where can I ask for help without making a big conflict?",
+      "I have limited internet and I cannot search much, where can I get housing help in person near Côte-des-Neiges?",
+      "I am worried about mold or pests and my child, who can I contact for help?",
+      "I need advice on how to ask the landlord for repairs without getting kicked out, where can I get guidance?",
+      "I do not understand the rules about assistance money and housing costs, where can someone explain it?"
+    ],
+    "Hard": [
+      "I am in a shelter, my first cheque is coming, I rented a studio that is filthy and not like the photos, and I do not want trouble, where can I get quiet help for housing rights and finding a safer place near Côte-des-Neiges?",
+      "I do not know what I signed or what I can do, where should I start?",
+      "I need help reporting the conditions and also finding food and internet to do the forms, where can I go in one day?",
+      "I keep typing “insalubre logement” and I cannot find clear steps, can you point me to someone who can guide me?",
+      "Necesito ayuda con vivienda, and I can speak some Spanish and a little French, is there a place in Côte-des-Neiges that can help me without judging me?"
+    ]
+  },
+  "Persona 13": {
+    "Simple": [
+      "Who can I contact about dangerous crossings near a school in Côte-des-Neiges?",
+      "Where can I report speeding cars near a school?",
+      "Is there a local group that helps families with school route safety?",
+      "Are there walking groups for kids going to school in Montréal?",
+      "Where can I find help understanding school safety resources in Côte-des-Neiges?"
+    ],
+    "Medium": [
+      "The walk to school feels risky and stressful, where can we get help figuring out what to do?",
+      "We want safer crossings and clearer signs, who can guide us on who to contact first?",
+      "We do not know the right words in French to explain the problem, where can we get help writing it?",
+      "We want something practical like a supervised walking group, is there a local program for that?",
+      "We want to talk to other parents nearby about this safety issue, where can we connect?"
+    ],
+    "Hard": [
+      "Every morning the cars fly past the school and the crossings feel unsafe, we have tried being careful but it is still scary, can you tell us who in Côte-des-Neiges can help with safer routes and a walking group plan?",
+      "I do not know the street names, only that it is close to the school, where do we start anyway?",
+      "We need help with safety near school and also help communicating with the right office, where can we get guidance?",
+      "I searched “scool route safety CDN” and I keep getting random pages, where should I look for something local?",
+      "On veut un “chemin scolaire sécuritaire,” and we speak English and un peu français, is there a place that can help us report it?"
+    ]
+  },
+  "Persona 14": {
+    "Simple": [
+      "Where can I get help with transportation costs in Montréal?",
+      "Is there support for low-income workers who commute far?",
+      "Where can I learn how car insurance works in Québec?",
+      "Where can I get budgeting help for fuel and bills?",
+      "Where can I get job search help near Côte-des-Neiges?"
+    ],
+    "Medium": [
+      "My commute is very long and delays are putting my job at risk, where can I get help finding better options?",
+      "I bought a car because transit was unreliable, but now costs are too high, where can I get advice?",
+      "I do not understand which transit pass is best for me, where can someone explain it simply?",
+      "I want to find work closer to Côte-des-Neiges but I do not know where to start, where can I get help?",
+      "I am behind on bills because of transport costs, is there any local support for this situation?"
+    ],
+    "Hard": [
+      "Transit delays were threatening my job, so I bought a car, but now gas and insurance are crushing my budget, can you suggest where in Côte-des-Neiges I can get financial counselling and job search help to find something closer?",
+      "I just need help because commuting is ruining everything, where do I start?",
+      "I need cheaper transport and also help managing debt, is there a place that can guide me on both?",
+      "I searched “car insurence help quebec” and I got lost, where can I talk to someone who explains it clearly?",
+      "Je parle一点中文 and some English, and I need help understanding car insurance and cheaper commuting options, is there somewhere near Côte-des-Neiges that can help?"
+    ]
+  }
+}

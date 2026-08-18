@@ -1,0 +1,27 @@
+{
+  "Persona 1": {
+    "Simple": [
+      "Where can I get help booking a doctor appointment without using the internet?"
+    ],
+    "Medium": [
+      "I am worried about my rent and I do not know what I am allowed to ask the landlord, where can I get advice?"
+    ],
+    "Hard": [
+      "I have pain, I do not speak French well, and I am also running out of food, is there one place in Côte-des-Neiges that can help me figure out both?",
+      "Je parle un peu français and Tagalog, and I feel embarrassed asking for help, is there somewhere calm where I can talk privately?"
+    ]
+  },
+  "Persona 2": {
+    "Simple": [
+      "Where can I find free Wi-Fi near Côte-des-Neiges?",
+      "Is there a place nearby to print documents for free or very cheap?"
+    ],
+    "Medium": [
+      "I have an interview and I need to make a resume quickly, where can I get support today?"
+    ],
+    "Hard": [
+      "I need help but I do not know what to ask for, is there somewhere I can just go and explain my situation?",
+      "Je cherche du Wi-Fi gratuit and I also need help with a CV, peut-être en anglais ou بالعربية, where can I go near Côte-des-Neiges?"
+    ]
+  }
+}
