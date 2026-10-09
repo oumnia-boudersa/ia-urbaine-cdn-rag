@@ -1,0 +1,29 @@
+{
+    "model_name_or_path": "meta-llama/Llama-2-7b-chat-hf",
+    "method": "dragin",
+    "dataset": "ivado_cdn",
+    "data_path": "data/ivadodata",
+    "queries_file": "queries.json",
+    "fewshot": 7,
+    "sample": -1,
+    "shuffle": false,
+    "generate_max_length": 128,
+    "query_formulation": "real_words",
+    "retrieve_keep_top_k": 35,
+    "output_dir": "result/llama2_7b_chat_ivado_cdn/DRAGIN-bilingual-sparse",
+    "retriever": "SPARSE",
+    "sparse_index_path": [
+        "data/ivadodata/3_indexes/sparse_index/macommunaute/en/sparse_index.pkl",
+        "data/ivadodata/3_indexes/sparse_index/macommunaute/fr/sparse_index.pkl",
+        "data/ivadodata/3_indexes/sparse_index/211/en/sparse_index.pkl",
+        "data/ivadodata/3_indexes/sparse_index/211/fr/sparse_index.pkl"
+    ],
+    "sparse_text_key": "content",
+    
+    "sparse_id_key": "chunk_id",
+    "retrieve_topk": 3,
+    "hallucination_threshold": 1.3,
+    "check_real_words": true,
+    "use_counter": true,
+    "generation_seed": 42
+}

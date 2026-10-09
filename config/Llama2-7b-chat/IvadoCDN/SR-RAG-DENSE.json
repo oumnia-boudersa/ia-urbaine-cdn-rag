@@ -1,0 +1,29 @@
+{
+    "model_name_or_path": "meta-llama/Llama-2-7b-chat-hf",
+    "method": "single-retrieval",
+    "dataset": "ivado_cdn",
+    "fewshot": 7,
+    "sample": -1,
+    "shuffle": false,
+    "generate_max_length": 128,
+    "query_formulation": "direct",
+    "output_dir": "result/llama2_7b_chat_ivado_cdn/SR-RAG-bilingual-dense",
+    "retriever": "FAISS",
+    "faiss_index_path": [
+        "data/ivadodata/3_indexes/dense_index/macommunaute/en/dense_index.faiss",
+        "data/ivadodata/3_indexes/dense_index/macommunaute/fr/dense_index.faiss",
+        "data/ivadodata/3_indexes/dense_index/211/en/dense_index.faiss",
+        "data/ivadodata/3_indexes/dense_index/211/fr/dense_index.faiss"
+    ],
+    "faiss_pkl_path": [
+        "data/ivadodata/3_indexes/dense_index/macommunaute/en/chunks.pkl",
+        "data/ivadodata/3_indexes/dense_index/macommunaute/fr/chunks.pkl",
+        "data/ivadodata/3_indexes/dense_index/211/en/chunks.pkl",
+        "data/ivadodata/3_indexes/dense_index/211/fr/chunks.pkl"
+    ],
+    "faiss_text_key": "content",
+    "faiss_id_key": "chunk_id",
+    "retrieve_topk": 3,
+    "use_counter": true,
+    "generation_seed": 42
+}

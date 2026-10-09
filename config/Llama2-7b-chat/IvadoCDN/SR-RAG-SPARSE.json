@@ -1,0 +1,23 @@
+{
+    "model_name_or_path": "meta-llama/Llama-2-7b-chat-hf",
+    "method": "single-retrieval",
+    "dataset": "ivado_cdn",
+    "fewshot": 3,
+    "sample": -1,
+    "shuffle": false,
+    "generate_max_length": 128,
+    "query_formulation": "direct",
+    "output_dir": "result/llama2_7b_chat_ivado_cdn/SR-RAG-bilingual-sparse",
+    "retriever": "SPARSE",
+    "sparse_index_path": [
+        "data/ivadodata/3_indexes/sparse_index/macommunaute/en/sparse_index.pkl",
+        "data/ivadodata/3_indexes/sparse_index/macommunaute/fr/sparse_index.pkl",
+        "data/ivadodata/3_indexes/sparse_index/211/en/sparse_index.pkl",
+        "data/ivadodata/3_indexes/sparse_index/211/fr/sparse_index.pkl"
+    ],
+    "sparse_text_key": "content",
+    "sparse_id_key": "chunk_id",
+    "retrieve_topk": 3,
+    "use_counter": true,
+    "generation_seed": 42
+}
