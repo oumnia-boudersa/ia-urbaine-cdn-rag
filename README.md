@@ -26,7 +26,7 @@ Three answering strategies are compared with the same prompting scheme and two L
 
 The code also keeps the other strategies of the underlying framework: `fix-length-retrieval`, `fix-sentence-retrieval`, `token`, `entity`.
 
-> ⚠️ **This is a feasibility study, not a benchmark.** Results are qualitative and based on a small number of queries. See [Results and observations](#8-results-and-observations) and [Limitations](#10-limitations).
+> ⚠️ **This is a feasibility study, not a benchmark.** Results are qualitative and based on a small number of queries.
 
 ---
 
